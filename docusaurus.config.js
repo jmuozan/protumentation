@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Programacio',
+  title: 'motles i reproduccions',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -23,11 +23,11 @@ const config = {
   url: 'https://jmuozan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/programacio/',
+  baseUrl: '/motles_i_reproduccions/',
 
   // GitHub pages deployment config.
   organizationName: 'jmuozan', // GitHub org/user name.
-  projectName: 'programacio', // Repo name.
+  projectName: 'motles_i_reproduccions', // Repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jmuozan/programacio/tree/main/',
+            'https://github.com/jmuozan/motles_i_reproduccions/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -59,7 +59,7 @@ const config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/jmuozan/programacio/tree/main/',
+            'https://github.com/jmuozan/motles_i_reproduccions/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -95,7 +95,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/jmuozan/programacio',
+            href: 'https://github.com/jmuozan/motles_i_reproduccions',
             label: 'GitHub',
             position: 'right',
           },
@@ -139,7 +139,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/jmuozan/programacio',
+                href: 'https://github.com/jmuozan/motles_i_reproduccions',
               },
             ],
           },
