@@ -1,6 +1,6 @@
-# Temaris Oposicions Arts Plàstiques i Disseny
+# Prototipatge
 
-Benvingut/da a la col·lecció de temaris per a les oposicions d'**Arts Plàstiques i Disseny** de Catalunya.
+Benvingut/da a la col·lecció 
 
 ## Especialitats disponibles
 

@@ -43,7 +43,7 @@ soldadura làser.
 - [ ] Fonaments d'enginyeria inversa: definició, aplicacions i beneficis en la indústria.
 - [ ] Digitalització 3D i reconstrucció de models: escaneig 3D, tècniques de reconstrucció i programari.
 
-## Mòdul 8: Ofimàtica i informàtica aplicada
+## Mòdul 8. Ofimàtica i informàtica aplicada
 - [ ] Coneixements bàsics d'ofimàtica: Windows, Word, Excel, PowerPoint.
 - [ ] Coneixements complementaris d'informàtica: Autocad, Mastercam, programari de disseny i simulació.
 

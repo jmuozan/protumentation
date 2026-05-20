@@ -40,13 +40,20 @@ repo_url: https://github.com/jmuozan/motles_i_reproduccions
 nav:
   - Inici: index.md
   - Temaris:
-    - Ceràmica i Vidre: temaris/ceramica_i_vidre.md
-    - Dibuix Tècnic: temaris/dibuix_tecnic.md
-    - Disseny: temaris/disseny.md
-    - Disseny de Producte: temaris/disseny_de_producte.md
-    - Modelisme i Maquetisme: temaris/modelisme_i_maquetisme.md
-    - Motles i Reproduccions: temaris/motles_i_reproduccions.md
-    - Volum: temaris/volum.md
+    - Mòdul 1. Metrologia i normalització: temaris/ceramica_i_vidre.md
+    - Mòdul 2. Processos d'emmotlament i fosa: temaris/dibuix_tecnic.md
+    - Mòdul 3. Conformació de materials: temaris/disseny.md
+    - Mòdul 4. Processos d'unió: temaris/disseny_de_producte.md
+    - Mòdul 5. Processos de mecanització i control numèric: temaris/modelisme_i_maquetisme.md
+    - Mòdul 6. Fabricació additiva: temaris/motles_i_reproduccions.md
+    - Mòdul 7. Enginyeria inversa: temaris/volum.md
+    - Mòdul 8. Ofimàtica i informàtica aplicada: 
+    - Mòdul 9. Seguretat i salut:
+    - Mòdul 10. Control de qualitat i gestió de laboratori:
+  - Bibliografia: bibliografia.md
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search:
