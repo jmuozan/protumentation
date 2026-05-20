@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprogramacio=self.webpackChunkprogramacio||[]).push([["4185"],{8187(o){o.exports=JSON.parse('{"metadata":{"permalink":"/motles_i_reproduccions/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

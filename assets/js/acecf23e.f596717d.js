@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprogramacio=self.webpackChunkprogramacio||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/motles_i_reproduccions/blog","blogTitle":"Blog","authorsListPath":"/motles_i_reproduccions/blog/authors"}')}}]);
