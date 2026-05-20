@@ -1,0 +1,69 @@
+site_name: Temaris Oposicions
+site_description: Materials per a les oposicions d'Arts Plàstiques i Disseny
+site_author: Jorge Muyo
+site_url: https://jmuozan.github.io/motles_i_reproduccions/
+
+theme:
+  name: material
+  language: ca
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Canvia a mode fosc
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Canvia a mode clar
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+repo_name: jmuozan/motles_i_reproduccions
+repo_url: https://github.com/jmuozan/motles_i_reproduccions
+
+nav:
+  - Inici: index.md
+  - Temaris:
+    - Ceràmica i Vidre: temaris/ceramica_i_vidre.md
+    - Dibuix Tècnic: temaris/dibuix_tecnic.md
+    - Disseny: temaris/disseny.md
+    - Disseny de Producte: temaris/disseny_de_producte.md
+    - Modelisme i Maquetisme: temaris/modelisme_i_maquetisme.md
+    - Motles i Reproduccions: temaris/motles_i_reproduccions.md
+    - Volum: temaris/volum.md
+
+plugins:
+  - search:
+      lang: ca
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jmuozan
