@@ -1,6 +1,6 @@
 site_name: Temaris Oposicions
 site_description: Materials per a les oposicions d'Arts Plàstiques i Disseny
-site_author: Jorge Muyo
+site_author: Jorge Muñoz Zanón
 site_url: https://jmuozan.github.io/motles_i_reproduccions/
 
 theme:
@@ -40,16 +40,16 @@ repo_url: https://github.com/jmuozan/motles_i_reproduccions
 nav:
   - Inici: index.md
   - Temaris:
-    - Mòdul 1. Metrologia i normalització: temaris/ceramica_i_vidre.md
-    - Mòdul 2. Processos d'emmotlament i fosa: temaris/dibuix_tecnic.md
-    - Mòdul 3. Conformació de materials: temaris/disseny.md
-    - Mòdul 4. Processos d'unió: temaris/disseny_de_producte.md
-    - Mòdul 5. Processos de mecanització i control numèric: temaris/modelisme_i_maquetisme.md
-    - Mòdul 6. Fabricació additiva: temaris/motles_i_reproduccions.md
-    - Mòdul 7. Enginyeria inversa: temaris/volum.md
-    - Mòdul 8. Ofimàtica i informàtica aplicada: 
-    - Mòdul 9. Seguretat i salut:
-    - Mòdul 10. Control de qualitat i gestió de laboratori:
+    - Mòdul 1. Metrologia i normalització: temaris/1_metrologia.md
+    - Mòdul 2. Processos d'emmotlament i fosa: temaris/2_motlles.md
+    - Mòdul 3. Conformació de materials: temaris/3_conformacio.md
+    - Mòdul 4. Processos d'unió: temaris/4_unio.md
+    - Mòdul 5. Processos de mecanització i control numèric: temaris/5_cnc.md
+    - Mòdul 6. Fabricació additiva: temaris/6_additiva.md
+    - Mòdul 7. Enginyeria inversa: temaris/7_enginversa.md
+    - Mòdul 8. Informàtica aplicada CAD: temaris/8_cad.md
+    - Mòdul 9. Seguretat i salut: temaris/9_seguretat.md
+    - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/10_qualitat.md
   - Bibliografia: bibliografia.md
 
 extra_css:
