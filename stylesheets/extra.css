@@ -1,0 +1,9 @@
+.md-footer,
+.md-footer-meta {
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-footer,
+[data-md-color-scheme="slate"] .md-footer-meta {
+  background-color: var(--md-primary-fg-color) !important;
+}
