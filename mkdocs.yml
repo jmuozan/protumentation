@@ -1,7 +1,7 @@
-site_name: Temaris Oposicions
-site_description: Materials per a les oposicions d'Arts Plàstiques i Disseny
+site_name: Protumentació
+site_description: Documentació per prototipar
 site_author: Jorge Muñoz Zanón
-site_url: https://jmuozan.github.io/motles_i_reproduccions/
+site_url: https://jmuozan.github.io/protumentation/
 
 theme:
   name: material
@@ -34,8 +34,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_name: jmuozan/motles_i_reproduccions
-repo_url: https://github.com/jmuozan/motles_i_reproduccions
+repo_name: jmuozan/protumentation
+repo_url: https://github.com/jmuozan/protumentation
 
 nav:
   - Inici: index.md
