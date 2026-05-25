@@ -40,16 +40,16 @@ repo_url: https://github.com/jmuozan/protumentation
 nav:
   - Inici: index.md
   - Temaris:
-    - Mòdul 1. Metrologia i normalització: temaris/1_metrologia.md
-    - Mòdul 2. Processos d'emmotlament i fosa: temaris/2_motlles.md
-    - Mòdul 3. Conformació de materials: temaris/3_conformacio.md
-    - Mòdul 4. Processos d'unió: temaris/4_unio.md
-    - Mòdul 5. Processos de mecanització i control numèric: temaris/5_cnc.md
-    - Mòdul 6. Fabricació additiva: temaris/6_additiva.md
-    - Mòdul 7. Enginyeria inversa: temaris/7_enginversa.md
-    - Mòdul 8. Informàtica aplicada CAD: temaris/8_cad.md
-    - Mòdul 9. Seguretat i salut: temaris/9_seguretat.md
-    - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/10_qualitat.md
+    - Mòdul 1. Metrologia i normalització: temaris/metrologia/metrologia.md
+    - Mòdul 2. Processos d'emmotlament i fosa: temaris/motles/motlles.md
+    - Mòdul 3. Conformació de materials: temaris/conformacio/conformacio.md
+    - Mòdul 4. Processos d'unió: temaris/unio/unio.md
+    - Mòdul 5. Processos de mecanització i control numèric: temaris/cnc/cnc.md
+    - Mòdul 6. Fabricació additiva: temaris/additiva/additiva.md
+    - Mòdul 7. Enginyeria inversa: temaris/enginversa/enginversa.md
+    - Mòdul 8. Informàtica aplicada CAD: temaris/cad/cad.md
+    - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
+    - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
   - Bibliografia: bibliografia.md
 
 extra_css:
@@ -62,7 +62,11 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - attr_list
