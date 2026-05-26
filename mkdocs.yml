@@ -38,7 +38,11 @@ repo_name: jmuozan/protumentation
 repo_url: https://github.com/jmuozan/protumentation
 
 nav:
-  - Inici: index.md
+  - Benvingut/da: index.md
+  - Com faig el meu web?: 
+    - Principis i pràctiques: principis_i_practiques/intro/intro.md
+    - Gestió de projectes: principis_i_practiques/gestio/gestio.md
+    - Control de versions: principis_i_practiques/control/versioncontrol.md
   - Temaris:
     - Mòdul 1. Metrologia i normalització: temaris/metrologia/metrologia.md
     - Mòdul 2. Processos d'emmotlament i fosa: temaris/motles/motlles.md
@@ -50,6 +54,7 @@ nav:
     - Mòdul 8. Informàtica aplicada CAD: temaris/cad/cad.md
     - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
     - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
+  - Estudiants: estudiants/estudiants.md
   - Bibliografia: bibliografia.md
 
 extra_css:

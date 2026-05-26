@@ -74,9 +74,6 @@ graph TB
     F --> G["Es reutilitzen"]:::feature
     G --> H["Fabricació en sèrie (lots)"]:::feature
     H --> I["Dues parts separables entre si"]:::feature
-
-    classDef material fill:#ffffff,stroke:#999,color:#444,font-style:italic
-    classDef feature fill:#c8d8f0,stroke:#2980b9,color:#000
 ```
 
 Independentment del tipus de motle, sempre es trobaran els següents elements comuns:
@@ -122,7 +119,8 @@ Independentment del tipus de motle, sempre es trobaran els següents elements co
 
 ## Bibliografia
 
-- UPV. *Fundamentos de los Procesos de Fundición de Metales* [Vídeo]. YouTube. https://youtu.be/-EuZoQcHX0A
-- UPV. *Fundición en molde permanente* [Vídeo]. YouTube. https://youtu.be/lrIecu0Dz0o
-- UPV. *Fundición en arena* [Vídeo]. YouTube. https://youtu.be/Dj3IjAELAF0
-- UPV. *Moldeo en arena verde* [Vídeo]. YouTube. https://youtu.be/FIgRubIrEnc
+- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundamentos de los Procesos de Fundición de Metales [Vídeo]. YouTube. https://youtu.be/-EuZoQcHX0A
+- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en molde permanente [Vídeo]. YouTube. https://youtu.be/lrIecu0Dz0o
+- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en arena [Vídeo]. YouTube. https://youtu.be/Dj3IjAELAF0
+- Boronat Vitoria, T., Ivorra Martínez, J., Quiles Carrillo, L. J., & Torres Giner, S. [Universitat Politècnica de València - UPV]. (2021, 27 de març). Moldeo en arena verde [Vídeo]. YouTube. https://youtu.be/FIgRubIrEnc
+- Fab Academy. (2024). Molding and casting. The Center for Bits and Atoms (CBA), MIT. https://academy.cba.mit.edu/classes/molding_casting/index.html
