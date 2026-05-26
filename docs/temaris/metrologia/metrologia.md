@@ -1,6 +1,4 @@
-# Ceràmica i Vidre
-
-Temari oficial per a l'especialitat de **Ceràmica i Vidre** de les oposicions d'Arts Plàstiques i Disseny.
+# Metrologia i normalització 
 
 <object data="../../temaris_opos/CERAMICA_I_VIDRE.pdf" type="application/pdf" width="100%" height="800px">
   <p>El teu navegador no pot mostrar PDFs. 

@@ -68,7 +68,8 @@
 - [ ] 7. L'estètica industrial i el disseny industrial nord-americà.
 - [ ] 8. Disseny actual a Europa. Particularitats del disseny italià i escandinau. Repercussions.
 - [ ] 9. El disseny industrial a Espanya. Autors, sectors i tendències.
-- [ ] 10. Arquitectura del ﬁnal del segle XX - XXI. Presència de la maqueta en el desenvolupament de
+
+- [ ] 10. Arquitectura del ﬁnal del segle XX - XXI. Presència de la maqueta en el desenvolupament de
 projectes d'arquitectura.
 - [ ] 11. La maqueta. Funcions. Tipus de maquetes: de concepte, de treball i d'execució. Les seues aplicacions especíﬁques.
 
@@ -132,7 +133,7 @@ projectes d'arquitectura.
 ## Mòdul 8. CNC
 - [ ] 57. Tecnologies de control numèric per a l'elaboració de models i maquetes. Impressora de sòlids. Plòter de tall. Plòter 3D.
 
-## Mòdul 9. Gestió de taller
+# Mòdul 9. Gestió de taller
 - [ ] 58. Els riscos generals en la feina i la seua prevenció. Els factors de risc i les condicions de treball. Els principis de l'acció preventiva. L'organització de la prevenció. Mètodes de protecció i prevenció. Estris personals de protecció i dispositius de seguretat en la maquinària.
 - [ ] 59. El taller de modelisme i maquetisme. Equip, eines i materials. Organització i operacions de manteniment bàsic dels equips del taller. Organització i distribució del treball. Normes de seguretat i higiene. Toxicitat dels materials.
 - [ ] 60. Protecció mediambiental, tractament de residus. Aproﬁtament i eliminació de residus.

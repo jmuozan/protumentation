@@ -1,6 +1,4 @@
-# Motles i Reproduccions
-
-Temari oficial per a l'especialitat de **Motles i Reproduccions** de les oposicions d'Arts Plàstiques i Disseny.
+# Fabricació additiva 
 
 <object data="../../temaris_opos/MOTLES_I_REPRODUCCIONS.pdf" type="application/pdf" width="100%" height="800px">
   <p>El teu navegador no pot mostrar PDFs. 
