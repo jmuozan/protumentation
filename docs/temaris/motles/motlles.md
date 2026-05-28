@@ -1,6 +1,6 @@
 # Processos d'emmotlament i fosa
 
-## Fonaments de la conformació per emmotlament: característiques, materials i disseny de sistemes.
+## Fonaments de la conformació per emmotlament: característiques i disseny de sistemes.
 
 ``` mermaid
 graph LR
@@ -40,15 +40,6 @@ stateDiagram-v2
 - Es requereixen grans mesures de seguretat, ja que es tracta d'un procés amb alts riscos
 - Gran part dels processos d'emmotlament tenen una baixa precisió i un deficient acabat superficial, tot i que existeixen els anomenats processos de precisió, els quals milloren aquests aspectes.
 
-### Materials
-
-<figure markdown="span">
-    ![](./img/motle_guix.jpg){ width="300" }
-    <figcaption>Foto de ThisIsEngineering: https://www.pexels.com/ca-es/foto/home-persona-disseny-preparacio-3913008/</figcaption>
-</figure>
-
-L'emmotlament permet l'ús de qualsevol metall o aliatge, sempre que aquest puga fondre's sense problema.
-
 ### Disseny de sistemes
 
 La part essencial del procés d'emmotlament és el motle. Aquest disposa de les següents característiques:
@@ -60,20 +51,39 @@ La part essencial del procés d'emmotlament és el motle. Aquest disposa de les 
 !!! warning "Sobredimensionament"
     El motle està sobredimensionat, ja que alguns materials (sobretot els metàl·lics) es contrauen.
 
+## Materials
+
+### El guix. Varietats. L'escaiola. Característiques i propietats. Aplicació i usos en models, maquetes i prototips.
+
+### Metalls i aliatges
+
+L'emmotlament permet l'ús de qualsevol metall o aliatge, sempre que aquest puga fondre's sense problema.
+
+### Polímers
+
+### Compòsits
+
+
+
+<figure markdown="span">
+    ![](./img/motle_guix.jpg){ width="300" }
+    <figcaption>Foto de ThisIsEngineering: https://www.pexels.com/ca-es/foto/home-persona-disseny-preparacio-3913008/</figcaption>
+</figure>
+
 ### Classificació segons tipus d'emmotlament
 
 ``` mermaid
 graph TB
-    A["Processos de motle d'un sol ús"]:::desechable
-    A --> B["motlles d'arena, guix o<br>materials similars"]:::material
-    B --> C["Es fabrica cada vegada"]:::feature
-    C --> D["Es destrueix en l'extracció<br>de la peça"]:::feature
+    A["Processos de motle d'un sol ús"]
+    A --> B["motlles d'arena, guix o<br>materials similars"]
+    B --> C["Es fabrica cada vegada"]
+    C --> D["Es destrueix en l'extracció<br>de la peça"]
 
-    E["Processos de motle permanent"]:::permanent
-    E --> F["motles de metall o ceràmica"]:::material
-    F --> G["Es reutilitzen"]:::feature
-    G --> H["Fabricació en sèrie (lots)"]:::feature
-    H --> I["Dues parts separables entre si"]:::feature
+    E["Processos de motle permanent"]
+    E --> F["motles de metall o ceràmica"]
+    F --> G["Es reutilitzen"]
+    G --> H["Fabricació en sèrie (lots)"]
+    H --> I["Dues parts separables entre si"]
 ```
 
 Independentment del tipus de motle, sempre es trobaran els següents elements comuns:
@@ -102,20 +112,186 @@ Independentment del tipus de motle, sempre es trobaran els següents elements co
 
 **7. Massalota:** Dipòsits de material que es col·loquen en els llocs del motlle que són crítics, és a dir, que tendeixen a generar xuclets i aporten material per evitar-los
 
+***Aleshores, què s'ha de tindre en compte a l'hora de dissenyar un motle?***
 
-## Tècniques de fosa especials: fosa a pressió, en conquilla i centrífuga. Conformació per emmotlament en arena: tipus d'arena, control i preparació.
+``` mermaid
+graph TB
+    A["Objectius"]
+    A --> B["Plenar completament la cavitat"]
+    B --> C["Evitar la solidificació a la fase de colada"]
+    C --> D["Evitar defectes a la peça"]
 
-## Qualitat en peces foses: classificació de defectes i regles de disseny.
+    E["Condicionat per"]
+    E --> F["Temperatura de sobrecalfament"]
+    F --> G["Temps d'emplenat i velocitat de colada"]
+    G --> H["Turbulència del flux"]
+```
 
-## El guix. Varietats. L'escaiola. Característiques i propietats. Aplicació i usos en models, maquetes i prototips.
+## Tècniques de fosa
 
-## Sistemes de reproducció mitjançant motles. Tipus de motles. Sistemes de separació de peces i normes generals per al traçat de juntes.
+### Emmotlament per inversió de motle
 
-## Els materials aïllants i adobadors. Greixos. Desblocadors.
+Aquest procés consiteix a l'emplenament total del motle, una posterior espera perquè es solidifique l'exterior del material en contacte amb les parets del motle i un buidat posterior del material no solidificat per obtindre una peça buida a l'interior.
 
-## Motles per a ceràmica. Buidatge pels procediments de barbotina i estreta.
+<figure markdown="span">
+    ![](./img/inversio.png){ width="800" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/lrIecu0Dz0o?si=m8ocvvKotGV6MhnR</figcaption>
+</figure>
 
-## Motles per a fosa a la cera perduda. Motles per a fosa a l’arena.
+<figure markdown="span">
+    ![](./img/buidat.jpg){ width="800" }
+    <figcaption>Foto de Diccionario de cerámica: http://ceramicdictionary.com/es/v/4027/vaciado-mesas-barbotina-moldes.</figcaption>
+</figure>
+
+Ací un exemple fantàstic d'aquest procés amb resina. ***Cal tindre en compte però que pot ser utilitzat també amb metalls.***
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/HV_zu_jPk88?si=7ybtta6wOBNnNTso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+I ací un altre exemple. En aquesta es "pinta" el motle diverses vegades fins aconseguir l'espesor desitjat en compte de emplenar-lo sencer i buidar-lo.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/oUxIkeqJ6ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+La inversió permet produir:
+
+- Objectes de gran dimensió
+- Objectes amb gran detall geomètric
+- Rugositats mitjanes 
+- Bones toleràncies
+
+!!! warning "Producció en sèrie"
+    Aquest tipus d'emmotlament permet una producció en sèrie limitada. Com que cal esperar un temps de solidificació abans d'extraure les peces, no es podrà realitzar una producció ràpida.
+
+### Emmotlament per injecció 
+
+En aquest procés s'utilitza la pressió per plenar la cavitat. Pot aplicar-se bé amb polímers o bé amb metalls o aliatges (encara que no tots els tipus poden ser utilitzats)
+
+<figure markdown="span">
+    ![](./img/injeccio.gif){ width="800" }
+    <figcaption>Foto de Kuraray: https://www.elastomer.kuraray.com/es/blog/injection-molding/.</figcaption>
+</figure>
+
+El procés es fa mitjançant la fusió del material fins aconseguir la viscositat per que fluisca, injecció al motle (mitjançant l'aplicació de pressió) i l'enfredament.
+
+La injecció pot produir-se a cambra calenta o freda.
+
+``` mermaid
+graph TB
+    A["Cambra calenta"]
+    A --> B["Materials de baix punt de fusió"]
+    B --> C["Pressions baixes"]
+    C --> D["Forn de fusió al mateix equip d'emmotlament"]
+
+    E["Cambra freda"]
+    E --> F["Materials d'alt i baix punt de fusió"]
+    F --> G["Pressions elevades"]
+    G --> H["Forn de fusió separat"]
+```
+
+<figure markdown="span">
+    ![](./img/cambra_calenta_i_freda.jpg){ width="800" }
+    <figcaption>Foto de Pro-lean: https://proleantech.com/die-casting-vs-injection-molding/.</figcaption>
+</figure>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/3dXL4LIm2Js?si=plTlUjwN9SqMbTW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+La inversió permet produir:
+
+- Un bon detall geomètric
+- Molt bones toleràncies
+- Rugositats xicotetes
+- Una massa limitada
+
+### Emmotlament al buit
+
+Aquest sistema consisteix a utilitzar el buit per emplenar la cavitat del motle. De vegades també pot utilitzar-se la pressió per introduir el material fos. 
+Els motles en aquest porcés estan fets principalment de grafit i arena fina i els resultats són peces amb gruixos prims.
+
+<figure markdown="span">
+    ![](./img/al_buit.jpg){ width="600" }
+    <figcaption>Foto de Industrial Quick Search: https://www.iqsdirectory.com/articles/permanent-mold-castings.html.</figcaption>
+</figure>
+
+Amb aquest mètode, també s'eviten les reaccions químiques que l'atmòsfera puga tindre amb el metall fos.
+
+El buit permet:
+
+- Un bon detall geomètric
+- Molt bones toleràncies
+- Rugositats xicotetes
+- Una massa limitada
+- Producció en sèrie limitada
+
+### Emmotlament per centrifugació
+
+L'emmotlament per centrifugació utilitza la inercia del gir per l'emplenament dels motles. Aquestos generalment són metàl·lics o de grafit. L'emmotlament presenta toleràncies bones, nivell de detall limitat i rugositats altes.
+
+Hi ha diverses classificacions per aquest procés:
+
+#### Centrífuga
+
+<figure markdown="span">
+    ![](./img/centrifuga.jpg){ width="600" }
+    <figcaption>Foto de Rapiddirect: https://www.rapiddirect.com/es/blog/centrifugal-casting/.</figcaption>
+</figure>
+
+#### Semicentrifuga
+
+Presenta un eix de simetria central per on s'introdueix el metall fos. Tot l'aire i gassos queden atrapats a la zona central.
+
+<figure markdown="span">
+    ![](./img/semicentrifuga.jpg){ width="600" }
+    <figcaption>Foto de procesosiupsmmm: https://procesosiupsmmm.blogspot.com/2017/02/fundicion-de-metales.html.</figcaption>
+</figure>
+
+#### Centrifugada
+
+No genera geometries de revolució. Projecció provoca l'emplenat.
+
+<figure markdown="span">
+    ![](./img/centrifugada.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/lrIecu0Dz0o?si=Y6Qg6EUYf7450H2S.</figcaption>
+</figure>
+
+### Emmotlament en conquilla 
+
+La fosa en conquilla és un procés en el qual el metall s'aboca per gravetat en un motle de ferro fos (conquilla). Això permet que un sol motlle es puga reutilitzar moltes vegades. El procés permet obtenir un bon acabat superficial i un control dimensional més precís.
+
+La ràpida solidificació gràcies al motlle metàl·lic dona com a resultat una estructura de gra més fi, per la qual cosa es produeixen peces foses més resistents i de millors propietats mecàniques
+
+<figure markdown="span">
+    ![](./img/conquilla.jpg){ width="600" }
+    <figcaption>Foto de Fundiciones Zabala: https://www.fundicioneszabala.com/es/home/.</figcaption>
+</figure>
+
+### Emmotlament en arena
+
+
+tipus d'arena, control i preparació.
+
+### Emmotlament a la cera perduda. 
+
+<figure markdown="span">
+    ![](./img/cera_perduda_proces.jpg){ width="800" }
+    <figcaption>Foto de HDC Manufacturing: https://hdcmfg.com/wp-content/uploads/2024/03/Lost-Wax-Casting-2.webp</figcaption>
+</figure>
+
+## Sistemes
+
+### Reproducció mitjançant motles. 
+
+### Sistemes de separació de peces i normes generals per al traçat de juntes.
+
+### Els materials aïllants i adobadors. Greixos. Desblocadors.
+
+### Motles per a ceràmica. Buidatge pels procediments de barbotina i estreta.
+
+### Qualitat en peces foses: classificació de defectes i regles de disseny.
 
 ## Bibliografia
 
@@ -124,3 +300,4 @@ Independentment del tipus de motle, sempre es trobaran els següents elements co
 - Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en arena [Vídeo]. YouTube. https://youtu.be/Dj3IjAELAF0
 - Boronat Vitoria, T., Ivorra Martínez, J., Quiles Carrillo, L. J., & Torres Giner, S. [Universitat Politècnica de València - UPV]. (2021, 27 de març). Moldeo en arena verde [Vídeo]. YouTube. https://youtu.be/FIgRubIrEnc
 - Fab Academy. (2024). Molding and casting. The Center for Bits and Atoms (CBA), MIT. https://academy.cba.mit.edu/classes/molding_casting/index.html
+- https://www.alianzametalurgica.com/fundicion-en-coquilla/
