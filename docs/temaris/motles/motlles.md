@@ -1,6 +1,6 @@
 # Processos d'emmotlament i fosa
 
-## Fonaments de la conformació per emmotlament: característiques i disseny de sistemes.
+## Fonaments de la conformació per emmotlament
 
 ``` mermaid
 graph LR
@@ -143,7 +143,7 @@ Aquest procés consiteix a l'emplenament total del motle, una posterior espera p
     <figcaption>Foto de Diccionario de cerámica: http://ceramicdictionary.com/es/v/4027/vaciado-mesas-barbotina-moldes.</figcaption>
 </figure>
 
-Ací un exemple fantàstic d'aquest procés amb resina. ***Cal tindre en compte però que pot ser utilitzat també amb metalls.***
+Ací un exemple fantàstic d'aquest procés amb resina. ***Cal tindre en compte, però que pot ser utilitzat també amb metalls.***
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
     <iframe src="https://www.youtube.com/embed/HV_zu_jPk88?si=7ybtta6wOBNnNTso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
@@ -271,8 +271,85 @@ La ràpida solidificació gràcies al motlle metàl·lic dona com a resultat una
 
 ### Emmotlament en arena
 
+L'emmotlament en arena és un procés d'emmotlament mitjançant la creació d'un motle d'un sol ús, el qual es fabrica amb sorra, aglomerant i aigua.
 
-tipus d'arena, control i preparació.
+<figure markdown="span">
+    ![](./img/arena_1.jpg){ width="500" }
+    <figcaption>Foto de Casting Services: casting-services.com.</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/arena_2.png){ width="700" }
+    <figcaption>Foto de Fundición Metrologia Blogspot: fundicionmetrologia.blogspot.com.</figcaption>
+</figure>
+
+L'emmotlament d'arena es pot classificar en dos tipus:
+
+``` mermaid
+graph TB
+    A["Arena en verd"]
+    A --> B["L'arena és humida"]
+    B --> C["Materials amb baix punt de fusió"]
+    C --> D["Peces xicotetes"]
+
+    E["Arena seca"]
+    E --> F["Arena sense humitat (pot haver estat secada superficialment o en estufa)"]
+    F --> G["Materials amb alt punt de fusió"]
+    G --> H["Peces grans"]
+```
+
+Aquest procés és un dels més versàtils, puix que pot ser utilitzar amb qualsevol tipus d'aliatge. Tot i així, el detall geomètric, les toleràncies i rugositats de les peces acabades, no és tan bo com en altres processos. A banda, el fet que es tracte d'un procés detructiu, provoca que la producció en sèrie no és viable.
+
+``` mermaid
+graph TB
+    A["Fabricació<br>del model"] --> C["Fabricació del motle"]
+    B["Preparació<br>de l'arena"] --> C
+    D["Fabricació<br>dels mascles"] --> E["Muntatge del motle"]
+    C --> E
+    E --> F["Colada"]
+    G["Fusió del<br>metall/aliatge"] --> F
+    F --> H["Solidificació i<br>refredament"]
+    H --> I["Desmotlament"]
+    I --> J["Neteja, desbarbament<br>i inspecció"]
+```
+
+Per la realització dels motles es compacta la sorra arreu dels models de les peces. 
+
+<figure markdown="span">
+    ![](./img/models.jpg){ width="600" }
+    <figcaption>Foto de procesosiupsmmm: https://procesosiupsmmm.blogspot.com/2017/02/fundicion-de-metales.html.</figcaption>
+</figure>
+
+!!! warning "Important!!"
+    Als models, cal incloure els elements necessaris explicats als criteris de creació de motles (massalotes, atacs, pous, abeuradors...) abans de realitzar la compactació de la sorra. 
+
+A l'emmotlament, doncs, el model és la part més important. Aquest ha de reproduir la peça desitjada i ha d'estar fet d'un material resistent (com fusta o plàstics) amb l'objectiu de poder reutilitzar-lo. 
+Per realitzar un bon model cal aplicar un sobredimensionat respecte de la peça que es vol assolir, un àngle de desemmotlament per poder extraure el model una vegada compactada la sorra i cal incloure tots els elements característics del motle, a fi d'aconseguir una bona colada i solidificació.
+
+L'altre aspecte important són els mascles. En peces on l'interior és buit, els mascles, fets d'arena, es col·loquen a l'interior del motle abans de fer la colada. Aquests són d'un sol ús, ja que queden atrapats dins la peça produïda, són de sorra i aglomerants i es conformen mitjançant l'ús d'una caixa de mascles.
+
+<figure markdown="span">
+    ![](./img/monografia_fosa_sorra.jpg){ width="600" }
+    <figcaption>Foto de Monografias: https://www.monografias.com/trabajos94/principales-metodos-fundicion-metales/principales-metodos-fundicion-metales.</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/peca_mascle.jpg){ width="600" }
+    <figcaption>Foto de Fundiciones Toro Ramiro: https://www.garruchastoro.com/moldeo-en-arena-verde/.</figcaption>
+</figure>
+
+Els mascles han de poder suportar pressions elevades, ser fàcilement disgregables i poder suportar tots els gasos del procés, per aquesta raó deu ser prou porós. 
+
+<figure markdown="span">
+    ![](./img/mascles.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/Dj3IjAELAF0.</figcaption>
+</figure>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/FIgRubIrEnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
 
 ### Emmotlament a la cera perduda. 
 
@@ -280,6 +357,15 @@ tipus d'arena, control i preparació.
     ![](./img/cera_perduda_proces.jpg){ width="800" }
     <figcaption>Foto de HDC Manufacturing: https://hdcmfg.com/wp-content/uploads/2024/03/Lost-Wax-Casting-2.webp</figcaption>
 </figure>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/N2ZUu34i1ac?si=I0ZUWNagxx2d2I1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/dcGzK9Q7Gkw?si=s7EEA2beDiexv2mr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Sistemes
 
@@ -301,3 +387,4 @@ tipus d'arena, control i preparació.
 - Boronat Vitoria, T., Ivorra Martínez, J., Quiles Carrillo, L. J., & Torres Giner, S. [Universitat Politècnica de València - UPV]. (2021, 27 de març). Moldeo en arena verde [Vídeo]. YouTube. https://youtu.be/FIgRubIrEnc
 - Fab Academy. (2024). Molding and casting. The Center for Bits and Atoms (CBA), MIT. https://academy.cba.mit.edu/classes/molding_casting/index.html
 - https://www.alianzametalurgica.com/fundicion-en-coquilla/
+- https://dawangmetals.com/es/resources/types-of-sand-used-in-casting/#the-most-common-types-of-sand-used-in-casting

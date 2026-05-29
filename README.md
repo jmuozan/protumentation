@@ -8,9 +8,9 @@
 - [ ] 5. Calibratge i verificació d'instruments de mesura: mètodes, equips i certificació del calibratge.
 
 ## Mòdul 2. Processos d'emmotlament i fosa
-- [ ] 6. Fonaments de la conformació per emmotlament: característiques, materials i disseny de sistemes.
+- [x] 6. Fonaments de la conformació per emmotlament: característiques, materials i disseny de sistemes.
 - [ ] 7. Conformació per emmotlament en arena: tipus d'arena, control i preparació.
-- [ ] 8. Tècniques de fosa especials: fosa a pressió, en conquilla i centrífuga.
+- [x] 8. Tècniques de fosa especials: fosa a pressió, en conquilla i centrífuga.
 - [ ] 9. Qualitat en peces foses: classificació de defectes i regles de disseny.
 
 ## Mòdul 3. Conformació de materials
@@ -132,7 +132,7 @@ projectes d'arquitectura.
 ## Mòdul 8. CNC
 - [ ] 57. Tecnologies de control numèric per a l'elaboració de models i maquetes. Impressora de sòlids. Plòter de tall. Plòter 3D.
 
-## Mòdul 9. Gestió de taller
+Mòdul 9. Gestió de taller
 - [ ] 58. Els riscos generals en la feina i la seua prevenció. Els factors de risc i les condicions de treball. Els principis de l'acció preventiva. L'organització de la prevenció. Mètodes de protecció i prevenció. Estris personals de protecció i dispositius de seguretat en la maquinària.
 - [ ] 59. El taller de modelisme i maquetisme. Equip, eines i materials. Organització i operacions de manteniment bàsic dels equips del taller. Organització i distribució del treball. Normes de seguretat i higiene. Toxicitat dels materials.
 - [ ] 60. Protecció mediambiental, tractament de residus. Aproﬁtament i eliminació de residus.
