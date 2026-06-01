@@ -55,10 +55,26 @@ La part essencial del procés d'emmotlament és el motle. Aquest disposa de les 
 
 ### El guix. Varietats. L'escaiola. Característiques i propietats. Aplicació i usos en models, maquetes i prototips.
 
+El guix és sulfat de calci hidratat, el qual es calcina a certa temperatura perquè perda part de la seua aigua.
+
 <figure markdown="span">
     ![](./img/motle_guix.jpg){ width="300" }
     <figcaption>Foto de ThisIsEngineering: https://www.pexels.com/ca-es/foto/home-persona-disseny-preparacio-3913008/</figcaption>
 </figure>
+
+El guix, cal endurir-lo, per això, cal seguir dos fases. En primer lloc, es barreja el guix amb aigua per obtindre una pasta. A continuació, depenent de la quantitat d'aigua utilitzada, el guix s'assecarà i passarà a comportar-se com rigidament. 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/eu6X5Azh_WQ?si=jlQUwFZCwQYjfLB1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+El guix és un material aplicable a gran part dels processos d'emmotlament que es veuran a continuació. Exceptuant els processos propis de metalls i aliatges o els d'injecció de polimers.
+
+Ací disposeu d'un munt de exemples d'emmotlament amb guix: https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/y2cV2kMrzCk?si=f0-4MgqpQ5wIMj7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ### Metalls i aliatges
 
@@ -430,6 +446,25 @@ Finalment, amb la colada solidificada, es trenca la corfa, i es treballa la repr
 
 ### Reproducció mitjançant motles. 
 
+Els motles presenten una oportunitat una gran oportunitat per la reproducció de peces existents, puix que permeten fer sèries xicotetes. Gràcies als diversos tipus de silicona disponibles, la reproducció de peces és prou assolible. 
+
+<figure markdown="span">
+    ![](./img/simsi_1.jpg){ width="400" }
+    <figcaption>Foto de Simsi: https://fabacademy.org/2025/labs/barcelona/students/camila-simsiroglu/assignments/week%2013.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/simsi_3.jpg){ width="400" }
+    <figcaption>Foto de Simsi: https://fabacademy.org/2025/labs/barcelona/students/camila-simsiroglu/assignments/week%2013.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/simsi_4.jpg){ width="400" }
+    <figcaption>Foto de Simsi: https://fabacademy.org/2025/labs/barcelona/students/camila-simsiroglu/assignments/week%2013.html</figcaption>
+</figure>
+
+Ací un exemple de l'aplicació de la silicona per reproducció mitjançant colada de bismut.
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
     <iframe src="https://www.youtube.com/embed/dcGzK9Q7Gkw?si=s7EEA2beDiexv2mr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
@@ -459,24 +494,45 @@ Si escau, el motle caldrà partir-ho
     <figcaption>Foto de FabAcademy: https://fabacademy.org/2026/classes/molding_casting/foosball.png</figcaption>
 </figure>
 - Garantir angles de desmotllament adequats (entre 1° i 3° en fosa en arena; 0,5°–5° en injecció de polímers).
-<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="./img/demolding_1.png" width="400">
-    <figcaption>Figura 1: Foto de Altair Inspire Cast User Guide: https://help.altair.com/cast/en_us/topics/cast/casting/select_demolding_axis_t.htm</figcaption>
-  </figure>
-  <figure style="margin: 0; text-align: center;">
-    <img src="./img/demolding_2.png" width="400">
-  </figure>
-  <figcaption>Figura 2: Foto de Altair Inspire Cast User Guide: https://help.altair.com/cast/en_us/topics/cast/casting/select_demolding_axis_t.htm</figcaption>
-</div>
+<figure style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+  <div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;">
+    <img src="./img/1_demolding.png" width="400">
+    <img src="./img/2_demolding.png" width="400">
+  </div>
+  <figcaption>Foto de Altair Inspire Cast User Guide: https://help.altair.com/cast/en_us/topics/cast/casting/select_demolding_axis_t.htm</figcaption>
+</figure>
 
 - Facilitar el segellat de les dues meitats per evitar rebaves.
+
+Als contorns del motle, resulta interessant afegir algun sistema d'unió, amb l'objectiu d'aliniar les peces i també per intentar evitar les rebaves, uns dels problemes més habituals a l'hora de fer motles.
+
+<figure markdown="span">
+    ![](./img/rebaba.jpg){ width="800" }
+    <figcaption>Foto de Katya Castellanos: https://fabacademy.org/2025/labs/barcelona/students/katya-castellanos/weeks/week13.html</figcaption>
+</figure>
+
+Habitualment es realitzen bé connexions per punts o bé per contorn, l'alineació per contorn és més recomanable per motles "DIY". Ací uns exemples:
+
+<figure markdown="span">
+    ![](./img/lego_1.jpg){ width="800" }
+    <figcaption>Producció propia</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/lego_2.JPG){ width="800" }
+    <figcaption>Producció propia</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/lego_3.JPG){ width="800" }
+    <figcaption>Producció propia</figcaption>
+</figure>
 
 ### Els materials aïllants i adobadors. Greixos. Desblocadors.
 
 ### Motles per a ceràmica. Buidatge pels procediments de barbotina i estreta.
 
 ### Qualitat en peces foses: classificació de defectes i regles de disseny.
+
+
 
 ## Bibliografia
 
@@ -487,3 +543,10 @@ Si escau, el motle caldrà partir-ho
 - Fab Academy. (2024). Molding and casting. The Center for Bits and Atoms (CBA), MIT. https://academy.cba.mit.edu/classes/molding_casting/index.html
 - https://www.alianzametalurgica.com/fundicion-en-coquilla/
 - https://dawangmetals.com/es/resources/types-of-sand-used-in-casting/#the-most-common-types-of-sand-used-in-casting
+- https://www.zwsoft.com/latam/blog/mold-design
+- https://dawangmetals.com/es/resources/sand-casting-design-considerations/
+- https://www.inti.gob.ar/assets/uploads/files/rafaela/01/Guia-de-procesos-de-fundicion.pdf
+- https://firstmold.com/guides/what-is-a-parting-line/
+- https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
+- https://ca.wikipedia.org/wiki/Motlle
+- https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
