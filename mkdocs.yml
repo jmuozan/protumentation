@@ -40,9 +40,9 @@ repo_url: https://github.com/jmuozan/protumentation
 nav:
   - Benvingut/da: index.md
   - Com faig el meu web?: 
-    - Principis i pràctiques: principis_i_practiques/intro/intro.md
-    - Gestió de projectes: principis_i_practiques/gestio/gestio.md
-    - Control de versions: principis_i_practiques/control/versioncontrol.md
+    - Documenting While Doing: documenting/intro/intro.md
+    - Gestió de projectes: documenting/gestio/gestio.md
+    - Control de versions: documenting/control/versioncontrol.md
   - Temaris:
     - Mòdul 1. Metrologia i normalització: temaris/metrologia/metrologia.md
     - Mòdul 2. Processos d'emmotlament i fosa: temaris/motles/motlles.md

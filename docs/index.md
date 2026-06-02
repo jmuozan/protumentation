@@ -1,3 +1,2 @@
-# Prototipatge
+# Principis i pràctiques
 
-Benvingut/da a la col·lecció 

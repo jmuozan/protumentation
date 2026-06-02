@@ -76,16 +76,21 @@ Ací disposeu d'un munt de exemples d'emmotlament amb guix: https://recurs.uoc.e
     <iframe src="https://www.youtube.com/embed/y2cV2kMrzCk?si=f0-4MgqpQ5wIMj7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
+Als motles de guix és possible colar metalls, cal tindre en compte, però que els metalls han de presentar-hi un baix punt de fusió per poder ser colats, per les porositats del guix i l'humitat present. 
+
 ### Metalls i aliatges
 
-L'emmotlament permet l'ús de qualsevol metall o aliatge, sempre que aquest puga fondre's sense problema.
+L'emmotlament permet l'ús de qualsevol metall o aliatge, sempre que aquest puga fondre's sense problema. Els metalls s'emmotlaran principalment mitjançant els processos de: inversió, injecció, buit i centrifugació. 
 
 ### Polímers
+
+Els polímers, que representen cadenes de monómers són utilitzats habitualment en processos d'emmotlament. és important fer una distinció principal entre els tipus de polímers. Hi ha dos tipus principals els quals són els termoplàstics i els termoestables. 
+Els termoplàstics són materials més ductils els quals mitjançant l'aplicació de calor fonen. Per altra banda, els termoestables són més durs i una vegada conformats ja no fonen, sinó que es cremen. Per la fabricació amb polímers s'aplica principalment el procés d'injecció i extrussió. En ambdos processos, la cambra i el tipus d'injector canvien ja que cal fondre'ls en diferents moments del procés. 
 
 ### Compòsits
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
-    <iframe src="https://www.youtube.com/embed/7cHV4DnalzQ?si=YmedWjiJh3EMaK7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    <iframe src="https://www.youtube.com/embed/7cHV4DnalzQ?si=CpX7Rra6hLb83zjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 
@@ -442,6 +447,10 @@ Finalment, amb la colada solidificada, es trenca la corfa, i es treballa la repr
     <iframe src="https://www.youtube.com/embed/N2ZUu34i1ac?si=I0ZUWNagxx2d2I1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/LMeJ6eW4aVI?si=yp8Vw0XGKapdodZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
 ## Sistemes
 
 ### Reproducció mitjançant motles. 
@@ -496,8 +505,8 @@ Si escau, el motle caldrà partir-ho
 - Garantir angles de desmotllament adequats (entre 1° i 3° en fosa en arena; 0,5°–5° en injecció de polímers).
 <figure style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
   <div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;">
-    <img src="./img/1_demolding.png" width="400">
-    <img src="./img/2_demolding.png" width="400">
+    <img src="../img/1_demolding.png" width="300">
+    <img src="../img/2_demolding.png" width="300">
   </div>
   <figcaption>Foto de Altair Inspire Cast User Guide: https://help.altair.com/cast/en_us/topics/cast/casting/select_demolding_axis_t.htm</figcaption>
 </figure>
@@ -511,7 +520,7 @@ Als contorns del motle, resulta interessant afegir algun sistema d'unió, amb l'
     <figcaption>Foto de Katya Castellanos: https://fabacademy.org/2025/labs/barcelona/students/katya-castellanos/weeks/week13.html</figcaption>
 </figure>
 
-Habitualment es realitzen bé connexions per punts o bé per contorn, l'alineació per contorn és més recomanable per motles "DIY". Ací uns exemples:
+Habitualment es realitzen bé connexions per punts o bé per contorn, l'alineació per contorn és més recomanable per motles "DIY", ja que afavoreix una tanca que bloqueja que el líquid s'escape. Ací uns exemples:
 
 <figure markdown="span">
     ![](./img/lego_1.jpg){ width="800" }
@@ -528,7 +537,11 @@ Habitualment es realitzen bé connexions per punts o bé per contorn, l'alineaci
 
 ### Els materials aïllants i adobadors. Greixos. Desblocadors.
 
+
+
 ### Motles per a ceràmica. Buidatge pels procediments de barbotina i estreta.
+
+
 
 ### Qualitat en peces foses: classificació de defectes i regles de disseny.
 
