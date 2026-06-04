@@ -1,6 +1,19 @@
 # Control de qualitat i gestió de laboratori
 
-<object data="../../temaris_opos/VOLUM.pdf" type="application/pdf" width="100%" height="800px">
-  <p>El teu navegador no pot mostrar PDFs. 
-  <a href="../../temaris_opos/VOLUM.pdf">Descarrega el PDF</a>.</p>
-</object>
+## Control de qualitat en processos de fabricació
+
+### Inspecció de defectes
+
+### Anàlisi de defectes.
+
+## Gestió del laboratori
+
+### Inventari
+
+### Manteniment 
+
+### Organització
+
+## Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. 
+
+Informació accessible en: [http://www.upv.es/medioambiente.](http://www.upv.es/medioambiente)

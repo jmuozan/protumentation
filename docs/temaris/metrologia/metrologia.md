@@ -1,6 +1,47 @@
 # Metrologia i normalització 
 
-<object data="../../temaris_opos/CERAMICA_I_VIDRE.pdf" type="application/pdf" width="100%" height="800px">
-  <p>El teu navegador no pot mostrar PDFs. 
-  <a href="../../temaris_opos/CERAMICA_I_VIDRE.pdf">Descarrega el PDF</a>.</p>
-</object>
+## Fonaments de metrologia dimensional
+
+### Unitats
+
+### Patrons
+
+### Precisió
+
+### Traçabilitat i pla de calibratge.
+
+## Normalització
+
+### Toleràncies
+
+### Sistema ISO
+
+### Ajustos
+
+### Simbologia 
+
+### Calibres passa/no passa.
+
+## Tècniques de mesurament I
+
+### Instruments de mesura de longituds
+
+### Instruments de mesura micromètrics
+
+### Instruments de mesura nònius
+
+## Tècniques de mesurament II
+
+### Mesura de rugositat superficial
+
+### MMC 
+
+### Toleràncies geomètriques.
+
+## Calibratge i verificació d'instruments de mesura
+
+### Mètodes
+
+### Equips 
+
+### Certificació del calibratge.

@@ -1,6 +1,43 @@
 # Processos de mecanització i control numèric (CNC)
 
-<object data="../../temaris_opos/MODELISME_I_MAQUETISME.pdf" type="application/pdf" width="100%" height="800px">
-  <p>El teu navegador no pot mostrar PDFs. 
-  <a href="../../temaris_opos/MODELISME_I_MAQUETISME.pdf">Descarrega el PDF</a>.</p>
-</object>
+## Generalitats de la conformació per arrancada de material
+
+### Conceptes bàsics 
+
+### Eines de tall
+
+## Màquines eina
+
+### Planejadora
+
+### Llimadora
+
+### Mortasadora
+
+### Brotxadora
+
+### Torn
+
+### Fresadora
+
+### Perforadora 
+
+### Rectificadora.
+
+## Programació i control numèric
+
+### Automatització
+
+### Programació CNC 
+
+### Robots industrials.
+
+## Mecanització d'alta precisió
+
+### Electroerosió
+
+### Rectificació
+
+### Tornejament de precisió
+
+### Fresatge de precisió

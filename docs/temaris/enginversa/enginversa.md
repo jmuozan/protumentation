@@ -1,6 +1,17 @@
 # Enginyeria inversa
 
-<object data="../../temaris_opos/VOLUM.pdf" type="application/pdf" width="100%" height="800px">
-  <p>El teu navegador no pot mostrar PDFs. 
-  <a href="../../temaris_opos/VOLUM.pdf">Descarrega el PDF</a>.</p>
-</object>
+## Fonaments d'enginyeria inversa
+
+### Definició
+
+### Aplicacions 
+
+### Beneficis en la indústria.
+
+## Digitalització 3D i reconstrucció de models
+
+### Escaneig 3D
+
+### Tècniques de reconstrucció 
+
+### Programari
