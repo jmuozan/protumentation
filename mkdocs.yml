@@ -39,8 +39,9 @@ repo_url: https://github.com/jmuozan/protumentation
 
 nav:
   - Benvingut/da: index.md
-  - Com faig el meu web?: 
+  - Documentar: 
     - Documenting While Doing: documenting/intro/intro.md
+    - Com faig el meu web?: documenting/web/web.md
     - Gestió de projectes: documenting/gestio/gestio.md
     - Control de versions: documenting/control/versioncontrol.md
   - Temaris:
@@ -55,6 +56,7 @@ nav:
     - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
     - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
   - Estudiants: estudiants/estudiants.md
+  - Contribuir: contribucions/contribueix.md
   - Bibliografia: bibliografia.md
 
 extra_css:
@@ -83,3 +85,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/jmuozan
+  copyright: >-
+    Tret que s'indique el contrari el contingut d'aquest web està llicenciat sota
+    <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL-2.0</a>.
+    Les imatges que són producció pròpia segueixen la mateixa llicència; la resta pot tenir una altra llicència.<br>
+    Aquest web ha estat creat per Jorge Muñoz Zanón.
+    Per realitzar contribucions o sugerències pots seguir la
+    <a href="https://github.com/jmuozan/protumentation">següent guia d'instruccions</a>.

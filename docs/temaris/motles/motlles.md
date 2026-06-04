@@ -549,17 +549,16 @@ Habitualment es realitzen bé connexions per punts o bé per contorn, l'alineaci
 
 ## Bibliografia
 
-- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundamentos de los Procesos de Fundición de Metales [Vídeo]. YouTube. https://youtu.be/-EuZoQcHX0A
-- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en molde permanente [Vídeo]. YouTube. https://youtu.be/lrIecu0Dz0o
-- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en arena [Vídeo]. YouTube. https://youtu.be/Dj3IjAELAF0
+- Alianza Metalúrgica. (s.f.). Fundición en coquilla. https://www.alianzametalurgica.com/fundicion-en-coquilla/
 - Boronat Vitoria, T., Ivorra Martínez, J., Quiles Carrillo, L. J., & Torres Giner, S. [Universitat Politècnica de València - UPV]. (2021, 27 de març). Moldeo en arena verde [Vídeo]. YouTube. https://youtu.be/FIgRubIrEnc
+- Dawang Metals. (s.f.). Sand casting design considerations. https://dawangmetals.com/es/resources/sand-casting-design-considerations/
+- Dawang Metals. (s.f.). Types of sand used in casting. https://dawangmetals.com/es/resources/types-of-sand-used-in-casting/
 - Fab Academy. (2024). Molding and casting. The Center for Bits and Atoms (CBA), MIT. https://academy.cba.mit.edu/classes/molding_casting/index.html
-- https://www.alianzametalurgica.com/fundicion-en-coquilla/
-- https://dawangmetals.com/es/resources/types-of-sand-used-in-casting/#the-most-common-types-of-sand-used-in-casting
-- https://www.zwsoft.com/latam/blog/mold-design
-- https://dawangmetals.com/es/resources/sand-casting-design-considerations/
-- https://www.inti.gob.ar/assets/uploads/files/rafaela/01/Guia-de-procesos-de-fundicion.pdf
-- https://firstmold.com/guides/what-is-a-parting-line/
-- https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
-- https://ca.wikipedia.org/wiki/Motlle
-- https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
+- FirstMold. (s.f.). What is a parting line? https://firstmold.com/guides/what-is-a-parting-line/
+- Instituto Nacional de Tecnología Industrial (INTI). (s.f.). Guía de procesos de fundición. https://www.inti.gob.ar/assets/uploads/files/rafaela/01/Guia-de-procesos-de-fundicion.pdf
+- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundamentos de los procesos de fundición de metales [Vídeo]. YouTube. https://youtu.be/-EuZoQcHX0A
+- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en arena [Vídeo]. YouTube. https://youtu.be/Dj3IjAELAF0
+- Reig Pérez, M. J. [Universitat Politècnica de València - UPV]. (2018, 22 d'octubre). Fundición en molde permanente [Vídeo]. YouTube. https://youtu.be/lrIecu0Dz0o
+Masferrer, V. [Universitat Oberta de Catalunya - UOC]. (2020) – Art Toolkit: Tècniques de buidat. https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
+- Viquipèdia. (s.f.). Motlle. https://ca.wikipedia.org/wiki/Motlle
+- ZWSOFT. (s.f.). Mold design. https://www.zwsoft.com/latam/blog/mold-design
