@@ -535,43 +535,80 @@ Habitualment es realitzen bé connexions per punts o bé per contorn, l'alineaci
     <figcaption>Producció propia</figcaption>
 </figure>
 
-### Els materials aïllants i adobadors. Greixos. Desblocadors.
+<!-- ### Els materials aïllants i adobadors. Greixos. Desblocadors.
 
 
 
-### Motles per a ceràmica. Buidatge pels procediments de barbotina i estreta.
+### Motles per a ceràmica. Buidatge pels procediments de barbotina i estreta.-->
 
 
 
 ### Qualitat en peces foses: classificació de defectes
 
-Els defectes de colada s'acostumen a classificar en cinc categories principals: porositat, contracció, defectes produïts pel motlle, defectes per un vessament incorrecte del metall, i defectes metal·lúrgics. Wikipedia
-Cal tenir en compte que, des del punt de vista tècnic, un defecte és una anomalia que cal corregir o suprimir si no es vol rebutjar la peça, mentre que una discontinuïtat és una imperfecció en una peça que, tot i no ser perfecta, pot fer la funció prevista i entra dins de la tolerància. Wikipedia
+Els defectes de colada s'acostumen a classificar en cinc categories principals: porositat, contracció, defectes produïts pel motlle, defectes per un vessament incorrecte del metall, i defectes metal·lúrgics.
+
+Cal tenir en compte que, des del punt de vista tècnic, un defecte és una anomalia que cal corregir o suprimir si no es vol rebutjar la peça, mentre que una discontinuïtat és una imperfecció en una peça que, tot i no ser perfecta, pot fer la funció prevista i entra dins de la tolerància. 
+
 1. Defectes per contracció
-La contracció del metall fos en solidificar-se pot provocar defectes si hi ha manca de metall per compensar-la. Hi ha dues menes: defectes per contracció oberta (la cavitat està en contacte amb l'atmosfera) i defectes per contracció confinada, anomenats porositats per contracció. Aquests darrers es formen en zones de metall fos envoltades de metall solidificat; quan es refreden queda un buit interior. Wikipedia
-Aquests defectes de contracció es poden corregir canviant el disseny de la fosa, aprimant les parets, suavitzant les cantonades, o modificant el lloc d'entrada del metall (atacs i canals). Reliance Foundry
-2. Defectes per porositat del gas
-Quan el metall se solidifica, els gasos dissolts han de sortir de la solució i formen bombolles (porus) en la peça. Els gasos més propensos a causar porus són el nitrogen, l'oxigen i l'hidrogen. Els porus poden ser macroscòpics (visibles a simple vista) o microscòpics. Wikipedia
-3. Defectes de vessament
-Aquests defectes es classifiquen en: motlle no emplenat del tot, parts internes separades (per manca de soldadura a l'hora de vessar) i inclusions. Les dues primeres imperfeccions acostumen a ser el resultat de manca de fluïdesa del metall fos o seccions de pas massa estretes. Les inclusions solen ser d'escòria en forma líquida o sòlida: òxids, nitrurs, carburs o sulfurs. Wikipedia
-4. Defectes metal·lúrgics
-Hi ha dos defectes classificats com a metal·lúrgics: la formació d'esquerdes en calent (resultat de les tensions residuals a alta temperatura) i la formació de zones amb duresa excessiva (quan una part de la peça es refreda massa ràpidament). Si la peça s'ha de mecanitzar posteriorment, la diferència de duresa pot ser un problema. Wikipedia
-5. Defectes del motlle
-Alguns defectes, com una superfície molt rugosa, són visibles a simple vista, mentre que d'altres, com les cavitats internes de contracció, constitueixen un problema estructural més greu. Reliance Foundry
+La contracció del metall fos en solidificar-se pot provocar defectes si hi ha manca de metall per compensar-la. Hi ha dos tipus: defectes per contracció oberta (la cavitat està en contacte amb l'atmosfera) i defectes per contracció confinada, anomenats porositats per contracció. Aquests darrers es formen en zones de metall fos envoltades de metall solidificat; quan es refreden queda un buit interior.
 
+<figure markdown="span">
+    ![](./img/rechupe.jpg){ width="500" }
+    <figcaption>Foto de Voce Pregunta: https://vocepergunta.com/library/artigo/read/518402-como-evitar-o-rechupe-no-processo-de-fundicao</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/rexuplat.png){ width="500" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/B57uMkjIsBs?si=7xhPEJ7K-sDt2Ey3</figcaption>
+</figure>
 
-Regles de disseny per a peces foses
-Gruix de paret uniforme
-El gruix de paret ha de ser el més uniforme possible, ja que les variacions sobtades afecten el flux del metall i provoquen inclusions d'aire i un mal acabat superficial. El rang recomanat és que el gruix màxim no supere el doble del gruix mínim, i la transició entre zones gruixudes i primes ha de ser tan gradual com sigui possible. DFMPRO
-Angles de desmotllament (draft)
-La conicitat de les parets normalment és d'entre 1° i 2° per cara. Les nervadures poc profundes requereixen més conicitat (5-10°), tot i que per a nervadures orientades en la direcció de la contracció s'accepten angles menors. Zinc Die Casting
-Arrodoniments i radis (fillets)
-Les cantonades vives, les arestes i els canvis bruscos de secció s'han d'evitar en peces foses. Cal afegir arrodoniments (fillets) a les cantonades interiors i radis a les exteriors. Per a la fosa per injecció, el radi mínim interior ha de ser almenys 1,5 vegades el gruix de la paret. DFMPRO
-Fins i tot els arrodoniments més petits tenen un efecte apreciable de reforç. Es recomana un radi mínim de 0,4 mm en substitució de les cantonades vives. Zinc Die Casting
-Nervadures i sortints (ribs i bosses)
-Les nervadures s'afegeixen per proporcionar suport sense augmentar el gruix de paret. Els sortints (bosses) serveixen com a punts de muntatge. Si és possible, convé integrar aquestes geometries directament en el disseny del motlle, ja que ajuden a eliminar cantonades vives i augmenten la resistència global de la peça. A&B Die Casting
-Inspecció i verificació
-Les peces, durant el desmotllament o durant l'acabat, han de sotmetre's a una verificació que pot ser de dos tipus: comprovació de les propietats mecàniques i tecnològiques, o inspecció visual, el mètode més difós i simple, amb el qual es poden descobrir els defectes més grollers (faltes d'unitat, deformacions, superfície rugosa, xuclets, etc.). Monografias.com
+Aquests defectes de contracció es poden corregir canviant el disseny de la fosa, aprimant les parets, ampliant el temps d'enfredament, o modificant el lloc d'entrada del metall mitjançant l'adicció d'atacs i massalotes. 
+
+2. Xoc tèrmic
+Ocorre quan es realitza un enfredament massa ràpid d'una peça. Poc provocar l'aparició d'esquerdes i/o un trencament de la peça
+
+<figure markdown="span">
+    ![](./img/xoc_term.webp){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
+
+3. Defectes per porositat del gas
+Quan el metall se solidifica, els gasos dissolts han de sortir de la solució i formen bombolles (porus) en la peça. Els gasos més propensos a causar porus són el nitrogen, l'oxigen i l'hidrogen. Els porus poden ser macroscòpics (visibles a simple vista) o microscòpics.
+
+<figure markdown="span">
+    ![](./img/porus_1.jpg){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/porus_2.jpg){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
+
+4. Defectes de vessament
+Aquests defectes es classifiquen en: motlle no emplenat del tot, parts internes separades (per manca de soldadura a l'hora de vessar) i inclusions. Les dos primeres imperfeccions acostumen a ser el resultat de falta de fluïdesa del metall fos o seccions de pas massa estretes. Les inclusions solen ser d'escòria en forma líquida o sòlida: òxids, nitrurs, carburs o sulfurs. 
+
+<figure markdown="span">
+    ![](./img/exces_plenat.png){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/fusio_motle.jpg){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/no_fusio.jpg){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
+
+5. Defectes metal·lúrgics
+Hi ha dos defectes classificats com a metal·lúrgics: la formació d'esquerdes en calent (resultat de les tensions residuals a alta temperatura) i la formació de zones amb duresa excessiva (quan una part de la peça es refreda massa ràpidament i forma martensita). Si la peça s'ha de mecanitzar posteriorment, la diferència de duresa pot ser un problema. 
+
+<figure markdown="span">
+    ![](./img/esquerda_martensita.jpg){ width="500" }
+    <figcaption>Foto de HITOP IND: https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#</figcaption>
+</figure>
 
 ## Bibliografia
 
@@ -588,3 +625,4 @@ Les peces, durant el desmotllament o durant l'acabat, han de sotmetre's a una ve
 Masferrer, V. [Universitat Oberta de Catalunya - UOC]. (2020) – Art Toolkit: Tècniques de buidat. https://recurs.uoc.edu/art-toolkit/tecniques-buidar/
 - Viquipèdia. (s.f.). Motlle. https://ca.wikipedia.org/wiki/Motlle
 - ZWSOFT. (s.f.). Mold design. https://www.zwsoft.com/latam/blog/mold-design
+- https://hitopindustrial.com/pt/tipos-de-dicas-de-defeitos-de-fundicao-para-prevencao/#
