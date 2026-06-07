@@ -120,12 +120,16 @@ graph TB
 Els processos d'arrancada convencionals es classifiquen en els següents:
 
 ### Planejadora
+Cepilladora
 
 ### Llimadora
+Limadora
 
 ### Mortasadora
+Mortajadora
 
 ### Brotxadora
+Brochadora
 
 ### Torn
 
@@ -138,14 +142,133 @@ Important fresar sempre en concordància (quan es tracte de programació)
     <figcaption>Foto de Universidade da Coruña: https://lim.ii.udc.es/docencia/din-proind/docs/respuestas/p75.htm</figcaption>
 </figure>
 
-
-
 ### Perforadora 
+Taladradora
 
 ### Rectificadora
 
+Consisteix a utilitzar uns queixals que tenen diverses geometries en funció de la geometria de la peça que es vol treballar i que es mouen mitjançant gir i rotació respecte del seu eix. 
+
+<figure markdown="span">
+    ![](./img/queixals.jpg){ width="600" }
+    <figcaption>Foto de Wikimedia: https://commons.wikimedia.org/wiki/File:GrindingStraightWheelH468V.jpg</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/esquema.svg){ width="600" }
+    <figcaption>Foto de Wikimedia: https://commons.wikimedia.org/wiki/File:Unbestimmte_Schneide.svg</figcaption>
+</figure>
+
+Els queixals, tenen una gradària del gra molt controlada, amb l'objectiu d'arrancar material d'una manera uniforme, estan algutinats i presenten porositat. Arranca molt poca quantitat i no està controlat l'angle d'incidència. Pel desgrast del gra i l'aglutinant, els grans superficials es desprenen i els interiors (no desgagstats) continuen actuant. És important adquar els queixals quan aquests han patit desgast.
+
+#### Rectificat en pla
+
+En aquest cas, el queixal pot actuar de manera forntal o perifèrica. 
+
+<figure markdown="span">
+    ![](./img/rectificat_pla.png){ width="600" }
+    <figcaption>Foto de Euskal Herriko Unibertsitatea EHU: https://studylib.es/doc/6363477/rectificadora-tangencial</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/rectificadora_frontal.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/gxC0hV9MkW4?si=Lgg-dpw-6TWXu242</figcaption>
+</figure>
+
+Depenent del tipus de col·locació del queixal, canviarà la geometria del queixal mateix.
+
+<figure markdown="span">
+    ![](./img/tipus_queixals.jpg){ width="600" }
+    <figcaption>Foto de Wikimedia: https://commons.wikimedia.org/wiki/File:Unbestimmte_Schneide.svg</figcaption>
+</figure>
+
+#### Rectificat cilíndric
+
+Si es tracta de geometries de revolució, caldrà fer ús del rectificat cilindric. 
+És possible combinar diversos tipus de geometria amb diversitat de moviments d'avançament per realitzar el rectificat. 
+
+<figure markdown="span">
+    ![](./img/combinació_cilindric.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/gxC0hV9MkW4?si=Lgg-dpw-6TWXu242</figcaption>
+</figure>
+
+Aquest rectiicat, també pot tractar superficies interiors o exteriors:
+
+<figure markdown="span">
+    ![](./img/rectificadora_cilindrica_int.png){ width="600" }
+    <figcaption>Foto de Euskal Herriko Unibertsitatea EHU: https://studylib.es/doc/6363477/rectificadora-tangencial</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/rectificadora_cilindrica_ext.png){ width="600" }
+    <figcaption>Foto de Euskal Herriko Unibertsitatea EHU: https://studylib.es/doc/6363477/rectificadora-tangencial</figcaption>
+</figure>
+
+A banda, dins dels tipus de rectificat cilíndric, també existeix l'anomenat "sense centres". En aquest cas, la peça no és subjecta a cap eix, sinó que és guiada per uns rodets que controlen el moviment contra el queixal. Els rodets, permeten treballar peces d'una massa més elevada i un treball en sèrie.
+
+<figure markdown="span">
+    ![](./img/sense_centres.jpg){ width="600" }
+    <figcaption>Foto de Richconn: https://richconn.com/es/centerless-grinding-101/</figcaption>
+</figure>
+
+### Brunyit i superacabat
+
+El brunyit, és el procés que s'utilitza per millorar l'acabat de rectificat. Es realitza mitjançant les passades de pedres de brunyit sense molta pressió per la superfície. Aquest procés permet assolir toleràncies i rugositats molt xicotetes.
+
+<figure markdown="span">
+    ![](./img/brunyit.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/gxC0hV9MkW4?si=7IHJh7LzWi__j7bj</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/brunyit_1.jpg){ width="600" }
+    <figcaption>Foto de WAYKEN: https://waykenrm.com/es/blogs/honing-process/</figcaption>
+</figure>
+
+La ferramenta es desplaça en vertical i rotant sobre l'eix. En el superacabat, però, la pedra està subjectada amb un útil i és la peça la que gira sobre sí mateixa. 
+
+<figure markdown="span">
+    ![](./img/superacabat.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/gxC0hV9MkW4?si=7IHJh7LzWi__j7bj</figcaption>
+</figure>
+
+### Polit i lapat
+
+En aquest cas, no existeis una eina específica que realitze l'acció, sinó que hi ha un útil que subjecta en forma de pols o solució aquosa l'abrasiu perquè actue sobre la peça. L'objectiu és millorar la qualitat superficial. Es tracta d'un procés manual només automatitzat en alguns casos. 
+
+<figure markdown="span">
+    ![](./img/lapat_1.png){ width="600" }
+    <figcaption>Foto de machinemfg: machinemfg.com</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/lapat_2.jpg){ width="600" }
+    <figcaption>Foto de Shengen Fab: shengenfab.com</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/lapat_3.jpg){ width="600" }
+    <figcaption>Foto de demaquinasyherramientas: demaquinasyherramientas.com</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/lapat_4.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/gxC0hV9MkW4?si=7IHJh7LzWi__j7bj</figcaption>
+</figure>
 
 
+## Mecanització d'alta precisió
+
+S'utilitzen amb abrasius, es caracteritzen per tindre un nombre de filaments indeterminats que actuen de forma aleatòria sobre la peça, els quals retiren molt poc material a elevades velocitats de tall i on cal controlar l'elevada temperatura generada per la velocitat amb refrigerants.
+És important destacar que les toleràncies i acabats que permeten els abrasius és molt elevada, per aquest motiu, són habitualment utilitzats amb funció de postprocessat.
+
+### Electroerosió
+
+### Rectificació
+
+### Tornejament de precisió
+
+### Fresatge de precisió
 
 
 ## Programació i control numèric
@@ -302,28 +425,12 @@ M4 S1200;
 
 **J** Distància en Y al centre quan es fa un cercle. Exemple: ```G3 X-10 Y-5 I-5 J0```
 
-
-
-
-
-
 ### Robots industrials
 
 
 
-
-
-
-## Mecanització d'alta precisió
-
-### Electroerosió
-
-### Rectificació
-
-### Tornejament de precisió
-
-### Fresatge de precisió
-
 ## Bibliografia
+
 - https://youtu.be/ldK49aQk01k?si=hPgdnU55ASCvHbVV
+- https://youtu.be/gxC0hV9MkW4?si=zBMZYWqB5UgjGoZt
 - https://www.haascnc.com/service/service-content/guide-procedures/mill---g-codes.html#gsc.tab=0
