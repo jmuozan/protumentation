@@ -1716,15 +1716,104 @@
 
 <h1 id="processos-de-mecanitzacio-i-control-numeric-cnc">Processos de mecanització i control numèric (CNC)<a class="headerlink" href="#processos-de-mecanitzacio-i-control-numeric-cnc" title="Permanent link">&para;</a></h1>
 <h2 id="generalitats-de-la-conformacio-per-arrancada-de-material">Generalitats de la conformació per arrancada de material<a class="headerlink" href="#generalitats-de-la-conformacio-per-arrancada-de-material" title="Permanent link">&para;</a></h2>
+<p>Els processos d'arrancada de material consisteixen a la retirada de material de la superfície d'un 'totxo' d'una manera controlada. Aquesta retirada pot realitzar-se mitjançant un procés químic o físic. Així doncs, és possible classificar-los en dos grups principals:</p>
+<ul>
+<li>Processos d'arrancada de material: On s'usa una ferramenta de tall.</li>
+<li>Processos no convencionals: Processos fisicoquímics en ausència d'una ferramenta de tall.</li>
+</ul>
+<figure>
+    <img alt="" src="../img/arrancada.jpg" width="600" />
+    <figcaption>Foto de FerrePro: https://ferrepro.mx/mecanizado-por-arranque-de-viruta/</figcaption>
+</figure>
+<p>Respecte de l'arrancada de material, s'ha de seguir la seüent lògica:</p>
+<pre class="mermaid"><code>graph LR
+  A[Aplicació d'un esforç mecànic] --&gt; B[Modificació de la superfície];
+  B --&gt; C[Nova superfície];
+  D[Ferramenta de tall] --&gt; A;
+  E[Separació localitzada de material] --&gt; B;
+  F[Nova geometria/Mateixes propietats] --&gt; C;</code></pre>
+<p>En aquest flux de traball, l'arrancada està influenciada per:</p>
+<pre class="mermaid"><code>graph TB
+  A[Aplicació d'un esforç mecànic] --&gt; D{Restringeix};
+  B[Modificació de la superfície] --&gt; D;
+  C[Nova superfície] --&gt; D;
+  D --&gt; E[Tipus de geometria generada];
+  D --&gt; F[Condicions del tall];
+  D --&gt; G[Seqüència de tasques que cal realitzar];
+  D --&gt; H[Qualitat de la peça final];</code></pre>
 <h3 id="conceptes-basics">Conceptes bàsics<a class="headerlink" href="#conceptes-basics" title="Permanent link">&para;</a></h3>
+<p>Dins de l'arrancada, cal destacar les característiques següents:</p>
+<ul>
+<li>Es tracta d'un procés on es realitzen canvis de forma prou significatius en comparació a la peça base</li>
+<li>Genera desperdici en forma de viruta</li>
+<li>S'obtenen peces acabades, les quals no requereixen postprocesat</li>
+<li>S'assoleixen toleràncies i acabats superficials prou superiors a la resta de processos de conformat</li>
+<li>Dona la possibilitat d'obtindre tot tipus de geometria, tant senzilles com complexes</li>
+</ul>
+<p><strong><em>Què caracteritza el procés d'arrancada?</em></strong></p>
+<pre class="mermaid"><code>graph TB
+    A["Moviment de tall"]
+    A --&gt; B["Genera la separació del material"]
+    B --&gt; C["Moviment relatiu peça/ferramenta"]
+    C --&gt; D["Velocitat del tall"]
+
+    E["Moviment d'avançada"]
+    E --&gt; F["Extén el mecanitzat a la resta de la superfície"]
+    F --&gt; G["Moviment relatiu peça/ferramenta"]
+    G --&gt; H["Velocitat d'avançament"]</code></pre>
+<figure>
+    <img alt="" src="../img/avan%C3%A7ada.png" width="600" />
+    <figcaption>Foto de Mundo Fresadora: https://mundofresadora.blogspot.com/2016/01/uso-y-aplicaciones-especificas-de-las.html</figcaption>
+</figure>
+<p>El material arrancat s'anomena viruta</p>
+<figure>
+    <img alt="" src="../img/viruta_1.png" width="800" />
+    <figcaption>Foto de Ingenierizando: https://www.ingenierizando.com/fabricacion/viruta/</figcaption>
+</figure>
+<figure>
+    <img alt="" src="../img/viruta_2.png" width="800" />
+    <figcaption>Foto de ingenieria mecanica blog: https://ingenieriamecanicacol.blogspot.com/2023/05/teoria-del-maquinado-de-metales.html</figcaption>
+</figure>
+<figure>
+    <img alt="" src="../img/mecanitzat.png" width="800" />
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/ldK49aQk01k?si=yGAJzxiSOeM9M4SH</figcaption>
+</figure>
+<p><strong><em>Efectes principals del procés de tall</em></strong></p>
+<pre class="mermaid"><code>graph TB
+    A["Calfament"]
+    A --&gt; B["Altera les propietats de la peça"]
+    B --&gt; C["Reduix la resistència de la ferramenta de tall"]
+    C --&gt; D["Cal refrigerar i lubricar &lt;br&gt; (taladrines: emulsions d'aigua i oli)"]
+
+    E["Desgast"]
+    E --&gt; F["Altera les dimensions finals de la peça"]
+    F --&gt; G["Altera les condicions del tall"]
+    G --&gt; H["Cal fer un control de la vida útil"]</code></pre>
 <h3 id="eines-de-tall">Eines de tall<a class="headerlink" href="#eines-de-tall" title="Permanent link">&para;</a></h3>
+<p>Hi ha dos tipus principals de tipologia de la ferramenta:</p>
+<pre class="mermaid"><code>graph TB
+    A["Processos convencionals"]
+    A --&gt; B["Canvis significatius de forma i dimensió"]
+    B --&gt; C["Eines monofilament o multifilament"]
+    C --&gt; D["Toleràncies i acabats superficials bons"]
+
+    E["Mecanitzat amb abrasius"]
+    E --&gt; F["Canvis molt limitats de forma i dimensió"]
+    F --&gt; G["Eines amb nombre de filaments indeterminat"]
+    G --&gt; H["Toleràncies i acabats superficials molt bons"]</code></pre>
 <h2 id="maquines-eina">Màquines eina<a class="headerlink" href="#maquines-eina" title="Permanent link">&para;</a></h2>
+<p>Els processos d'arrancada convencionals es classifiquen en els següents:</p>
 <h3 id="planejadora">Planejadora<a class="headerlink" href="#planejadora" title="Permanent link">&para;</a></h3>
 <h3 id="llimadora">Llimadora<a class="headerlink" href="#llimadora" title="Permanent link">&para;</a></h3>
 <h3 id="mortasadora">Mortasadora<a class="headerlink" href="#mortasadora" title="Permanent link">&para;</a></h3>
 <h3 id="brotxadora">Brotxadora<a class="headerlink" href="#brotxadora" title="Permanent link">&para;</a></h3>
 <h3 id="torn">Torn<a class="headerlink" href="#torn" title="Permanent link">&para;</a></h3>
 <h3 id="fresadora">Fresadora<a class="headerlink" href="#fresadora" title="Permanent link">&para;</a></h3>
+<p>Important fresar sempre en concordància (quan es tracte de programació)</p>
+<figure>
+    <img alt="" src="../img/concordancia_oposicio.jpg" width="800" />
+    <figcaption>Foto de Universidade da Coruña: https://lim.ii.udc.es/docencia/din-proind/docs/respuestas/p75.htm</figcaption>
+</figure>
 <h3 id="perforadora">Perforadora<a class="headerlink" href="#perforadora" title="Permanent link">&para;</a></h3>
 <h3 id="rectificadora">Rectificadora<a class="headerlink" href="#rectificadora" title="Permanent link">&para;</a></h3>
 <h2 id="programacio-i-control-numeric">Programació i control numèric<a class="headerlink" href="#programacio-i-control-numeric" title="Permanent link">&para;</a></h2>
@@ -1744,11 +1833,37 @@
 <p><strong>G03</strong> Corba tallada en sentit antihorari.</p>
 <div class="highlight"><pre><span></span><code>G03 X10 Y-10 R5;
 </code></pre></div>
+<p><strong>G5</strong> Arista matada</p>
+<p><strong>G7</strong> Arista viva</p>
 <p><strong>G21</strong> Estableix el mode mètric.</p>
-<div class="highlight"><pre><span></span><code>G21;
-</code></pre></div>
 <p><strong>G20</strong> Estableix el mode imperial.</p>
-<div class="highlight"><pre><span></span><code>G20;
+<p><strong>G40</strong> Desactiva la compensació de la ferramenta.</p>
+<p><strong>G41</strong> Compensació lateral ferramenta (es mou cap a l'esquerra)</p>
+<p><strong>G42</strong> Compensació lateral ferramenta (es mou cap a la dreta)</p>
+<p><strong>G43</strong> Compensació longitud</p>
+<p>Exemple complet bàsic amb compensació</p>
+<div class="highlight"><pre><span></span><code>O0001
+G21 G17 G90        ; mm, pla XY, coordenades absolutes
+G00 X0 Y0 Z5       ; posició inicial
+T01 M06            ; canvi d&#39;eina
+G43 H01 Z2         ; compensació de longitud
+M03 S1000          ; rotatció del broquet
+
+; Activació de la compensació de radi
+G00 X10 Y-5
+G01 G41 D01 Y0 F150  ; activar G41 amb corrector D01
+
+; Trajectòria de mecanitzat
+G01 X50
+G01 Y30
+G01 X10
+G01 Y0
+
+; Cancel·lació de la compensació
+G01 G40 Y-5          ; G40 = cancel·lar compensació
+G00 Z50
+M05
+M30
 </code></pre></div>
 <p><strong>G53</strong> Coordenades de la màquina</p>
 <p><strong>G54</strong> Coordenades del sistema (Offset)</p>
@@ -1757,7 +1872,8 @@
 </code></pre></div>
 <p><strong>G90</strong> Distàcies absolutes.</p>
 <p><strong>G91</strong> Distàncies incrementals.</p>
-<p><strong>G94</strong> 'Feed Rate' establit en <code>mm</code> o <code>inch</code>, la qual cosa depen de si <code>G20</code> o <code>G21</code> està aplicat.</p>
+<p><strong>G94</strong> 'Feed Rate' establit en <code>mm</code> o <code>inch</code> / min, la qual cosa depen de si <code>G20</code> o <code>G21</code> està aplicat.</p>
+<p><strong>G95</strong> 'Feed Rate' establit en <code>mm</code> o <code>inch</code> / revolució</p>
 <hr />
 <h4 id="alguns-comandaments-essencials-de-codi-m">Alguns comandaments essencials de codi M:<a class="headerlink" href="#alguns-comandaments-essencials-de-codi-m" title="Permanent link">&para;</a></h4>
 <p><strong>M0</strong> Pausa la màquina, quan és polsa sobre l'actuador de la màquina una altra vegada continuarà des d'on està.</p>
@@ -1783,7 +1899,8 @@
 <p><strong>Y</strong> Moure's en direcció Y</p>
 <p><strong>Z</strong> Moure's en direcció Z</p>
 <p><strong>N</strong> Número de línia</p>
-<p><strong>I</strong> Radi quan es fa un cercle</p>
+<p><strong>I</strong> Distància en X al centre quan es fa un cercle</p>
+<p><strong>J</strong> Distància en Y al centre quan es fa un cercle. Exemple: <code>G3 X-10 Y-5 I-5 J0</code></p>
 <h3 id="robots-industrials">Robots industrials<a class="headerlink" href="#robots-industrials" title="Permanent link">&para;</a></h3>
 <h2 id="mecanitzacio-dalta-precisio">Mecanització d'alta precisió<a class="headerlink" href="#mecanitzacio-dalta-precisio" title="Permanent link">&para;</a></h2>
 <h3 id="electroerosio">Electroerosió<a class="headerlink" href="#electroerosio" title="Permanent link">&para;</a></h3>
@@ -1792,6 +1909,7 @@
 <h3 id="fresatge-de-precisio">Fresatge de precisió<a class="headerlink" href="#fresatge-de-precisio" title="Permanent link">&para;</a></h3>
 <h2 id="bibliografia">Bibliografia<a class="headerlink" href="#bibliografia" title="Permanent link">&para;</a></h2>
 <ul>
+<li>https://youtu.be/ldK49aQk01k?si=hPgdnU55ASCvHbVV</li>
 <li>https://www.haascnc.com/service/service-content/guide-procedures/mill---g-codes.html#gsc.tab=0</li>
 </ul>
 
