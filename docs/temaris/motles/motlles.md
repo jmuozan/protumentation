@@ -100,12 +100,12 @@ Els termoplàstics són materials més ductils els quals mitjançant l'aplicaci�
 ``` mermaid
 graph TB
     A["Processos de motle d'un sol ús"]
-    A --> B["motlles d'arena, guix o<br>materials similars"]
+    A --> B["Motlles d'arena, guix o<br>materials similars"]
     B --> C["Es fabrica cada vegada"]
     C --> D["Es destrueix en l'extracció<br>de la peça"]
 
     E["Processos de motle permanent"]
-    E --> F["motles de metall o ceràmica"]
+    E --> F["Motles de metall o ceràmica"]
     F --> G["Es reutilitzen"]
     G --> H["Fabricació en sèrie (lots)"]
     H --> I["Dues parts separables entre si"]
