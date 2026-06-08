@@ -119,6 +119,178 @@ graph TB
 
 Els processos d'arrancada convencionals es classifiquen en els següents:
 
+### Fresadora
+
+<figure markdown="span">
+    ![](./img/fresat.jpg){ width="600" }
+    <figcaption>Foto de Zintilon: https://www.zintilon.com/es/blog/metal-milling-vs-wood-milling/</figcaption>
+</figure>
+
+El procés de fresat consisteix a arrancar material per generar geometries prismàtiques mitjançant la utilització d'una eina multifilament. Aquesta eina multifilament gira sobre el seu mateix eix i el moviment d'avançada pot ser de l'eina sobra la peça fixa o viceversa. 
+Existeixen dos tipus d'actuadors, els quals s'anomenen freses. Per una banda hi ha freses monobloc i per l'altra de plaquetes.
+
+<figure markdown="span">
+    ![](./img/fresa_completa.png){ width="400" }
+    <figcaption>Foto de Sendmill: https://ssendmill.com/es/tipos-de-fresas/</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/fresa_plaquetes.jpg){ width="400" }
+    <figcaption>Foto de IZARO: https://www.izaro.com/fresa-de-planear-con-plaquitas-de-corte-pequenas/c-1602748688/</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/configuracions.jpg){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/Ls9MNu8CA6c?si=fyLtfczAcwVG0Erf</figcaption>
+</figure>
+
+Les monobloc són generalment més xicotetes i són utilitzades per realitzar peces amb poc detall geomètric. Contrariament, les de plaquetes intercanviables s'utilitzen per realitzar una gran arrancada de material. 
+Les plaquetes intercanviables, com bé indica el seu nom, permeten l'ús de la mateixa fresa amb canvi de filament mentre que les monobloc només poden utilitzar-se per l'ús pel que han estat conformades.
+
+Existeixen dos classificacions per determinar el treball de fresat. Per una banda es pot determinar en funció de la subjecció de la ferramenta, i per l'altra en funció del moviment de tall:
+
+``` mermaid
+graph TB
+    A{"Subjecció de l'eina"}
+    A --> B["Fresat frontal"]
+    B --> C["Fresat perifèric"]
+
+    E{"Moviment relatiu de tall"}
+    E --> F["Fresat en concordància"]
+    F --> G["Fresat en oposició"]
+```
+
+<figure markdown="span">
+    ![](./img/frontal_i_periferic.jpg){ width="600" }
+    <figcaption>Foto de DADESIN: https://www.dadesin.com/es/news/face-vs-peripheral-milling.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/forntal+periferic.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/Ls9MNu8CA6c?si=fyLtfczAcwVG0Erf</figcaption>
+</figure>
+
+El fresat perifèric limita prou les profonditats de tall assolibles, i limita la llibertat d'actuació en algunes parts de la peça.
+Des del punt de vista del moviment de tall, és possible classificar entre tall en oposició i en concordància. El fresat en oposició pot causar un desgast excessiu al filament de la fresa per una falta de secció de tall inicial. En el fresat en concordància les vibracions són majors i poden provocar una vida util de l'eina inferior. Amb respecte dels acabats assolits, en el tall a concordància són de major qualitat, malgrat que per metalls més durs es recomanable utilitzar el tall en oposició.
+
+<figure markdown="span">
+    ![](./img/concordancia_oposicio.jpg){ width="500" }
+    <figcaption>Foto de Universidade da Coruña: https://lim.ii.udc.es/docencia/din-proind/docs/respuestas/p75.htm</figcaption>
+</figure>
+
+Per mecanitzar, és impertaiu fixar bé la peça al llit. Existeixen diverses maneres de fer-ho. 
+Per una banda es pot fer mitjançant brides.
+
+<figure markdown="span">
+    ![](./img/brida.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+Per un altra, les brides baixes, aquestes deixen tota la superfície superior lliure per poder planejar.
+
+<figure markdown="span">
+    ![](./img/brides_baixes.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/brides_baixes_2.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+També, es poden utilitzar mordasses. Poden haver-hi hidràuliques o mecàniques.
+
+<figure markdown="span">
+    ![](./img/mordassa_hidr_1.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/mordassa_hidr_2.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/mordassa_mec_1.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+<figure markdown="span">
+    ![](./img/mordassa_mec_2.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+També és possible fer ús d'un plat divisor universal de tres garres. Aquest últim només s'utilitza per peces de revolució. Pot utilitzar-se de manera vertical o horitzontal.
+
+<figure markdown="span">
+    ![](./img/plat_divisor.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+Una variant del plat divisor és el de punt i contrapunt.
+
+<figure markdown="span">
+    ![](./img/plat_divisor_punt_i_contrapunt.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+Si es vol mecanitzar un objecte de revolució d'una mida gran, caldrà utilitzar una taula circular.
+
+<figure markdown="span">
+    ![](./img/taula_circular.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+Darrerament, per configuracions verticals s'utilitzarà l'esquadra amb gats. és molt robust i per tant, evita les vibracions que es generarien en les mordasses.
+
+<figure markdown="span">
+    ![](./img/esquadra_amb_gats.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
+</figure>
+
+El fresat, presenta els següents tipus d'operacions possibles:
+
+#### Planejat
+
+<figure markdown="span">
+    ![](./img/planeado.jpg){ width="500" }
+    <figcaption>Foto de AT Machining: https://at-machining.com/es/cnc-milling-a-detailed-explanation/</figcaption>
+</figure>
+
+Es treballa de forma frontal per generar una superfície a una cara de la peça.
+
+#### Ranurat
+
+<figure markdown="span">
+    ![](./img/ranurat.jpg){ width="500" }
+    <figcaption>Foto de AT Machining: https://at-machining.com/es/cnc-milling-a-detailed-explanation/</figcaption>
+</figure>
+
+Pot realitzar-se mitjançant amb fresat frontal o perifèric. 
+
+#### Buit
+
+<figure markdown="span">
+    ![](./img/buit.jpg){ width="500" }
+    <figcaption>Foto de 4ATOOLS: https://4atools.com/herramientas-de-fresado/</figcaption>
+</figure>
+
+És una de les operacions més habituals, consisteix a crear un buidament d'un totxo massís el qual no té cap orifici central.
+
+#### Xamfranat
+
+<figure markdown="span">
+    ![](./img/xamfra.jpg){ width="500" }
+    <figcaption>Foto de Tungaloy: https://tungaloy.com/es/whats-new/chamfering-techniques-applications-tools/</figcaption>
+</figure>
+
+Poden ser rectes o arrodonits, l'objectiu d'aquesta operació és l'eliminació d'aristes vives.
+
+#### Contornat i perfilat
+
+<figure markdown="span">
+    ![](./img/contornat.png){ width="800" }
+    <figcaption>Foto de ingenieria mecanica blog: https://ingenieriamecanicacol.blogspot.com/2023/05/operaciones-de-maquinado-y-maquinas.html</figcaption>
+</figure>
+
+Aquesta operació perfet obtindre acabats superficials complexos. La geometria de la fresa és essencial per assolir les diverses superficies.
+
 ### Planejadora
 Cepilladora
 
@@ -133,14 +305,7 @@ Brochadora
 
 ### Torn
 
-### Fresadora
 
-Important fresar sempre en concordància (quan es tracte de programació)
-
-<figure markdown="span">
-    ![](./img/concordancia_oposicio.jpg){ width="800" }
-    <figcaption>Foto de Universidade da Coruña: https://lim.ii.udc.es/docencia/din-proind/docs/respuestas/p75.htm</figcaption>
-</figure>
 
 ### Perforadora 
 Taladradora
@@ -434,3 +599,16 @@ M4 S1200;
 - https://youtu.be/ldK49aQk01k?si=hPgdnU55ASCvHbVV
 - https://youtu.be/gxC0hV9MkW4?si=zBMZYWqB5UgjGoZt
 - https://www.haascnc.com/service/service-content/guide-procedures/mill---g-codes.html#gsc.tab=0
+- https://youtu.be/AMsFpDHanDI?si=L296jtK6R-KRNY7t
+- https://youtu.be/Ls9MNu8CA6c?si=sMYUoNUAVkchpD1t
+- https://youtu.be/tQqw0utbx9o?si=aFDS8nZCi78QroU6
+- https://youtu.be/Eh5D_kUtCJE?si=rysSzuadcCH64ghb
+- https://youtu.be/d4w4ii1umqw?si=x0n7hr-gAfk8Xy72
+- https://youtu.be/uE9LTJwCCAI?si=RGuY9lwC1gtHidOg
+- https://youtu.be/ZchOy9UVjJw?si=XzyHUvAmQ4NIi87P
+- https://youtu.be/JPvkoq0_YhM?si=cydR8es-7d_cr6mc
+- https://youtu.be/tQqw0utbx9o?si=w_7sCpOc4kSchBDH
+
+
+- https://youtu.be/XZtquL7ypsQ?si=Fe5ndq8N9ohtiVZS
+
