@@ -126,6 +126,11 @@ Els processos d'arrancada convencionals es classifiquen en els següents:
     <figcaption>Foto de Zintilon: https://www.zintilon.com/es/blog/metal-milling-vs-wood-milling/</figcaption>
 </figure>
 
+<figure markdown="span">
+    ![](./img/calculs_fresadora.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/Ls9MNu8CA6c?si=fyLtfczAcwVG0Erf</figcaption>
+</figure>
+
 El procés de fresat consisteix a arrancar material per generar geometries prismàtiques mitjançant la utilització d'una eina multifilament. Aquesta eina multifilament gira sobre el seu mateix eix i el moviment d'avançada pot ser de l'eina sobra la peça fixa o viceversa. 
 Existeixen dos tipus d'actuadors, els quals s'anomenen freses. Per una banda hi ha freses monobloc i per l'altra de plaquetes.
 
@@ -244,7 +249,21 @@ Darrerament, per configuracions verticals s'utilitzarà l'esquadra amb gats. és
     <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/d4w4ii1umqw?si=86gxL-KaDs7augJD</figcaption>
 </figure>
 
+
+
 El fresat, presenta els següents tipus d'operacions possibles:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/ZchOy9UVjJw?si=tdl3DaiNiuwmEit8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/JPvkoq0_YhM?si=vMUeslt7Si1mKQc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/tQqw0utbx9o?si=iJXS4lgxi83onY_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 #### Planejat
 
@@ -291,6 +310,84 @@ Poden ser rectes o arrodonits, l'objectiu d'aquesta operació és l'eliminació 
 
 Aquesta operació perfet obtindre acabats superficials complexos. La geometria de la fresa és essencial per assolir les diverses superficies.
 
+### Torn
+
+Consisteix en arrancar material per obtindre una peça de revolució. Per aconseguir-ho s'utilitza una eina monofilament que interfereix amb el totxo que gira sobre el seu eix. L'eina avança sobre la peça.
+
+<figure markdown="span">
+    ![](./img/torn.jpg){ width="600" }
+    <figcaption>Foto de Procesos Miguel: https://procesosmiguel.blogspot.com/2020/10/partes-de-una-maquina-de-torno.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/operacio_torn.png){ width="800" }
+    <figcaption>Foto de ingenieria mecanica blog: https://ingenieriamecanicacol.blogspot.com/2023/05/operaciones-de-maquinado-y-maquinas.html</figcaption>
+</figure>
+
+Les operacions bàsiques del torn són tres:
+
+#### Tornejat d'exteriors
+
+<figure markdown="span">
+    ![](./img/tornejat_exterior.jpg){ width="600" }
+    <figcaption>Foto de rapid direct: https://www.rapiddirect.com/es/blog/types-of-turning-operations/</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/cilindrat.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/XZtquL7ypsQ?si=PCEKHrNlwgardByr</figcaption>
+</figure>
+
+Pel cilindrat l'enina seguira una trajectòria paral·lela a l'eix mentre que arranca material. En cas que el moviment es realitzés perpendicularment a l'eix l'operació s'anomena refrentat. 
+En els torns per control numèric sobretot es fa també ús de l'operació de contornat, la qual segueix un perfil compexe.
+
+#### Tronejat d'interiors
+
+<figure markdown="span">
+    ![](./img/cilindrat_interior.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/XZtquL7ypsQ?si=PCEKHrNlwgardByr</figcaption>
+</figure>
+
+Aquestes operacions es poden translladar a l'interior de la peça, tot i que per fer-ho és necessari un forat prèviament realitzat.
+
+#### Ranurat
+
+<figure markdown="span">
+    ![](./img/ranurat_torn.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/XZtquL7ypsQ?si=PCEKHrNlwgardByr</figcaption>
+</figure>
+
+Cal una eina específica i llarga per entrar dins un forat previament fet que a l'altura determinada fa les ranures.
+
+#### Tronçat
+
+Si la ranura exterior es realitza fins l'eix s'assoleix un tronçat. Aquesta operació es busca per aconseguir separar la peça. No s'arriba fins el fons
+
+<figure markdown="span">
+    ![](./img/tronzado.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/XZtquL7ypsQ?si=PCEKHrNlwgardByr</figcaption>
+</figure>
+
+#### Roscat
+
+La ferramenta de tall té el perfil de la rosca i l'avançament (mm/rev) s'estableix igual al pas de la rosca.
+
+<figure markdown="span">
+    ![](./img/roscat.png){ width="600" }
+    <figcaption>Foto de Mettcom: https://mettcom.com/blog/tecnologia-procesos/roscado-piezas-metalicas/</figcaption>
+</figure>
+
+#### Mandrinat 
+
+Es fa en vertical quan la peça es gran, posant l'eix vertical
+
+<figure markdown="span">
+    ![](./img/mandrinat.png){ width="600" }
+    <figcaption>Foto de J&M: https://jmcncmachine.com/es/por-que-se-prefiere-una-mandrinadora-a-un-torno-para-la-mayoria-de-las-tareas-de-mandrinado/</figcaption>
+</figure>
+
+
+
 ### Planejadora
 Cepilladora
 
@@ -302,10 +399,6 @@ Mortajadora
 
 ### Brotxadora
 Brochadora
-
-### Torn
-
-
 
 ### Perforadora 
 Taladradora
@@ -441,10 +534,6 @@ S'utilitzen amb abrasius, es caracteritzen per tindre un nombre de filaments ind
 Per controlar les màquines de fabricació (fresadores, impressores 3D, plotters de tall...) s'ha de programar el seu moviment i les funcions que farà durant aquest moviment. Per fer-ho s'usen els anomenats ```g-code``` i ```m-code```.   
 
 ### Automatització
-
-
-
-
 
 ### Programació CNC 
 

@@ -26,7 +26,7 @@
 - [ ] 17. Altres processos d'unió: soldadura oxiacetilènica i adhesius.
 
 ## Mòdul 5. Processos de mecanització i control numèric
-- [ ] 18. Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
+- [x] 18. Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
 - [ ] 19. Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
 - [ ] 20. Programació i control numèric: automatització, programació CNC i robots industrials.
 - [ ] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
