@@ -324,7 +324,15 @@ Consisteix en arrancar material per obtindre una peça de revolució. Per aconse
     <figcaption>Foto de ingenieria mecanica blog: https://ingenieriamecanicacol.blogspot.com/2023/05/operaciones-de-maquinado-y-maquinas.html</figcaption>
 </figure>
 
-Les operacions bàsiques del torn són tres:
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/WuV71AhbRHc?si=UCa9luiGvL3h7d0_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/y9doqBR_RTk?si=EEqYVLqgVLa39amY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+Les operacions bàsiques del torn són les següents:
 
 #### Tornejat d'exteriors
 

@@ -18,7 +18,7 @@
 
 ### Implementació 
 
-### Control.
+### Control
 
 ## Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. 
 
