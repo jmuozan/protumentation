@@ -27,7 +27,7 @@
 
 ## Mòdul 5. Processos de mecanització i control numèric
 - [x] 18. Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
-- [ ] 19. Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
+- [x] 19. Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
 - [ ] 20. Programació i control numèric: automatització, programació CNC i robots industrials.
 - [ ] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
 
@@ -37,7 +37,7 @@
 - [ ] 24. Processament i postprocessament de peces additives: paràmetres, optimització i validació de peces.
 
 ## Mòdul 7. Enginyeria inversa
-- [ ] 25. Fonaments d'enginyeria inversa: definició, aplicacions i beneficis en la indústria.
+- [x] 25. Fonaments d'enginyeria inversa: definició, aplicacions i beneficis en la indústria.
 - [ ] 26. Digitalització 3D i reconstrucció de models: escaneig 3D, tècniques de reconstrucció i programari.
 
 ## Mòdul 8. Ofimàtica i informàtica aplicada
@@ -136,3 +136,11 @@ projectes d'arquitectura.
 - [ ] 58. Els riscos generals en la feina i la seua prevenció. Els factors de risc i les condicions de treball. Els principis de l'acció preventiva. L'organització de la prevenció. Mètodes de protecció i prevenció. Estris personals de protecció i dispositius de seguretat en la maquinària.
 - [ ] 59. El taller de modelisme i maquetisme. Equip, eines i materials. Organització i operacions de manteniment bàsic dels equips del taller. Organització i distribució del treball. Normes de seguretat i higiene. Toxicitat dels materials.
 - [ ] 60. Protecció mediambiental, tractament de residus. Aproﬁtament i eliminació de residus.
+
+
+
+https://tecnoia.com/tecnologias-de-escaneo-3d-principales-tecnologias-y-sus-ventajas-y-limitaciones/
+
+https://www.youtube.com/watch?v=tC7jfKrcGYo
+
+https://www.youtube.com/watch?v=gpKxls6KpZ4
