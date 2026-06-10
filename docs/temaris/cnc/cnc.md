@@ -394,22 +394,103 @@ Es fa en vertical quan la peça es gran, posant l'eix vertical
     <figcaption>Foto de J&M: https://jmcncmachine.com/es/por-que-se-prefiere-una-mandrinadora-a-un-torno-para-la-mayoria-de-las-tareas-de-mandrinado/</figcaption>
 </figure>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/ysZo38ii-zU?si=rFOZyHYRoEnx_O3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/ux58mHH7PCU?si=pa9pwjQx_6MrjT9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/na0RyfBNY8k?si=9V1sNEdUE196dA69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ### Planejadora
-Cepilladora
+
+En castellà *cepilladora*, consisteix a l'utilització d'una eiana monofinlament que es desplaça per generar superfícies planes, ranures o perfils. La peça es la que es mou gràcies a la bancada. Mitjançant aquest procés es pot atacar tant la superfície superior com les laterals de la peça. El procés destaca per la grandària de les peces que es poden fer servir.
+
+<figure markdown="span">
+    ![](./img/cepillado.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/2AokUrGqB3M?si=e3EGhrUNbopQMU1K</figcaption>
+</figure>
 
 ### Llimadora
-Limadora
+
+En el procés de llimat és la ferramenta la que es desplaça sobre la peça. Aquest té un ús similar al de la planejadora (superfícies planes, ranures o perfils i eina monofilament). En aquest cas, però, només es pot "atacar" la superfície superior i la carrera està limitada a la llargaria de tall que té l'ariet.
+
+<figure markdown="span">
+    ![](./img/llimat_1.jpg){ width="600" }
+    <figcaption>Foto de Mecanizado al paso: https://mecanizadoalpaso.blogspot.com/2019/03/limado-mecanizados-por-arranque-de.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/llimat_2.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/2AokUrGqB3M?si=e3EGhrUNbopQMU1K</figcaption>
+</figure>
 
 ### Mortasadora
-Mortajadora
+
+Aquesta és una variant del llimat. En aquesta màquina, només es poden generar ranures i perfils (no superficies planes), ja que presenta un moviment de tall vertical. És el moviment de rotació de l'eix on està la peça el que extén el tall a tot el conjunt. 
+
+<figure markdown="span">
+    ![](./img/mortassadora_1.jpg){ width="600" }
+    <figcaption>Foto de IMH Campus: https://www.imh.eus/es/imh/comunicacion/docu-libre/procesos-fabricacion/mecanizado/arranque-de-viruta/mortajado</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/mortassadora_2.jpg){ width="600" }
+    <figcaption>Foto de LIBHERR: https://www.liebherr.com/es-int/t%C3%A9cnica-de-engranajes-y-automatizaci%C3%B3n/mortajado-por-generacion/ls400em-6440911</figcaption>
+</figure>
+
+Presenta unes toleràncies grans i rugositats àmplies. A banda, no permet una producció en sèrie.
 
 ### Brotxadora
-Brochadora
+
+<figure markdown="span">
+    ![](./img/brotxadora.png){ width="600" }
+    <figcaption>Foto de NARGESA: https://nargesa.com/es/maquinaria-industrial/brochadora-vertical-bm25</figcaption>
+</figure>
+
+Utilitza una eina multifilament per crear ranures, perfils i orificis amb forma. S'assoleix mitjançant el moviment de la ferramenta sobre la peça. Cada filament ataca més distància que l'anterior per arrancar viruta progressivament. Així, només cal una única passada.
+
+<figure markdown="span">
+    ![](./img/brotxadora_esquema_1.jpg){ width="600" }
+    <figcaption>Foto de Mecánica y Electromecánica - Escuela Técnica: https://mecanicaesctec.blogspot.com/2020/09/diseno-y-procesamiento-mecanico-la-broca.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/brotxadora_esquema_2.jpg){ width="600" }
+    <figcaption>Foto de Getzshape: https://www.getzshape.com/es/blog/broaching-machining/</figcaption>
+</figure>
+
+Depenent de la geometria que es vol assolir, caldrà seleccionar una brotxa distinta.
+
+<figure markdown="span">
+    ![](./img/brotxes.jpg){ width="600" }
+    <figcaption>Foto de PRO-LEAN: https://proleantech.com/es/mastering-broaching-machining-process-applications-and-advantages/</figcaption>
+</figure>
+
+En aquest procés, cal destacar que les toleràncies i rugositats són millors que les obtingudes en els processos anteriors. 
+
+### Serrat
+
+Com. ben bé indica el seu nom, aquest procés utilitza una eina multifilament per provocar una separació de material. Els moviments de tall i avançada els produeix la mateixa eina. Les dets estan lleugerament desviades del filament per garantir que l'eina no tinga problemes de fricció. 
+
+<figure markdown="span">
+    ![](./img/serrat_2.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/2AokUrGqB3M?si=e3EGhrUNbopQMU1K</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/serrat_vertical.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/2AokUrGqB3M?si=e3EGhrUNbopQMU1K</figcaption>
+</figure>
+
+Aquets procés genera grans toleràncies i rugositats. És adaptable a una producció en sèrie.
 
 ### Perforadora 
-Taladradora
+La perforadora o taladradora
 
 ### Rectificadora
 
@@ -705,7 +786,12 @@ M4 S1200;
 - https://youtu.be/ZchOy9UVjJw?si=XzyHUvAmQ4NIi87P
 - https://youtu.be/JPvkoq0_YhM?si=cydR8es-7d_cr6mc
 - https://youtu.be/tQqw0utbx9o?si=w_7sCpOc4kSchBDH
-
-
 - https://youtu.be/XZtquL7ypsQ?si=Fe5ndq8N9ohtiVZS
+- https://youtu.be/WuV71AhbRHc?si=Rz4kxopG9LeStx2z
+- https://youtu.be/y9doqBR_RTk?si=KWjNrrhigmpaq97S
+- https://youtu.be/ysZo38ii-zU?si=mCRDwH1b40_PXkn9
+- https://youtu.be/ux58mHH7PCU?si=HumqN8I1_gWpJZcs
+- https://youtu.be/na0RyfBNY8k?si=AcBzpnNON25vy6XM
+- https://youtu.be/2AokUrGqB3M?si=h8eDvjLowausf8NK
+- 
 
