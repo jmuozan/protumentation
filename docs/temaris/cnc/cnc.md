@@ -490,7 +490,69 @@ Com. ben bé indica el seu nom, aquest procés utilitza una eina multifilament p
 Aquets procés genera grans toleràncies i rugositats. És adaptable a una producció en sèrie.
 
 ### Perforadora 
-La perforadora o taladradora
+La perforadora o *taladradora* en castellà és una màquina eina amb la qual es realitzen forats en les peces mitjançant una eina anomenada broca.
+
+<figure markdown="span">
+    ![](./img/perforadora_1.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/kYZVsE992sM?si=_GmBr1ugdeOYpKRw</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/broca.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/tC7jfKrcGYo?si=DMJQVW-HuEtWPh8I</figcaption>
+</figure>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/kYZVsE992sM?si=_GmBr1ugdeOYpKRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+És important abans de perforar utilitzar una broca de punt per fer una marca a la peça, ja que, sinó, la broca per foradar pot doblar-se i trencar-se. 
+Per subjectar les peçes a la taula, d'una manera similar a la fresa, s'utilitzaran mordasses, brides, brides ràpides, l'esquadra amb gats i el plat de garres. 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/https://youtu.be/qlDrGygqb6g?si=9_6THQsI3BrvOzm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+Respecte de les condicions per realitzar el tall, cal seguir les mateixes indicacions que pel tornejat i fresat:
+
+<figure markdown="span">
+    ![](./img/perforat_calculs.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/s5tzbl8Ce7k?si=jUqKfLY6FAoEvMsq</figcaption>
+</figure>
+
+Entre les operacions possibles amb la perforadora es poden destacar: el puntejat, per marcar els forats inicials on anirà la broca; perforat o reperforat, per fer o engrandir les forats; atrompetat, avellanat, que realitza una superfície cònica amb un i profunditat establerts sobre un forat ja fet; abocardat, per eliminar les rebabes de la cara oposada de la peça (s'utilitza la meitat de la velocitat); lamat, similar a l'avellanat però amb l'objectiu d'aconseguir una superfície plana en comptes de cònica o l'escarit, que necessita també un forat previament fet. Aquesta darrera és una operació d'acabat, la qual millora les toleràncies superficials.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/https://youtu.be/Hqa_40Agcw8?si=FGgsZbofgD06r80w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+És poden realitzar també un conjunt d'operacions addicionals entre les quals destaca:
+
+- El roscat: Per realitzar-la cal un màscle de rosca especial. És imperatiu un forat realitzat prèviament a la rosca d'un diàmetre menor. 
+
+- Refrentat: L'objectiu en aquest procés és obtindre una superfície plana. 
+
+- Trepanat: S'usa una corona per obtindre forats de grans dimensions en peces d'un espesor xicotet. 
+
+<figure markdown="span">
+    ![](./img/trepanat.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/tC7jfKrcGYo?si=DMJQVW-HuEtWPh8I</figcaption>
+</figure>
+
+- Retallat: Aquesta és molt similar al trepanat, l'avantatge és que l'eina utilitzada pot ajustar el seu diàmetre. En aquesta operació cal un forat prèviament realitzat. Aquest mètode, però, genera rebabes al material.
+
+<figure markdown="span">
+    ![](./img/retallat.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/gpKxls6KpZ4?si=IgbziXioVTy02GmN</figcaption>
+</figure>
+
+- Trossejat: Cal fer.ho servir quan es vol separar una peça en dues parts.
+
+- Mandrinat: També cal un forat fet prèviament, però, a diferència del perforat, aquest mètode assoleix millors acabats superficials. 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/https://youtu.be/gpKxls6KpZ4?si=DL5gGdsHnAp4CLMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ### Rectificadora
 
@@ -611,12 +673,50 @@ S'utilitzen amb abrasius, es caracteritzen per tindre un nombre de filaments ind
 
 ### Electroerosió
 
-### Rectificació
+És un procés de fabricació també conegut com mecanitzat per descàrrega elèctrica (EDM). Consisteix en generar un arc elèctric entre una peça i un electrode en un medi dielèctric per arrancar i erosionar particules de la peça fins reproduir en aquesta les formes de l'electrode. 
 
-### Tornejament de precisió
+<figure markdown="span">
+    ![](./img/electroesrosio.png){ width="600" }
+    <figcaption>Foto de José Francisco Hernández Feregrino: https://youtu.be/usxl_5sQJiI?si=elnEyXNB2m2O4WZJ</figcaption>
+</figure>
 
-### Fresatge de precisió
+La qualitat, diàmetre i material del fil utilitzat afecten directament a la velocitat amb la qual una peça pot ser treballada i el seu grosor. El dil pot ser de llautó i zinc.
+La taula on es munta la peça és "terra", es a dir, té polaritat negativa.
 
+<figure markdown="span">
+    ![](./img/parts_electroerosio.png){ width="600" }
+    <figcaption>Foto de José Francisco Hernández Feregrino: https://youtu.be/usxl_5sQJiI?si=elnEyXNB2m2O4WZJ</figcaption>
+</figure>
+
+És imperatiu, però, que tots els materials que es pretenguen tallar mitjançant l'electroerosió siguen conductors o semiconductors. 
+
+<!--### Rectificació-->
+
+### Tornejament i fresatge de precisió
+
+Quan es busca assolir unes precisions superiors cal recorrer a el tornejament de precissió i el fresat de precisió. 
+
+Tornejat
+- Convencional: El torn fa girar la peça mentre una eina la mecanitza. Les toleràncies típiques són de ±0,1 mm o més, amb acabats superficials mitjans. Depèn molt de l'habilitat de l'operari.
+- De precisió: similar però
+
+    - Toleràncies de ±0,001 – ±0,01 mm
+    - Fusos d'alta rigidesa amb rodaments de precisió
+    - Control CNC amb retroalimentació de posició en temps real
+    - Eines de CBN (nitrur cúbic de bor) o diamant policristal·lí
+    - Acabats superficials de Ra 0,1 µm o millors
+    - ontrol estricte de temperatura a l'entorn de treball
+
+
+Fresatge
+- Convencional: Una fresa rotatòria arrenca material per crear plans, ranures o formes. Toleràncies de ±0,05 – ±0,5 mm segons l'operari i la màquina.
+- De precisió: Similar, però
+
+    - Toleràncies de ±0,001 – ±0,005 mm
+    - Centres de mecanitzat CNC de 5 eixos amb compensació tèrmica
+    - Estratègies de trajectòria d'eina optimitzades (CAM avançat)
+    - Mesura en màquina amb sondes de contacte
+    - Vibracions controlades (taules anti-vibració, fus d'alta freqüència)
 
 ## Programació i control numèric
 
@@ -793,5 +893,13 @@ M4 S1200;
 - https://youtu.be/ux58mHH7PCU?si=HumqN8I1_gWpJZcs
 - https://youtu.be/na0RyfBNY8k?si=AcBzpnNON25vy6XM
 - https://youtu.be/2AokUrGqB3M?si=h8eDvjLowausf8NK
-- 
+- https://youtu.be/kYZVsE992sM?si=MRlgRcz6oA1-ZxtR
+- https://youtu.be/qlDrGygqb6g?si=sOSfmf4RaH1ezhtL
+- https://youtu.be/s5tzbl8Ce7k?si=V3kVMXoW6H35bCXf
+- https://youtu.be/Hqa_40Agcw8?si=HQowwyXLiv0MeJPm
+- https://youtu.be/gpKxls6KpZ4?si=5QjgvqVaRFIBJV1E
+- https://youtu.be/tC7jfKrcGYo?si=U4m1Ca1-EvxyHIvd
+- https://youtu.be/usxl_5sQJiI?si=jAqvnXK3P5ezy0jD
+- https://youtu.be/El8ucn7pPps?si=lK0b_IYc37s-25dM
+- https://www.lsrpf.com/es/blog/precision-cnc-milling-explained-process-advantages-and-key-applications
 

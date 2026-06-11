@@ -29,7 +29,7 @@
 - [x] 18. Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
 - [x] 19. Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
 - [ ] 20. Programació i control numèric: automatització, programació CNC i robots industrials.
-- [ ] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
+- [x] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
 
 ## Mòdul 6. Fabricació additiva
 - [ ] 22. Introducció a la fabricació additiva: tecnologies i aplicacions.
