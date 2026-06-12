@@ -870,6 +870,108 @@ M4 S1200;
 
 ### Robots industrials
 
+<figure markdown="span">
+    ![](./img/robot_sim.gif){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
+La robòtica és una disciplina que tracta d'investigar i desenvolupar uns sistemes mecànics anomenats robots, els quals tenen una gran varietat d'aplicacions científiques, industrials, domèstiques i comercials.
+
+<figure markdown="span">
+    ![](./img/mecatronica_esquema.png){ width="600" }
+    <figcaption>Foto de César Chávez: https://youtu.be/x_PvOL_Cvps?si=uwE6qCtyG2a8kXvX</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/esquema_tipus_robots.png){ width="600" }
+    <figcaption>Foto de César Chávez: https://youtu.be/x_PvOL_Cvps?si=uwE6qCtyG2a8kXvX</figcaption>
+</figure>
+
+Un robot és un manipulador multifuncional reprogramable. L'habilitat de reprogramar és la que dona al robot la seua utilitat, adaptabilitat i versatilitat. Els robots a la industria s'encarreguen d'automatitzar la producció.
+Els robots, constitueixen una cadena cinemàtica oberta.
+
+<figure markdown="span">
+    ![](./img/cinematica_robot.png){ width="600" }
+    <figcaption>Foto de César Chávez: https://youtu.be/x_PvOL_Cvps?si=uwE6qCtyG2a8kXvX</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/robot_1.jpg){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
+Un robot ha de tindre sis graus de llibertat: tres per posicionament i tres per orientació. Si no en té sis, un robot no pot accedir a tots els punts dins del seu volum o espai de treball amb una orientació arbritrària.
+L'espai de treball és el volum total recorregut per l'extrem del robot quan aquest executat tots els seus moviments possibles. L'espai està restringit per la geometria i les restriccions mecàniques de les juntes. 
+
+<figure markdown="span">
+    ![](./img/configuracions_robot.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/U48pJzoX0pU?si=xXBOolhXitef2DFc</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/robot_3.gif){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/robot_2.jpg){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
+Hi ha dos concepts que cal tindre en compte amb els robots industrials:
+
+- Exactitud: És la mesura que determina tot el que pot apropar-se un manipulador a un punt determinat.
+
+- Repetibilitat: És la capacitat d'un manipulador per tornar a un punt el qual havia assolit amb anterioritat.
+
+<figure markdown="span">
+    ![](./img/exactitud_repetibilitat.png){ width="600" }
+    <figcaption>Foto de César Chávez: https://youtu.be/x_PvOL_Cvps?si=uwE6qCtyG2a8kXvX</figcaption>
+</figure>
+
+L'actuador (o end-effector) és l'eina que es col·locarà a l'extrem del robot.
+
+<figure markdown="span">
+    ![](./img/robot_4.jpg){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
+Existeixen tres nivells de programació de robots industrials:
+
+- Nivell robot: Es programa tot el codi indicant moviment, velocitats i actuadors.
+
+- Nivell objecte: En aquest cas, es disposa d'un conjunt de rutines com a primitives i el robot gracies a aquestes les pot adaptar
+
+- Nivell tasca: Ací, només es determina la posició. El robot, a partir de la seua programació interpretarà com fer-ho.
+
+Per programar robots, existeixen diversitats de llenguatges, ja que no estan estandaritzats.
+
+<figure markdown="span">
+    ![](./img/llenguatges.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/U48pJzoX0pU?si=xXBOolhXitef2DFc</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/puntos_de_paro_paso.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://youtu.be/U48pJzoX0pU?si=xXBOolhXitef2DFc</figcaption>
+</figure>
+
+A l'hora de programar, els punts de parada, interpolen la posició i mantenen una velocitat constant.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/https://youtu.be/BBrLAOr89KY?si=jCvhvbgrbstrT97L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+<figure markdown="span">
+    ![](./img/robot_manec_1.jpg){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/robot_manec_2.jpg){ width="600" }
+    <figcaption>Producció pròpia</figcaption>
+</figure>
+
 
 
 ## Bibliografia
@@ -902,4 +1004,23 @@ M4 S1200;
 - https://youtu.be/usxl_5sQJiI?si=jAqvnXK3P5ezy0jD
 - https://youtu.be/El8ucn7pPps?si=lK0b_IYc37s-25dM
 - https://www.lsrpf.com/es/blog/precision-cnc-milling-explained-process-advantages-and-key-applications
+- https://www.youtube.com/watch?v=x_PvOL_Cvps
+- https://www.youtube.com/watch?v=CzdfIzwP5p4
+- https://www.youtube.com/watch?v=BBrLAOr89KY
+- https://www.youtube.com/watch?v=U48pJzoX0pU&list=PLjzuoBhdtaXNJsStcYKhRM8q3rBqWGV2J
+- https://youtu.be/RUOVfhYTkug?si=Y5EkgkmmwwVDpGLp
+- https://youtu.be/MEM6pOk74II?si=sXKEhOWiHqQa60FC
+- https://youtu.be/X5-9Qj_TsoE?si=uWrHYMFNasWDqb5j
+- https://youtu.be/6b_4A8HMNQY?si=u-v7Cm_JB-Qo9PiH
+- https://youtu.be/SEaobruYOCM?si=illTlA9JodJOB3md
+- https://youtu.be/rvgUYeDGRKI?si=ZblQoe5LHzcs5zmf
+- https://youtu.be/1EGJXvpmhVs?si=YzI10ET2QKm8VTYn
+- https://youtu.be/DTlr5OireSU?si=5sGvh58GHmFISmmy
+- https://youtu.be/vC1wua6nLcA?si=NhHUM_WMLXaA_3TW
+- https://youtu.be/0RqXxT9u_Xc?si=T3VziqacEV2eDu9X
+- https://youtu.be/JkI-Ep0Sm3E?si=X0YbxrWA_BXaUggW
+- https://youtu.be/meHgUV0LP9E?si=LlQ5ZqY2WtSUVUUR
+- https://youtu.be/8AbA9TJG4aU?si=bQYh5iJZPfpkzNEX
+- https://youtu.be/xzmk_afdpmk?si=WdN4HuEsx7Id50Vo
+- https://www.youtube.com/watch?v=Fd7wjZDoh7g
 

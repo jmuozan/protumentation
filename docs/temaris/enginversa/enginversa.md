@@ -132,3 +132,6 @@ El programari genera la geometria directament a partir de les dades d'escaneig. 
 - https://youtu.be/oxo1FBScEAs?si=Z3MAazifh5AGk2eK
 - https://youtu.be/Ac4Rs-tFZOU?si=xmWZRCNiVqTRhCYi
 - https://youtu.be/zJTsg6-UGwM?si=XprA9D3j6MM1IoLO
+- https://tecnoia.com/tecnologias-de-escaneo-3d-principales-tecnologias-y-sus-ventajas-y-limitaciones/
+- https://www.youtube.com/watch?v=tC7jfKrcGYo
+- https://www.youtube.com/watch?v=gpKxls6KpZ4
