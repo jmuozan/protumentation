@@ -32,7 +32,7 @@
 - [x] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
 
 ## Mòdul 6. Fabricació additiva
-- [ ] 22. Introducció a la fabricació additiva: tecnologies i aplicacions.
+- [x] 22. Introducció a la fabricació additiva: tecnologies i aplicacions.
 - [ ] 23. Tecnologies d'impressió 3D: FDM, SLA, SLS i materials usats.
 - [ ] 24. Processament i postprocessament de peces additives: paràmetres, optimització i validació de peces.
 

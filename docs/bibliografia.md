@@ -37,3 +37,6 @@ Conjunt de bibliografia general, la qual considere interessant per endinsar-se m
 **Gershenfeld, Neil; Gershenfeld, Alan; Cutcher-Gershenfeld, Joel.** *Designing Reality: How to Survive and Thrive in the Third Digital Revolution.* Basic Books, 2017.
 
 **Gershenfeld, Neil.** *Fab: The Coming Revolution on Your Desktop — from Personal Computers to Personal Fabrication.* Basic Books, 2007.
+
+
+3d printing handbook

@@ -104,14 +104,32 @@ Els principals mètodes per obtenir dades d'un objecte real en dos tipus princip
     <figcaption>Foto de Vision Miner: https://youtu.be/zJTsg6-UGwM?si=K-Q-TzGXltRkeZUe</figcaption>
 </figure>
 
+<figure markdown="span">
+    ![](./img/point_correspondance.png){ width="600" }
+    <figcaption>Foto de Fabacademy: https://fabacademy.org/2026/classes/scanning_printing/index.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/points.png){ width="600" }
+    <figcaption>Foto de Fabacademy: https://fabacademy.org/2026/classes/scanning_printing/index.html</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/mesh_rose.png){ width="600" }
+    <figcaption>Foto de Fabacademy: https://fabacademy.org/2026/classes/scanning_printing/index.html</figcaption>
+</figure>
+
 ### Escaneig 3D
-
-
 
 L'escaneig 3D genera principalment dos tipus de dades:
 
 - **Núvol de punts**: Milions de punts en l'espai que representen les superfícies de la peça, formant una imatge 3D dimensionalment precisa.
 - **Malla (Mesh)**: Els punts del núvol es connecten per formar triangles. El format més comú és l'**STL**, també utilitzat en impressió 3D.
+
+<figure markdown="span">
+    ![](./img/mesh.png){ width="600" }
+    <figcaption>Foto de Fabacademy: https://fabacademy.org/2026/classes/scanning_printing/index.html</figcaption>
+</figure>
 
 ### Tècniques de reconstrucció 
 
@@ -121,11 +139,9 @@ Existeixen dos fluxos de treball diferenciats:
 La peça es modela característica per característica en el programari CAD (com SolidWorks), usant l'escaneig com a referència per garantir la precisió dimensional. Permet control total sobre les cotes i el model resultant.
 
 **2. Autosuperposició de superfícies (Auto Surface)**  
-El programari genera la geometria directament a partir de les dades d'escaneig. El procés és molt ràpid, però ofereix menys control dimensional. 
+El programari genera la geometria directament a partir de les dades d'escaneig. El procés és molt ràpid, però ofereix menys control dimensional.
 
-### Programari
-
-
+<!--### Programari-->
 
 ## Bibliografia
 
@@ -135,3 +151,4 @@ El programari genera la geometria directament a partir de les dades d'escaneig. 
 - https://tecnoia.com/tecnologias-de-escaneo-3d-principales-tecnologias-y-sus-ventajas-y-limitaciones/
 - https://www.youtube.com/watch?v=tC7jfKrcGYo
 - https://www.youtube.com/watch?v=gpKxls6KpZ4
+- https://fabacademy.org/2026/classes/scanning_printing/index.html
