@@ -38,5 +38,6 @@ Conjunt de bibliografia general, la qual considere interessant per endinsar-se m
 
 **Gershenfeld, Neil.** *Fab: The Coming Revolution on Your Desktop — from Personal Computers to Personal Fabrication.* Basic Books, 2007.
 
-
 3d printing handbook
+
+Low tech magazine

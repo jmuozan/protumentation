@@ -6,13 +6,13 @@
 
 ### Riscos elèctrics 
 
-### Riscos químics.
+### Riscos químics
 
 ## Ergonomia del lloc de treball i pantalles de visualització
 
 ### Riscos posturals 
 
-### Riscos visuals.
+### Riscos visuals
 
 ## Planificació de l'activitat preventiva de riscos
 
@@ -20,10 +20,12 @@
 
 ### Control
 
-## Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. 
+## Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics
 
 Informació accessible en: [http://www.sprl.upv.es/guiapracalummecan.htm](http://www.sprl.upv.es/guiapracalummecan.htm)
 
 ## Els equips de treball 
 
 Informació accessible en: [http://www.sprl.upv.es/d7_9_b.htm](http://www.sprl.upv.es/d7_9_b.htm)
+
+## Bibliografia

@@ -52,6 +52,6 @@
 - [ ] 33. Els equips de treball. Informació accessible en: [http://www.sprl.upv.es/d7_9_b.htm](http://www.sprl.upv.es/d7_9_b.htm)
 
 ## Mòdul 10. Control de qualitat i gestió de laboratori
-- [ ] 34. Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
-- [ ] 35. Gestió del laboratori: inventari, manteniment i organització.
+- [x] 34. Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
+- [x] 35. Gestió del laboratori: inventari, manteniment i organització.
 - [ ] 36. Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. Informació accessible en: [http://www.upv.es/medioambiente.](https://www.upv.es/entidades/amapuoc/va/inici-ca/)

@@ -44,4 +44,6 @@
 
 ### Equips 
 
-### Certificació del calibratge.
+### Certificació del calibratge
+
+## Bibliografia
