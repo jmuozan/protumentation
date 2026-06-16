@@ -45,13 +45,13 @@
 - [ ] 28. Coneixements complementaris d'informàtica: Autocad, Mastercam, programari de disseny i simulació.
 
 ## Mòdul 9. Seguretat i salut
-- [ ] 29. Protecció en laboratoris i tallers: riscos mecànics, elèctrics i químics.
-- [ ] 30. Ergonomia del lloc de treball i pantalles de visualització: riscos posturals i visuals.
-- [ ] 31. Planificació de l'activitat preventiva de riscos: implementació i control.
-- [ ] 32. Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. Informació accessible en: [http://www.sprl.upv.es/guiapracalummecan.htm](http://www.sprl.upv.es/guiapracalummecan.htm)
+- [x] 29. Protecció en laboratoris i tallers: riscos mecànics, elèctrics i químics.
+- [x] 30. Ergonomia del lloc de treball i pantalles de visualització: riscos posturals i visuals.
+- [x] 31. Planificació de l'activitat preventiva de riscos: implementació i control.
+- [x] 32. Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. Informació accessible en: [http://www.sprl.upv.es/guiapracalummecan.htm](http://www.sprl.upv.es/guiapracalummecan.htm)
 - [ ] 33. Els equips de treball. Informació accessible en: [http://www.sprl.upv.es/d7_9_b.htm](http://www.sprl.upv.es/d7_9_b.htm)
 
 ## Mòdul 10. Control de qualitat i gestió de laboratori
 - [x] 34. Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
 - [x] 35. Gestió del laboratori: inventari, manteniment i organització.
-- [ ] 36. Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. Informació accessible en: [http://www.upv.es/medioambiente.](https://www.upv.es/entidades/amapuoc/va/inici-ca/)
+- [x] 36. Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. Informació accessible en: [http://www.upv.es/medioambiente.](https://www.upv.es/entidades/amapuoc/va/inici-ca/)

@@ -55,6 +55,16 @@ nav:
     - Mòdul 8. Informàtica aplicada CAD/CAM: temaris/cad/cad.md
     - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
     - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
+  # - Modelisme i maquetisme:
+    # - Mòdul 1. Història: temaris/modelisme_i_maquetisme/historia/historia.md
+    # - Mòdul 2. Maquetes i models: temaris/modelisme_i_maquetisme/maquetes/maquetes.md
+    # - Mòdul 3. Oficina tècnica: temaris/modelisme_i_maquetisme/ofitec/ofitec.md
+    # - Mòdul 4. Metalls i unions: temaris/modelisme_i_maquetisme/metalls/metalls.md
+    # - Mòdul 5. Fusta: temaris/modelisme_i_maquetisme/fusta/fusta.md
+    # - Mòdul 6. Motlles: temaris/motles/motlles.md
+    # - Mòdul 7. Estris i materials: temaris/modelisme_i_maquetisme/estris/estris.md
+    # - Mòdul 8. CNC: temaris/cnc/cnc.md
+    # - Mòdul 9. Gestió de taller: temaris/qualitat/qualitat.md
   # - Estudiants: estudiants/estudiants.md
   - Contribuir: contribucions/contribueix.md
   - Glossari: glossari.md
