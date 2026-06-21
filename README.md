@@ -18,12 +18,12 @@
 - [ ] 11. Processos de deformació volumètrica: laminatge, forjat, extrusió i trefilatge.
 - [ ] 12. Conformació de xapa: processos amb separació de material i sense.
 - [ ] 13. Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils, prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
-- [ ] 14. Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
+- [x] 14. Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
 
 ## Mòdul 4. Processos d'unió
 - [ ] 15. Fonaments de la soldadura: processos d'unió, soldabilitat i simbologia.
-- [ ] 16. Tècniques de soldadura elèctrica: SMAW, TIG, MIG/MAG, soldadura per plasma, soldadura per resistència i soldadura làser.
-- [ ] 17. Altres processos d'unió: soldadura oxiacetilènica i adhesius.
+- [x] 16. Tècniques de soldadura elèctrica: SMAW, TIG, MIG/MAG, soldadura per plasma, soldadura per resistència i soldadura làser.
+- [x] 17. Altres processos d'unió: soldadura oxiacetilènica i adhesius.
 
 ## Mòdul 5. Processos de mecanització i control numèric
 - [x] 18. Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
