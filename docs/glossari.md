@@ -5,3 +5,6 @@ escafandre = escafandra
 aliatge = aleación
 trefilatge = trefilado
 cementita = cementita
+troquelar = encunyar
+embutido = embotit
+repujar = repujar

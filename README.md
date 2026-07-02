@@ -14,14 +14,14 @@
 - [x] 9. Qualitat en peces foses: classificació de defectes i regles de disseny.
 
 ## Mòdul 3. Conformació de materials
-- [ ] 10. Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació.
-- [ ] 11. Processos de deformació volumètrica: laminatge, forjat, extrusió i trefilatge.
+- [x] 10. Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació.
+- [x] 11. Processos de deformació volumètrica: laminatge, forjat, extrusió i trefilatge.
 - [ ] 12. Conformació de xapa: processos amb separació de material i sense.
 - [ ] 13. Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils, prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
 - [x] 14. Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
 
 ## Mòdul 4. Processos d'unió
-- [ ] 15. Fonaments de la soldadura: processos d'unió, soldabilitat i simbologia.
+- [x] 15. Fonaments de la soldadura: processos d'unió, soldabilitat i simbologia.
 - [x] 16. Tècniques de soldadura elèctrica: SMAW, TIG, MIG/MAG, soldadura per plasma, soldadura per resistència i soldadura làser.
 - [x] 17. Altres processos d'unió: soldadura oxiacetilènica i adhesius.
 
@@ -49,7 +49,7 @@
 - [x] 30. Ergonomia del lloc de treball i pantalles de visualització: riscos posturals i visuals.
 - [x] 31. Planificació de l'activitat preventiva de riscos: implementació i control.
 - [x] 32. Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. Informació accessible en: [http://www.sprl.upv.es/guiapracalummecan.htm](http://www.sprl.upv.es/guiapracalummecan.htm)
-- [ ] 33. Els equips de treball. Informació accessible en: [http://www.sprl.upv.es/d7_9_b.htm](http://www.sprl.upv.es/d7_9_b.htm)
+- [x] 33. Els equips de treball. Informació accessible en: [http://www.sprl.upv.es/d7_9_b.htm](http://www.sprl.upv.es/d7_9_b.htm)
 
 ## Mòdul 10. Control de qualitat i gestió de laboratori
 - [x] 34. Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.

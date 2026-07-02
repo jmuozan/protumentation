@@ -2,10 +2,108 @@
 
 ## Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació
 
+La deformació plàstica consisteix en l'aplicació d'un esforç mecànic mitjançant càrregues sobre el material per aconseguir superanr el límit de fluència del material modificant la geometria i que el canvi de forma siga permanent per obtenir una nova geometria, la qual depenent de les condicions de treball i les propietats del material poden ser distintes respecte a les considerades inicialment
+
+``` mermaid
+graph LR
+  A[Cargues exteriors] --> B[Aplicació d'un esforç mecànic];
+  B --> C[Modificació de la geometria];
+  D[Límit de fluència] --> C;
+  C -->E[Canvi de forma permanent];
+  F[Nova geometria / propietats] -->E;
+```
+
+Aquest procés es restrigeix d'acord amb:
+
+``` mermaid
+stateDiagram-v2
+  state material
+  state temperatura
+    material --> restringeix
+    temperatura --> restringeix
+    restringeix --> S1
+    restringeix --> S2
+    restringeix --> S3
+    restringeix --> S4
+    S1: Tipus de geometria
+    S2: Propietats finals de la peça
+    S3: Seqüència de tasques que cal realitzar
+    S4: Qualitat de la peça final
+```
+
+La deformació plàstica per tant és la deformació aplicada a un material no recuperable
+
+<figure markdown="span">
+    ![](./img/deformacio_plastica.png){ width="300" }
+    <figcaption>Foto de Juan Manuel Vallejos: https://youtu.be/5u1yQZHw1iA?si=0obRAIccrV5Q-MD6</figcaption>
+</figure>
+
+
+La deformació plàstica provoca:
+
+- Canvis de forma significatius respecte a la matèria de partida.
+-  Millores en les característiques mecàniques del material.
+- En alguns casos s'obtenen peces acabades sense necessitat de processament posterior.
+- Toleràncies més ajustades i acabats superficials millors que en peces obtingudes per fosa.
+- Possibilitat d'obtenir tant geometries senzilles com complexes.
+
+Els efectes de la temperatura en el procés de deformació plàstica es basen en l'assoliment de la temperatura de recristalització, la qual es pot definir com la meitat de la de fusió. Arribar a aquesta temperatura provoca un creiximent del gra i canvia la localització de la deformació en la estrucutra (a les vores del gra o al gra). Si es treballa per sota de la T s'anomenta conformat en fred i si es treballa per damunt conformat en calent.
+
+``` mermaid
+graph TB
+    A["Conformat en fred"]
+    A --> B["Sense recristal·lització"]
+    B --> C["Deformació intragranular"]
+    C --> D["Canvien les proprietats mecàniques"]
+    D --> E["Requereix grans esforços"]
+
+    F["Conformat en calent"]
+    F --> G["Recristal·lització"]
+    G --> H["Deformació intergranular"]
+    H --> I["No canvien les proprietats mecàniques"]
+    I --> J["Requereix esforços menors"]
+```
+
+### Conformat en fred
+
+<figure markdown="span">
+    ![](./img/deformacio_fred.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://www.weerg.com/es/guias/galvanizacion</figcaption>
+</figure>
+
+Això provoca que el material no estiga homogeneïtzat; tensions residuals als materials; un augment de la duresa, el límit elàstic i la fragilitat; i que l'esforç requerit depenga del grau de deformació.
+
+### Conformat en calent
+
+D'altra banda, a la deformació en calent es recupera totalment durant el procés. En aquest cas, ocorre una major homogeneïtat del material, No s'acumulen tensions residuals al material, les proprietats mecàniques no són afectades, i l'esforç que es requereix depen de la velocitat de deformació.
+
+<figure markdown="span">
+    ![](./img/deformacio_calent.png){ width="600" }
+    <figcaption>Foto de Universitat Politècnica de València: https://www.weerg.com/es/guias/galvanizacion</figcaption>
+</figure>
+
+
+
+
+
+
 
 
 
 ## Processos de deformació volumètrica
+
+``` mermaid
+graph TB
+    A["Processos de deformació volumètrica"]
+    A --> B["Canvis significatius de forma (3D)"]
+    B --> C["Conformat en calent"]
+    C --> D["Toleràncies i acabats superficials limitats"]
+
+    E["Processos de conformat de xapa"]
+    E --> F["Canvis en forma 2D, mantenint un espessor]
+    F --> G["Conformat en fred"]
+    G --> H["Toleràncies i acabats superficials bons"]
+```
 
 ### Laminatge
 
@@ -20,6 +118,13 @@
 
 ## Conformació de xapa: processos amb separació de material i sense.
 
+### Encunyat
+
+### Embotit
+
+### Doblat
+
+### Repujat
 
 
 ## Processos de conformació de materials polimèrics i compostos
@@ -227,3 +332,5 @@ Per altra banda, també hi ha metalls NO RECOMANATS PER A GALVANITZAR, com l'ace
 - https://youtu.be/rEV2b4I0_zQ?si=dff2sY_qutnVIDgw
 - https://ca.wikipedia.org/wiki/Nitruraci%C3%B3
 - https://www.weerg.com/es/guias/galvanizacion
+- https://youtu.be/OgTVh-9pmTQ?si=gF9JCY2jHlsThLZD
+- https://youtu.be/5u1yQZHw1iA?si=7NiOe1Rqv9xuxVPP
