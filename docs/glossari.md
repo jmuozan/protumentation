@@ -8,3 +8,4 @@ cementita = cementita
 troquelar = encunyar
 embutido = embotit
 repujar = repujar
+chaflán = xamfrà
