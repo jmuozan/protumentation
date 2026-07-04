@@ -220,7 +220,83 @@ una esquerda interna. Aquest principi s'aprofita en el perforat de corrons. Els 
 
 ### Forjat
 
+El forjat és un procés de deformació en el qual es comprimeix el material de treball entre dos encunys, usant impacte o pressió gradual per a formar la peça. Aquests components inclouen cigonyals i bieles per a motors de combustió interna, engranis, components estructurals per a aviació i peces per a turbines i motors de propulsió. S'usa el forjat per a fixar la forma bàsica de grans components que després es maquinen per a aconseguir la seva forma final i dimensions definitives.
 
+Una manera de classificar les operacions de forja és mitjançant la temperatura de treball. La majoria de les operacions de forja es realitza en calenta (per dalt o per sota de la temperatura de cristal·lització), donada la deformació que demanda el procés i la necessitat de reduir la resistència i incrementar la ductilitat del metall de treball; no obstant això, el forjat en fred és molt comú per a uns certs productes. L'avantatge del forjat en fred és que incrementa la resistència que resulta de l'enduriment per deformació del component.
+
+En el forjat s'aplica la pressió per impacte o en forma gradual. Una màquina de forjat que aplica càrregues d'impacte es diu martinet de nit de forja, mentre que la que aplica pressió gradual es diu premsa de forjat.
+
+Una altra diferència entre les operacions de forjat és el grau en què els encunys restringeixen el flux del metall de treball. Hi ha tres tipus d'operacions de forjat: a) forjat en encuny obert, b) forjat en encuny impressor i c) forjat sense rebava. En el forjat en encuny obert, el treball es comprimeix entre dos encunys plans (o gairebé plans), permetent que el metall flueixi sense restriccions en una direcció lateral respecte a les superfícies de l'encuny. En el forjat en encuny impressor, les superfícies de l'encuny contenen una forma o impressió que s'imparteix al material de treball durant la compressió, restringint significativament el flux de metall. En aquesta mena d'operació, una part del metall flueix més enllà de l'encuny impressor formant una rebava, com es mostra en la figura.
+
+En el forjat sense rebava, l'encuny restringeix completament el material de treball dins de la cavitat i no es produeix rebava excedent. És necessari controlar estretament el volum de la peça inicial perquè iguali al volum de la cavitat de l'encuny.
+
+<figure markdown="span">
+    ![](./img/forjat_3_tipus.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/deformacio_ideal_troquel.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/deformacio_real_troquel.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+#### Anàlisi del forjat en encuny obert
+
+Si el forjat en encuny obert es duu a terme sota condicions ideals, sense fricció entre el treball i la superfície de l'encuny, ocorre una deformació homogènia i el flux radial de material és uniforme al llarg de la seva altura
+
+Una operació real de recalcat no ocorre com una deformació homogènia, pel fet que la fricció s'oposa al flux de metall en la superfície dels encunys. Això crea un efecte d'inflor en forma de barril, anomenat abarrilament. Quan es fa un treball en calent amb encunys freds, el abarrilament és més pronunciat. Això es deu a un coeficient de fricció més alt, típic del treball en calent, i a la transferència de calor en la superfície de l'encuny i les seues zones properes, la qual cosa refreda el metall i augmenta la seua resistència a la deformació. El metall més calent es troba enmig de la peça i flueix més fàcilment que el material més fred dels extrems. L'efecte s'accentua en augmentar la relació entre el diàmetre i l'altura de la peça, a causa de la major àrea de contacte en la interfície encuny-treball.
+
+Les formes generades per operacions en encuny obert són simples, com a fletxes, discos i anells. Les operacions de forja en encuny obert produeixen formes rudimentàries que necessiten operacions posteriors per a refinar les peces a les seves dimensions i forma final. Una contribució important del forjat en calent en encuny obert és la creació d'un flux de grans i d'una estructura metal·lúrgica favorable en el metall.
+
+Les operacions classificades en la categoria d'encuny obert són operacions relacionades i poden realitzar-se amb encunys convexos, amb encunys còncaus i per seccions. El forjat amb encunys convexos *fullering* és una operació de forja que s'utilitza per a reduir la secció transversal i redistribuir el metall en una peça de treball, com a preparació per a operacions posteriors de format amb forja. Les cavitats de l'encuny per al forjat amb encunys convexos es dissenyen sovint amb múltiples cavitats d'impressió, de manera que la barra inicial pugui formar-se toscament abans del format. El forjat amb encunys còncaus és similar a l'anterior, excepte perquè els encunys tenen superfícies còncaves. Una operació de forjat per seccions consisteix en una seqüència de compressions forjades al llarg d'una peça de treball per a reduir la seva secció transversal i incrementar la seva longitud.
+
+<figure markdown="span">
+    ![](./img/forjat_encuny_obert.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+#### Forjat amb encuny impressor
+
+El forjat amb encuny impressor, anomenat algunes vegades forjat en encuny tancat, es realitza amb encuny que té la forma inversa de la requerida per a la peça. La peça de treball inicial es mostra com una peça cilíndrica similar a la de les operacions prèvies en encuny obert. En tancar-se l'encuny i arribar a la seva posició final, el metall flueix més enllà de la cavitat de l'encuny i forma una rebava en la petita obertura entre les plaques de l'encuny. Encara que la rebava s'ha de retallar després, té realment una funció important en el forjat per impressió, ja que quan aquesta comença a formar-se en el buit de l'encuny, la fricció s'oposa al fet que el metall continuï fluint cap a l'obertura, i d'aquesta manera força al material de treball a romandre en la cavitat.
+
+En el forjat en calent, la restricció del flux de metall és major pel fet que la rebava prima es refreda ràpidament contra les plaques de l'encuny, incrementant la resistència a la deformació. La restricció del flux de metall en l'obertura fa que les pressions de compressió s'incrementin significativament, forçant al material a omplir els detalls algunes vegades intricats de la cavitat de l'encuny.
+
+<figure markdown="span">
+    ![](./img/forjat_encuny_impressor.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+A causa de la formació de rebava en el forjat amb encuny impressor i a les formes més complexes de les peces fetes amb aquests encunys, les forces en aquest procés són considerablement més grans i més difícils d'analitzar que en el forjat en encuny obert.
+
+El forjat amb encuny impressor no té toleràncies estretes de treball i freqüentment es requereix el maquinat per a aconseguir la precisió necessària. El procés de forjat genera la configuració geomètrica bàsica de la peça i el maquinat realitza els acabats de precisió que es requereixen en algunes porcions de la peça (per exemple, perforacions, cordes i superfícies que han de coincidir amb altres components). Els avantatges del forjat sobre el maquinat complet de la peça són: velocitats de producció més altes, conservació del metall, major resistència i orientació més favorable dels grans de metall.
+
+<figure markdown="span">
+    ![](./img/flux_forja.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Els processos de forjat amb la capacitat de produir seccions més primes, formes més complexes, toleràncies més estretes i la virtual eliminació de toleràncies al maquinat es coneixen com a forjat de precisió. Els metalls més comuns que s'usen en el forjat de precisió són l'alumini i el titani. En la comparació del forjat de precisió i el forjat convencional amb encuny impressor es pot observar que el forjat de precisió en aquest exemple no elimina les rebaves, encara que sí que les redueix. Algunes operacions de forjat de precisió es realitzen sense produir rebava. El forjat de precisió es classifica pròpiament com un procés de manera neta o quasi neta, depenent de la necessitat del maquinat per a acabar la forma de la peça.
+
+<figure markdown="span">
+    ![](./img/forjat_de_precisio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+#### Forjat sense rebava
+
+El forjat amb encuny impressor es diu algunes vegades forjat en encuny tancat. No obstant això, hi ha una distinció tècnica entre el forjat amb encuny impressor i forjat amb encuny tancat real. La distinció és que en el forjat amb encuny impressor, la peça de treball original queda continguda completament dins de la cavitat de l'encuny durant la compressió i no es forma rebava. Per a identificar aquest procés és apropiat el terme forjat sense rebava.
+
+El forjat sense rebava imposa uns certs requeriments sobre el control del procés, més exigents que el forjat amb encuny impressor. Més important és que el volum de material de treball ha d'igualar al volum de la cavitat de l'encuny dins de molt estretes toleràncies. Si la peça en blanc inicial és massa gran, la pressió excessiva pot causar mal a l'encuny o a la premsa. Si la peça en blanc és massa petita, no s'omplirà la cavitat. A causa d'aquest requeriment especial, el procés és més adequat en la manufactura de peces geomètriques simples i simètriques, i per a treballar metalls com l'alumini, el magnesi o els seus aliatges. El forjat sense rebava es classifica sovint com un procés de forjat de precisió.
+
+<figure markdown="span">
+    ![](./img/forjat_sense_rebava.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Extrusió 
 
@@ -237,7 +313,12 @@ una esquerda interna. Aquest principi s'aprofita en el perforat de corrons. Els 
 
 ### Encunyat
 
+L'encunyat és una aplicació especial del forjat sense rebava mitjançant el qual s'imprimeixen els fins detalls de l'encuny en la superfície superior i en el fons de la peça de treball. En l'encunyat hi ha poc flux de metall; no obstant això, les pressions requerides per a reproduir els detalls superficials de la cavitat de l'encuny són altes.
 
+<figure markdown="span">
+    ![](./img/encunyat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Embotit
 
