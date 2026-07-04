@@ -300,11 +300,102 @@ El forjat sense rebava imposa uns certs requeriments sobre el control del procé
 
 ### Extrusió 
 
+<figure markdown="span">
+    ![](./img/extrusio_foto.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
+L'extrusió és un procés de format per compressió en el qual el metall de treball és forçat a fluir a través de l'obertura d'un encuny per a donar-li forma a la seva secció transversal.
+
+1- es pot extruir una gran varietat de formes, especialment amb extrusió en calenta; no obstant això, una limitació de la configuració geomètrica és que la secció transversal ha de ser la mateixa al llarg de tota la peça; 
+2- l'estructura del gra i les propietats de resistència es milloren amb l'extrusió en fred o en calent; 
+3- són possibles toleràncies molt estretes, especialment quan s'usa extrusió en fred; 
+4- en algunes operacions d'extrusió es genera poc o cap material de desaprofitament.
+
+Una manera de classificar les operacions és atenent la seva configuració física; es distingeixen dos tipus principals: extrusió directa i extrusió indirecta.
+
+A l'extrusió directa (també anomenada extrusió cap endavant) un totxo de metall es carrega en un recipient, i un pistó comprimeix el material forçant-lo a fluir a través d'una o més obertures en un encuny a l'extrem oposat del recipient. En aproximar-se el pistó a l'encuny, una petita porció del totxo roman i no pot forçar-se a través de l'obertura de l'encuny. Aquesta porció extra, anomenada topall o cap, se separa del producte, tallant-la justament després de la sortida de l'encuny.
+
+<figure markdown="span">
+    ![](./img/extrusio_directa.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Un problema en l'extrusió directa és la gran fricció que existeix entre la superfície del treball i les parets del recipient en forçar el lliscament del totxo cap a l'obertura de l'encuny. Aquesta fricció ocasiona un increment substancial de la força requerida en el pistó per a l'extrusió directa. En l'extrusió en calenta aquest problema s'agreuja per la presència d'una capa d'òxid en la superfície del totxo que pot ocasionar defectes en els productes extruïts.
+
+Per a resoldre aquest problema s'usa un bloc simulat entre el pistó i el totxo de treball; el diàmetre del bloc és lleugerament menor que el diàmetre del totxo, de manera que en el recipient queda un anell estret de metall de treball (capes d'òxid en la seva majoria), deixant el producte final lliure d'òxids.
+
+En l'extrusió directa es poden fer seccions buides. El totxo inicial es prepara amb una perforació paral·lela al seu eix. Això permet el pas d'un mandril que es fixa en el bloc simulat.
+
+<figure markdown="span">
+    ![](./img/extrusio_seccio_buida.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+En l'extrusió indirecta, també anomenada extrusió cap enrere i extrusió inversa, l'encuny està muntat sobre el pistó, en lloc d'estar en l'extrem oposat del recipient. En penetrar el pistó en el treball, força al metall a fluir a través del clar en una direcció oposada a la del pistó. Com el totxo no es mou respecte al recipient, no hi ha fricció en les parets del recipient. Per consegüent, la força del pistó és menor que en l'extrusió directa. Les limitacions de l'extrusió en directe es deuen a la menor rigidesa del pistó buit i a la dificultat de sostenir el producte extruït tal com surt de l'encuny.
+
+<figure markdown="span">
+    ![](./img/extrusio_indirecta.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Hi ha limitacions pràctiques en la longitud de la peça extruïda que poden resoldre's per aquest mètode. El sosteniment del pistó es converteix en un problema a mesura que la longitud de treball augmenta.
+
+Extrusió en fred versus extrusió en calenta L'extrusió es pot realitzar ja siga en fred o en calent, depenent del metall de treball i de la magnitud de la deformació al fet que se subjecte el material durant el procés. Els metalls típics que s'extrueixen en calent són: alumini, coure, magnesi, zinc, estany i els seus aliatges. Aquests mateixos materials s'extrueixen algunes vegades en fred. Els aliatges d'acer s'extrueixen usualment en calent, encara que els graus més suaus i més dúctils s'extrueixen algunes vegades en fred.
+
+L'extrusió en calenta involucra l'escalfament previ del totxo a una temperatura per sobre de la seva temperatura de cristal·lització.Això redueix la resistència i augmenta la ductilitat del metall, permetent majors reduccions de grandària i l'assoliment de formes més complexes amb aquest procés
+
+Quan el refredament del totxo entra en contacte amb les parets del recipient és un problema; per a superar-lo s'usa algunes vegades l'extrusió isotèrmica. La lubricació és un aspecte crític de l'extrusió en calenta d'uns certs metalls (per exemple, acer), i s'han desenvolupat lubrificants especials que són efectius sota les condicions agressives de l'extrusió en calenta. Algunes vegades s'usa el vidre com a lubrificant de l'extrusió en calenta; a més de reduir la fricció, proporciona aïllament tèrmic efectiu entre el totxo i el recipient d'extrusió.
+
+En general, l'extrusió en fred i l'extrusió per sota de la seva temperatura de cristal·lització s'usen per a produir peces discretes, habitualment en forma acabada (o en forma gairebé acabada).
+
+<figure markdown="span">
+    ![](./img/extrusio_discreta.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Els factors importants en un encuny d'extrusió són l'angle de l'encuny i la forma de l'orifici. L'angle de l'encuny, més precisament la meitat de l'angle de l'encuny, és l'angle *alpha*. Per a angles menors, l'àrea superficial de l'encuny augmenta, així com també la fricció en la interfície encuny-totxo. Major fricció significa major força en el pistó. D'altra banda, un angle gran de l'encuny ocasiona major turbulència del flux de metall durant la reducció, i també increment en la força requerida del pistó. L'efecte de l'angle de l'encuny sobre la força del pistó és una funció en forma de U.
+
+<figure markdown="span">
+    ![](./img/angle_encuny.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Els materials per a encunys d'extrusió en calenta inclouen acers per a eina i acers aliats. Les propietats més importants d'aquests materials per a encunys són alta resistència al desgast, alta duresa en calenta i alta conductivitat tèrmica per a remoure la calor del procés. Els materials per a encunys d'extrusió en fred inclouen acers per a eina i carburs cimentats. Les seves propietats desitjables són resistència al desgast i bona disposició per a retenir la seva forma baix alts esforços. Els carburs s'usen quan es requereixen altes velocitats de producció, llarga vida en els encunys i bon control dimensional.
+
+#### Defectes d'extrusio
+
+A causa de la considerable deformació associada a les operacions d'extrusió, poden ocórrer nombrosos defectes en els productes extruïts. Els defectes es poden classificar en les següents categories:
+
+a) Rebentat central. Aquest defecte és una esquerda interna que es genera com a resultat dels esforços de tensió al llarg de la línia central de la peça de treball durant l'extrusió. Encara que els esforços de tensió poden semblar improbables en un procés de compressió com l'extrusió, tendeixen a ocórrer baix condicions que ocasionen gran deformació en regions de treball apartades de l'eix central. El moviment de material més gran a les regions exteriors estira el material al llarg del centre de la peça de treball. Si els esforços són prou grans, ocorre el rebentat central.
+
+b) Tubificat (bossa de contracció) La tubificació és un defecte associat amb l'extrusió directa. És un enfonsament en l'extrem del totxo.
+
+c) Esquerdat superficial Aquest defecte és resultat de les altes temperatures de la peça de treball que causen el desenvolupament d'esquerdes en la superfície; ocorre sovint quan la velocitat d'extrusió és massa alta i condueix a altes velocitats de deformació associades amb generació de calor. Altres factors que contribueixen a l'esquerdament superficial són l'alta fricció i el refredament ràpid de la superfície dels totxos a altes temperatures en l'extrusió en calenta.
+
+<figure markdown="span">
+    ![](./img/defectes_extrusio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Trefilatge
 
+<figure markdown="span">
+    ![](./img/trefilatge.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
+L'estiratge és una operació on la secció transversal d'una barra, vareta o filferro es redueix en tirar del material a través de l'obertura d'un encuny. 
+
+Les característiques generals del procés són similars a les de l'extrusió; la diferència és que en l'estiratge el material de treball s'estira a través de l'encuny, mentre que en l'extrusió s'empeny a través d'ell. Encara que la presència d'esforços de tensió és òbvia en l'estiratge, la compressió també juga un paper important, ja que el metall es comprimeix en passar a través de l'obertura de l'encuny. Per aquesta raó, la deformació que ocorre en l'estiratge es diu algunes vegades compressió indirecta.
+
+<figure markdown="span">
+    ![](./img/trefilatge_continu.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Abans de l'estiratge, el material inicial ha de preparar-se adequadament. Això involucra tres passos: 1) recuit, 2) neteja i 3) esmolat. El propòsit de la recuita és incrementar la ductilitat del material per a acceptar la deformació durant l'estiratge. Com ja es va dir, algunes vegades es necessiten passos de recuita en l'estiratge continu. La neteja del material es requereix per a prevenir danys en la superfície de treball i en l'encuny d'estiratge. Això involucra la remoció dels contaminants de la superfície (per exemple, capes d'òxid i corrosió) per mitjà de banys químics o neteja amb doll de municions. En alguns casos es lubrifica la superfície de treball després de la neteja.
+L'esmolat implica la reducció del diàmetre de l'extrem inicial del material, de manera que puga inserir-se a través de l'encuny d'estiratge per a iniciar el procés; això s'aconsegueix generalment mitjançant estampat, laminat o tornejat. L'extrem esmolat del material se subjecta a les mordasses de la corredissa o a altres dispositius per a iniciar el procés d'estiratge.
 
 
 ## Conformació de xapa: processos amb separació de material i sense
