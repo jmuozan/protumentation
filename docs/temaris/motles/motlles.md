@@ -87,14 +87,6 @@ L'emmotlament permet l'ús de qualsevol metall o aliatge, sempre que aquest puga
 Els polímers, que representen cadenes de monómers són utilitzats habitualment en processos d'emmotlament. és important fer una distinció principal entre els tipus de polímers. Hi ha dos tipus principals els quals són els termoplàstics i els termoestables. 
 Els termoplàstics són materials més ductils els quals mitjançant l'aplicació de calor fonen. Per altra banda, els termoestables són més durs i una vegada conformats ja no fonen, sinó que es cremen. Per la fabricació amb polímers s'aplica principalment el procés d'injecció i extrussió. En ambdos processos, la cambra i el tipus d'injector canvien ja que cal fondre'ls en diferents moments del procés. 
 
-### Compòsits
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
-    <iframe src="https://www.youtube.com/embed/7cHV4DnalzQ?si=CpX7Rra6hLb83zjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
-
-
-
 ### Classificació segons tipus d'emmotlament
 
 ``` mermaid

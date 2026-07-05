@@ -397,7 +397,6 @@ Les característiques generals del procés són similars a les de l'extrusió; l
 Abans de l'estiratge, el material inicial ha de preparar-se adequadament. Això involucra tres passos: 1) recuit, 2) neteja i 3) esmolat. El propòsit de la recuita és incrementar la ductilitat del material per a acceptar la deformació durant l'estiratge. Com ja es va dir, algunes vegades es necessiten passos de recuita en l'estiratge continu. La neteja del material es requereix per a prevenir danys en la superfície de treball i en l'encuny d'estiratge. Això involucra la remoció dels contaminants de la superfície (per exemple, capes d'òxid i corrosió) per mitjà de banys químics o neteja amb doll de municions. En alguns casos es lubrifica la superfície de treball després de la neteja.
 L'esmolat implica la reducció del diàmetre de l'extrem inicial del material, de manera que puga inserir-se a través de l'encuny d'estiratge per a iniciar el procés; això s'aconsegueix generalment mitjançant estampat, laminat o tornejat. L'extrem esmolat del material se subjecta a les mordasses de la corredissa o a altres dispositius per a iniciar el procés d'estiratge.
 
-
 ## Conformació de xapa: processos amb separació de material i sense
 
 El treball metàl·lic de làmines inclou operacions de tall i format realitzades sobre làmines primes de metall. Els gruixos del material típics estan entre 0.4 mm i 6 mm. Quan el gruix excedeix de 6 mm se'n diu placa en lloc de làmina.
@@ -590,51 +589,288 @@ e - Ratllats superficials. Poden ocórrer ratllats en la superfície de la peça
 
 ## Processos de conformació de materials polimèrics i compostos
 
+els dos tipus de plàstics són els termoplàstics i els termoestables. La diferència està en el fet que els termoestables passen per un procés de capellà durant el calfament i la conformació, la qual cosa ocasiona un canvi químic permanent (enllaços creuats) en la seua estructura molecular. Una vegada curats, no poden fondre's si es tornen a calfar. Per contra, els termoplàstics no es curen, i la seua estructura química roman en el bàsic sense canvis si es recalfen, encara que es transformen de sòlid a fluid.
 
+Per a donar forma a un polímer termoplàstic aquest ha de calfar-se de manera que se suavitze fins a adquirir la consistència d'un líquid. Aquesta forma es denomina polímer fos. Debido a su alto peso molecular, un polímero fundido es un fluido espeso con viscosidad elevada. La viscositat és important en el processament de polímers perquè la majoria de mètodes per a donar forma involucren el flux del polímer fos a través de canals xicotets o obertures d'encunys.
 
-### Injecció
+Una altra propietat que posseeixen els polímers fosos és la viscoelasticitat, aquesta provoca que els esforços de compressió que actuen sobre el material conforme ingressa a l'obertura xicoteta de l'encuny no es relaxen immediatament. Quan el material ix després de l'orifici i la restricció desapareix, els esforços no alliberats fan que la secció transversal s'expandisca.
 
-
+<figure markdown="span">
+    ![](./img/viscoelasticitat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Extrusió
 
+L'extrusió és un procés de compressió en el qual es força al material a fluir a través d'un orifici practicat en un encuny a fi d'obtindre un producte llarg i continu, la secció transversal del qual adquireix la forma determinada per la de l'orifici. Com a procés per a donar forma a polímers, s'empra molt per a termoplàstics i elastòmers (rares vegades per a termoestables)
 
+En l'extrusió de polímers, s'alimenta material en forma de pèl·lets o pols cap a dins d'un barril d'extrusió, on es calfa i fon i se li força perquè fluïsca a través de l'obertura d'un encuny per mitjà d'un caragol rotatori.
+
+<figure markdown="span">
+    ![](./img/extrusio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+En l'extrem del barril oposat a l'encuny es localitza una tremuja que conté el material que s'alimenta. Els pèl·lets s'alimenten per gravetat al caragol rotatori, la rosca del qual mou al material al llarg del barril. S'utilitzen calfadors elèctrics per a fondre a l'inici els pèl·lets sòlids; després, la mescla i el treball mecànic del material generarà calor addicional, la qual cosa manté fos al material.
+
+El caragol té diverses funcions i es divideix en seccions que són: 1) secció d'alimentació, en la qual el material es mou del port de la tremuja i rep precalfament; 2) secció de compressió, en la qual  el polímer es transforma per a adquirir consistència líquida, s'extrau del fos l'aire  atrapat entre els pèl·lets i es comprimeix el material; i 3) secció de mesurament, en la qual  es fa homogeni al fos i es genera pressió suficient per a bombar-lo a través de l'obertura de l'encuny.
+
+Abans d'arribar a l'encuny, el fos passa a través del paquet de la pantalla, una sèrie de malles de filferro sostingudes per una placa rígida (anomenada placa trencadora) que conté forats axials xicotets. El paquet de la pantalla serveix per a 1) filtrar els contaminants i grumolls durs del fos, 2) generar pressió en la secció de mesurament i 3) forçar al flux del polímer fos i esborrar de la seua “memòria” el moviment circular impost pel caragol. Aquesta última funció té a veure amb la propietat viscoelàstica del polímer; si el flux no es forçara, el polímer repetiria la seua història de girar dins de la cambra d'extrusió, i tendiria a girar i distorsionar l'extruït
+
+Per a compensar l'expansió de l'encuny, l'obertura d'aquest es fa prou llarga per a eliminar alguna cosa de la memòria del polímer fos. A més, és freqüent que es faça que l'extruït s'extraga (estire) per a evitar l'expansió de l'encuny.
+
+<figure markdown="span">
+    ![](./img/encuny_extrusio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Un dels pitjors defectes és la fractura del fos, en la qual les tensions que actuen sobre el fos immediatament abans i durant el seu pas a través de l'encuny són tan grans que ocasionen una falla, que es manifesta en forma de la superfície molt irregular de l'extruït, aquesta pot ser ocasionada per una reducció brusca de l'entrada de l'encuny, la qual cosa provoca un flux turbulent que trenca el fos. 
+El defecte més comú de l'extrusió és la pell de tauró, en la qual la superfície del producte s'arruga en eixir de l'encuny. Conforme el fos flueix a través de l'obertura de l'encuny, la fricció en la interfície ocasiona un perfil de velocitat a través de la secció transversal. Aquests esforços ocasionen ruptures menors que arruguen la superfície. Si el gradient de velocitat es torna extrem, apareixen marques prominents en la superfície, la qual cosa li dona l'aspecte d'un tronc de bambú
+
+<figure markdown="span">
+    ![](./img/defectes_extr_polimers.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+### Injecció
+
+L'emotlament per injecció és un procés amb el qual es calfa un polímer fins que aconsegueix un estat molt plàstic i se li força al fet que fluïsca a alta pressió cap a la cavitat d'un motle, on se solidifica. Llavors, la peça modelada, anomenada emotlament.
+
+És possible obtindre formes complexes i intricades amb l'emotlament per injecció. El repte en eixos casos és fabricar un motle la cavitat del qual tinga la mateixa forma que la peça, i que també permeta el retir d'aquesta.
+
+L'emotlament per injecció és el procés que més s'usa per als termoplàstics. Alguns termoestables i elastòmers es modelen per injecció, amb modificacions en l'equip i paràmetres d'operació, a fi de permetre l'entrecreuament d'aquests materials.
+
+La màquina d'emotlament per injecció consta de dos components principals: 1) la unitat d'injecció de plàstic i 2) la unitat de subjecció del motle. La unitat d'injecció és molt semblant a un extrusor. Consisteix en un barril al qual s'alimenta des d'un extrem per una tremuja que conté un subministrament de pèl·lets de plàstic. Dins del barril hi ha un caragol l'operació del qual sobrepassa la del caragol extrusor en el següent aspecte: a més de girar per a mesclar i calfar el polímer, també actua com a martinet de nit que es mou amb rapidesa cap avant per a injectar plàstic fos al motle.
+
+La unitat de subjecció es relaciona amb l'operació del motle. Les seues funcions són 1) mantindre les dues meitats del motle alineades en forma correcta l'una amb l'altra, 2) mantindre tancat al motle durant la injecció, per mitjà de l'aplicació d'una força que el subjecta prou per a resistir la força d'injecció i 3) obrir i tancar el motle en els moments apropiats del cicle d'injecció.
+
+<figure markdown="span">
+    ![](./img/injeccio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/proces_injeccio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Per al motle es requereix un sistema de refredament per al motle. Aquest consisteix en una bomba externa connectada a passatges en el motle, a través dels quals circula aigua per a eliminar calor del plàstic calent. Ha d'evacuar-se aire de la cavitat del motle conforme el polímer avança.
+
+Els polímers tenen coeficients d'expansió tèrmica elevats, i durant el refredament del plàstic en el motle ocorre una contracció significativa. Alguns termoplàstics pateixen una contracció volumètrica d'al voltant de 10% després de la injecció en el motle. La contracció de plàstics cristal·lins tendeix a ser major que per als polímers amorfs. La contracció s'expressa en general com la reducció en la grandària lineal que ocorre durant el refredament a temperatura ambient a partir de la temperatura del motle per al polímer donat.
+
+A continuació s'esmenten defectes comuns de les peces modelades per injecció:
+
+- Trets curts: Igual que en el fos, un tret curt és un emotlament que se solidifica abans que la cavitat s'òmpliga per complet. El defecte es corregeix si s'incrementa la temperatura i/o la pressió. El defecte també sorgeix per l'ús d'una màquina amb capacitat de tret insuficient, cas en el qual és necessari un aparell més gran.
+
+- Rebaves: Les esquitxades ocorren quan el polímer fos s'escorre per la superfície de separació, entre les plaques del motle; també succeeix al voltant dels passadors d'injecció. En general, el defecte l'ocasionen 1) conductes i clars massa grans en el motle, 2) pressió d'injecció massa alta en comparació amb la força de subjecció, 3) temperatura de fusió massa elevada o 4) grandària excessiva del tret.
+
+- Marques d'enfonsament i buits: Aquests són defectes que en general es relacionen amb seccions modelades gruixudes. Una marca d'enfonsament ocorre quan la superficie exterior del motle se solidifica, però la contracció del material de l'interior fa que la capa es reduïsca per davall del perfil que es planejava. Un buit és ocasionat pel mateix fenomen bàsic; no obstant això, el material de la superfície conserva la seua forma i la contracció es manifesta com un buit intern a causa de forces de tensió grans sobre el polímer que encara està fos. Aquests defectes s'eliminen amb l'increment de la pressió de compactació posterior a la injecció. Una millor solució consisteix a dissenyar la peça per a tindre grossària uniforme de la secció, i utilitzar seccions més primes.
+
+- Línies de soldadura: Les línies de soldadura ocorren quan el polímer fos flueix al voltant d'un nucli o d'un altre detall convex en la cavitat del motle, i es troba des de direccions oposades; la frontera així formada es denomina línia de soldadura, i té propietats mecàniques inferiors a les de la resta de la peça.
+
+### Emmotlament per bufament i rotacional
+
+Aquests dos processos s'empren per a fabricar peces buides i sense costura de polímers termoplàstics. L'emotlament rotacional també s'utilitza per a termoestables. L'emotlament per bufat és més apropiat per a la producció en massa de contenidors d'un sol ús xicotets, en tant que  el rotacional és propi per a formes més grans i buides.
+
+L'emotlament per bufat és un procés en el qual s'utilitza pressió de l'aire per a unflar plàstic suau dins de la cavitat d'un motle. És un procés industrial important per a fabricar peces de plàstic buides, d'una sola peça i amb parets primes. L'emotlament per bufat es duu a terme en dues etapes: 1) fabricació d'un tub d'inici de plàstic fos, anomenat parison (igual que en el bufat del vidre), i 2) inflació del tub fins que adquireix la forma final que es desitja. El format del parison es duu a terme per qualsevol de dos  rocessos: 1) extrusió o 2) emotlament per injecció.
+
+<figure markdown="span">
+    ![](./img/bufament.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/bufament_per_injeccio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+En aquest darrer procés, el parison d'inici es modela per injecció en comptes d'extrusió. En comparació amb el seu procés competidor basat en l'extrusió, el de bufat per injecció té una taxa de producció menor, la qual cosa explica per què s'usa menys.
+
+En una variant de l'emotlament amb bufat per injecció, anomenada emotlament bufat per estirament. la barra de bufat s'estén cap avall dins del parison modelat per injecció durant l'etapa 2, la qual cosa estira el plàstic suau i crea un esforç més favorable del polímer que l'emotlament per injecció convencional o bufat per extrusió. L'estructura resultant és més rígida, amb més transparència i resistència major a l'impacte. El material més utilitzat per a l'emotlament bufat per estirament és el tereftalat de polietilé (PET)
+
+<figure markdown="span">
+    ![](./img/bufament_per_estirat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+L'emotlament rotacional utilitza la gravetat en lloc d'un motle rotatori, a fi d'aconseguir una forma buida. El també anomenat *rotomoldeo és una alternativa a l'emotlament per bufat a fi de fabricar formes grans i buides. S'empra principalment per a polímers termoplàstics, però cada vegada són més comuns les aplicacions per a termoestables i elastòmers. El *rotomoldeo tendeix a afavorir configuracions geomètriques externes més complexes, peces més grans i quantitats de producció xicotetes, més que l'emotlament per  bufat.
+
+El procés consisteix en les següents etapes: 1) es carrega una quantitat predeterminada de pols de polímer en la cavitat d'un motle lliscant. 2) Després es calfa el motle i es gira en forma simultània sobre dos eixos perpendiculars, de manera que la pols impregna totes les superfícies interiors del motle, i forma gradualment una capa fosa de grossària uniforme. 3) Mentre encara gira, el motle es refreda de manera que la capa exterior de plàstic se solidifica. 4) S'obri el motle i es descarrega la peça.
+
+En l'emotlament rotacional, els motles són simples i barats, en comparació amb l'emotlament per injecció o per bufat, però el cicle de producció és molt més llarg.
+
+<figure markdown="span">
+    ![](./img/roto.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Termoconformació
 
+El termoformat és un procés en el qual es calfa i deforma una fulla plana termoplàstica per a fer que adquirisca la forma desitjada. El termoformat consisteix en dues etapes principals: 1) calfament i 2) format. En general, el calfament es realitza amb l'ús de calfadors elèctrics radiants, localitzats a banda i banda de la fulla de plàstic inicial. Els mètodes pels quals es duu a terme l'etapa de format es classifiquen en tres categories bàsiques: 1) termoformat al buit, 2) termoformat de pressió i 3) termoformat mecànic.
 
+<figure markdown="span">
+    ![](./img/termoconformacio_buit.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
-### Bufament
+el termoformat al buit utilitza una pressió negativa per a espentar una fulla precalfada contra la cavitat d'un motle. Els forats per a induir el buit en el motle són de l'ordre de 0.8 mm de diàmetre, per la qual cosa el seu efecte sobre la superfície del plàstic és menor.
 
+Una alternativa per a formar al buit involucra a una pressió positiva que força al plàstic calfat cap a la cavitat del motle. Aquesta es diu termoformat de pressió, o format per bufat; el seu avantatge sobre el format al buit és que és possible generar pressions més grans. La seqüència del procés és similar a l'anterior; la diferència consisteix en el fet que la fulla es pressuritza des de dalt de la cavitat del motle. En el motle hi ha forats de conducció per a expulsar l'aire atrapat.
 
+<figure markdown="span">
+    ![](./img/termoconformacio_pressio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
-### Emmotlament rotacional
+si la peça es pressiona contra un motle negatiu, llavors la seua superfície exterior tindrà el mateix aspecte que la de la cavitat del motle. La superfície interior serà una aproximació del contorn i posseirà un acabat corresponent al de la fulla d'inici. Per contra, si la fulla es pressiona sobre un motle positiu, llavors la seua superfície interior serà igual a la del motle convex i la seua superfície exterior continuarà aproximadament igual. En funció dels requeriments del producte, aquesta diferència pot ser important.
 
+<figure markdown="span">
+    ![](./img/termoconformacio_motle_positiu.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
+Els motles positiu i negatiu produeixen patrons d'aprimament diferents en una peça donada. En el motle positiu, conforme la fulla es pressiona sobre la forma convexa, la porció en contacte amb la superfície superior se solidifica amb rapidesa i no experimenta virtualment cap estirament. Això dona com a resultat una base gruixuda però un aprimament significatiu de les parets. Per contra, un motle negatiu genera una distribució més parella de l'estirament i aprimament de la fulla abans que faça contacte amb la superfície freda. Una manera de millorar la distribució de l'aprimament amb un motle positiu és preestirar la fulla abans de plegar-la sobre la forma convexa
+
+<figure markdown="span">
+    ![](./img/preestirat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+El termoformat mecànic, utilitza motles positius i negatius que s'ajunten contra la fulla de plàstic calfada, la qual cosa la força a adoptar la forma d'ells. En el mètode de format mecànic pur no s'utilitza en absolut la pressió de l'aire (positiva o negativa). Només els termoplàstics poden termoformar-se, ja que les fulles extruïdes de polímers termoestables o elastomèrics ja tenen entrecreuament i no és possible suavitzar-les tornant-les a calfar. Els plàstics comuns per al termoformat són el poliestiré, acetat de cel·lulosa i butirat acetat de cel·lulosa, ABS, PVC, acrílic (polimetilacrilato), polietilé i polipropilé.
+
+<figure markdown="span">
+    ![](./img/termoconformacio_mecanica.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Laminatge manual
 
+El procés en motle obert també es coneix amb altres noms, com a laminació per contacte i emotlament per contacte. Els materials inicials (resines, fibres, estores i metxes teixides) s'apliquen al motle en capes per a constituir la grossària desitjada.
 
+Després continua el curat i el retir de la peça. Les resines comunes per a aquests processos són polièsters insaturats i epòxics, usant fibra de vidre com a reforç. Les peces modelades generalment són grans. L'avantatge d'usar motles oberts és que el cost del  motle és molt de menor que si s'usaren motles acoblats. El desavantatge és que solament la superfície de la peça en contacte amb el motle és una superfície acabada; l'altre costat queda aspre. El motle en si ha de ser molt llis per a un millor acabat de la superfície de la peça.
+
+L'avantatge d'usar motles oberts és que el cost del motle és molt de menor que si s'usaren motles acoblats. El desavantatge és que solament la superfície de la peça en contacte amb el motle és una superfície acabada; l'altre costat queda aspre. El motle en si ha de ser molt llis per a un millor acabat de la superfície de la peça.
+
+L'aplicat manual és un mètode en el qual s'apliquen manualment capes successives de resina i reforç en un motle obert per a construir l'estructura composta del FRP laminat. La peça acabada s'ha de retallar generalment amb una serra mecànica per a dimensionar les vores exteriors. El procediment bàsic consisteix en cinc passos.
+
+<figure markdown="span">
+    ![](./img/laminatge_manual.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Cada capa de reforç de fibra està seca en el pas 3, quan es col·loca sobre el motle. Es buida llavors la resina líquida (no curada), o s'aplica amb brotxa o per aspersió. L'impregnat de l'estora o tela de fibra es fa amb corrons de mà. A aquesta operació se'l coneix com a aplicació humida. Un procediment alternatiu es realitza mitjançant l'ús de productes preimpregnats on primer es preparen les capes impregnades de reforç de fibra i després es col·loquen en la superfície del motle. Els avantatges que s'atribueixen als productes preimpregnats són un control més estret sobre la mescla de fibra i resina.
+
+Els motles per a laminar per contacte en motle obert es poden fer d'algeps, metall, plàstics reforçats amb fibra de vidre o altres materials.
 
 ### Projecció simultània
 
+L'aspersió és un intent de mecanitzar l'aplicació de capes de resina i fibra, així com per a reduir el temps de l'operació. És una alternativa per al pas 3 en el procediment manual. En el mètode per aspersió la resina líquida i les fibres tallades es ruixen sobre un motle obert per a construir capes successives de FRP.
 
+<figure markdown="span">
+    ![](./img/projeccio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
-### Emmotlament centrífug
+La pistola aspersora està equipada amb un mecanisme de tall alimentat amb una metxa de filaments que curta en fibres les longituds de les quals van de 25 a 75 mm, els quals s'incorporen al corrent de resina a l'eixida del filtre. L'acció mescladora genera una orientació aleatòria de les fibres en la capa, a diferència de l'aplicació manual en la qual els filaments poden orientar-se com es vulga
 
-
-
-### Bobinatge de fils
-
-
-
-### Prepeg, SMC, pultrusió, RTM, VARI
-
-
+El procediment automatitzat és avantatjós per a l'eficiència del treball i la protecció ambiental. Les màquines de ruta controlada poden operar en àrees segellades sense la presència d'éssers humans, ja que algunes de les emissions volàtils de les resines líquides són perilloses. No obstant això, generalment es requereix l'impregnat amb corrons per a cada capa, com en el procediment manual. Pel fet que tenen fibres curtes orientades aleatòriament, els productes fets per aspersió no són tan fortes com els fets per aplicació manual de capes les fibres de les quals són contínues i dirigides.
 
 ### Emmotlament per injecció de resina
 
+L'emotlament per injecció és notable pel baix cost de producció de les peces de plàstic en quantitats grans. Encara que s'associa més pròximament amb els termoplàstics, el procés pot també adaptar-se als termoestables.
 
+Pràcticament tots els polímers termoplàstics poden reforçar-se amb fibres. S'ha d'usar fibres tallades; si s'usaren fibres contínues, aquestes podrien de qualsevol manera reduir la seua longitud per l'acció del caragol en el cilindre. Durant la injecció de la cambra a la cavitat del motle, les fibres tendeixen a quedar alineades en passar a través del filtre.
+
+Alguns termoestables es curen per reacció química en lloc de calor; aquestes resines es poden modelar per injecció amb reacció (RIM). En el RIM es mesclen els dos ingredients reactius i s'injecten immediatament dins de la cavitat d'un motle on es curen i ocorre ràpidament la solidificació dels components. Un procés estretament relacionat inclou en la mescla fibres de reforç, típicament el vidre. El procés es diu en aquest cas, emotlament per injecció amb reacció reforçada (RRIM). Els seus avantatges són similars a les del RIM, amb el benefici addicional del reforç amb fibra.
+
+### Bobinatge de fils
+
+El bobinatge de filaments és un procés en el qual s'enrotllen fibres contínues impregnades amb resina al voltant d'una claveguera giratòria, que té la forma interna de l'article de FRP que es vol produir. La resina es cura després i la claveguera es retira. Es produeixen components buits de simetria axial (usualment circular en secció transversal), així com formes irregulars.
+
+<figure markdown="span">
+    ![](./img/bobonatge.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Una banda de metxa de fibres es passa a través d'un bany de resina immediatament abans de ser embullada en forma helicoidal sobre una claveguera cilíndrica. Continuant el patró de bobinatge es completa finalment una capa superficial sobre la claveguera d'un filament gruixut. L'operació es repeteix per a formar capes addicionals, cadascuna d'aquestes amb un patró entrecreuat respecte a l'anterior, fins a obtindre la grossària adequada.
+
+Hi ha diversos mètodes per a impregnar les fibres amb resina: 1) bobinatge humit, en el qual el filament passa a través de la resina líquida solament abans del bobinatge, com en la figura; 2) bobinatge amb productes preimpregnats (també anomenat bobinatge sec), en el qual els filaments preimpregnats amb resina parcialment curada s'enrotllen al voltant d'una claveguera calfada; i 3) postimpregnació, en el qual els filaments s'enrotllen en la claveguera i després s'impregnen amb resina per mitjà de brotxa o alguna altra tècnica.
+
+Se usen dos patrons bàsics de bobinatge del filament: a) helicoidal i b) polar. En el bobinatge helicoidal, la banda de filaments s'aplica en una forma espiral al voltant de la claveguera amb un angle d'hèlice. Si la banda es bobina amb un angle d'hèlice que s'aproxima als 90°, es denomina bobinatge de cércol, ja que els filaments formen cércols quasi circulars al voltant de la claveguera; és un cas especial de bobinatge helicoidal. En el bobinatge polar, el filament s'enrotlla al voltant de l'eix major de la claveguera.
+
+<figure markdown="span">
+    ![](./img/tipus_bobinatge.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+### Pultrusió
+
+El procés és similar a l'extrusió (d'ací la similitud del nom), però implica l'estiratge de la peça de treball (d'ací el prefix anglés pull que s'usa en lloc de ex). Com en l'extrusió, la pultrusió produeix seccions contínues, rectes de secció transversal constant.
+
+La pultrusió és un procés en el qual se submergeix en un bany de resina una metxa contínua de fibres i després es tira d'elles a través d'un encuny formador on es cura la resina impregnada.
+
+<figure markdown="span">
+    ![](./img/pultrusio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Com en l'extrusió, les peces tenen una secció transversal constant i un perfil determinat per la forma de l'obertura de l'encuny.
+El procés consisteix en cinc passos (identificats en l'esquema) que s'executen en una seqüència contínua: 1) alimentació de filaments, les fibres s'assorteixen d'una estizola (relleixos amb clavilles que sostenen bobines de filament); 2) impregnació amb resina, les fibres se submergeixen en la resina líquida no curada; 3) format d'un encuny previ veure, en el qual es dona gradualment la forma aproximada de la secció transversal desitjada a la col·lecció de filaments; 4) format i curat, es tira de les fibres impregnades a través de l'encuny calent la longitud del qual és d'1 a 1.5 m i les superfícies internes del qual estan altament polides; i 5) estiratge i tallat, on s'usen corrons tractors per a extraure de l'encuny la longitud curada, després de la qual cosa es talla mitjançant una roda talladora amb grans de sic o diamant.
+
+### SMC
+
+Els compostos per a l'emotlament de làmines (SMC, per les seues sigles en anglés) són una combinació de resina de polímer termoestable, farcits, fibres de vidre tallades i altres additius (orientades a l'atzar), que es laminen a una grossària típica de 6.5 mm. La resina més comuna és el polièster insaturat.
+
+<figure markdown="span">
+    ![](./img/SMC.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Els compostos d'emotlament per a làmines es produeixen i assorteixen generalment entre càrregues primes de polietilé per a limitar l'evaporació dels ingredients volàtils de la resina termoestable. El recobriment protector millora també l'acabat de la superfície i per consegüent de les peces modelades.
+
+### RTM
+
+En l'emotlament convencional per transferència, es col·loca una càrrega de resina termoestable en un depòsit o cambra, es calfa i es pressiona per mitjà d'un pistó dins d'una o més cavitats del motle. El motle es calfa per a curar la resina. El procés deriva el seu nom de la transferència del polímer fluid des del depòsit al motle. Es pot usar per a modelar resines TS els farciments del qual inclouen fibres curtes per a produir una peça composta de FRP. Una altra forma d'emotlament per transferència per a PMC es diu emotlament per transferència de resina (RTM) es refereix a un procés en motle tancat en el qual es col·loca una estora preformada en la part inferior del motle, el motle es tanca i la resina termoestable (per exemple, una resina de polièster) es transfereix dins de la cavitat a pressió moderada per a impregnar el *preformado. Com a causa de confusions, algunes vegades al RTM se'l coneix com a emotlament per injecció de resina
+
+### Prepeg
+
+El prepreg (de l'anglès pre-impregnated, "pre-impregnat") és un material compost format per fibres de reforç que ja venen impregnades de fàbrica amb una resina, en un estat especial que permet emmagatzemar-lo, tallar-lo i laminar-lo abans de curar-lo definitivament.
+
+Un prepreg té dos components principals:
+
+- Fibra de reforç: pot ser fibra de carboni, fibra de vidre, aramida (Kevlar), etc., en forma de teixit, cinta unidireccional o mat.
+
+- Resina termostable: normalment epoxi, encara que també hi ha prepregs amb fenòlica, bismaleimida (BMI) o cianat èster, segons l'aplicació (temperatura de servei, resistència al foc, etc.).
+
+Una resina termostable normal té tres etapes de curat: A (líquida, sense reaccionar), B (parcialment reaccionada, semisòlida) i C (completament curada, sòlida i rígida). Durant la fabricació del prepreg, les fibres passen per un bany o làmina de resina i després es calenten breument per avançar la reacció química fins a l'estat B, amb un grau de curat molt baix (menys del 5%). En aquest estat, la resina és enganxosa però no líquida (una propietat que s'anomena tack, o adherència) i el material té una certa flexibilitat i capacitat d'adaptar-se a formes (drape), cosa que permet manipular-lo, tallar-lo i col·locar-lo sobre un motlle sense que la resina fluisca ni s'escampe.
+
+Com que la resina en estat B continua reaccionant lentament fins i tot a temperatura ambient, els fabricants especifiquen que cal emmagatzemar-lo normalment entre -18°C i -23°C, per alentir al màxim la reacció. 
+
+Per fabricar-ho les fibres seques (en forma de teixit o cinta) es fan passar per una màquina impregnadora. En aquesta s'aplica la resina, sovint mitjançant un film de resina prèviament calandrat sobre paper siliconat, que després es transfereix a la fibra per calor i pressió (mètode de film, el més habitual actualment; hi ha també el mètode de bany directe). El conjunt passa per rodets calents que activen lleugerament la reacció de curat fins arribar a l'estat B, i darrerament, el material s'enrotlla en bobines, amb un paper protector, i es congela immediatament per aturar l'avenç del curat.
+
+### VARI (Vacuum Assisted Resin Infusion)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
+    <iframe src="https://www.youtube.com/embed/7cHV4DnalzQ?si=CpX7Rra6hLb83zjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+També dit infusió de resina assistida per buit (VARI), emotlament per transferència de resina assistit per buit (VARTM) o procés d'infusió al buit (VIP). És un procés de motle tancat tipus LCM (emotlament de compostos líquids) amb eina d'un sol costat i bossa de buit, on la resina s'extrau a través de la preforma usant buit.
+
+Passos típics del procés
+
+1- Preparació del motle: es col·loca una pel·lícula antiadherent sobre la superfície del motle (o s'usa desmoldant). 
+
+2- Col·locació del reforç (deposició): es col·loca la fibra seca sobre el motle per a formar el laminatge, en l'orientació necessària. 
+
+3- Instal·lació de la bossa de buit: s'aplica cinta segelladora en tot el perímetre del motle i es col·loca una capa despegable sobre el laminatge, estenent-se almenys 2 cm més enllà del seu perímetre, a més de malla de distribució de resina, tubs espirals i ports d'entrada/eixida. 
+
+4- Buit: es connecta la bomba de buit; després d'aconseguir el nivell desitjat, es manté constant durant la infusió i es realitza una prova d'estanquitat. 
+
+5- Infusió de la resina: una vegada creat el buit, s'injecta la resina pel port; l'entorn de buit fa que fluïsca fàcilment i es distribuïsca de manera uniforme per tot el laminatge, ja que no hi ha aire que oferisca resistència, impregnant tota la fibra. 
+
+6- Curat: la resina tarda un temps a endurir completament (a temperatura ambient o amb cicle tèrmic, segons el sistema de resina). 
+
+7- Desmotlament: pas final del procés, on es desemmotla la peça curada.
 
 
 ## Tractaments tèrmics i superficials
