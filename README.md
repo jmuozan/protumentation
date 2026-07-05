@@ -16,7 +16,7 @@
 ## Mòdul 3. Conformació de materials
 - [x] 10. Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació.
 - [x] 11. Processos de deformació volumètrica: laminatge, forjat, extrusió i trefilatge.
-- [ ] 12. Conformació de xapa: processos amb separació de material i sense.
+- [x] 12. Conformació de xapa: processos amb separació de material i sense.
 - [ ] 13. Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils, prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
 - [x] 14. Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
 

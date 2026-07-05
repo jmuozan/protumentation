@@ -400,7 +400,52 @@ L'esmolat implica la reducció del diàmetre de l'extrem inicial del material, d
 
 ## Conformació de xapa: processos amb separació de material i sense
 
+El treball metàl·lic de làmines inclou operacions de tall i format realitzades sobre làmines primes de metall. Els gruixos del material típics estan entre 0.4 mm i 6 mm. Quan el gruix excedeix de 6 mm se'n diu placa en lloc de làmina.
 
+La majoria dels processos amb làmines metàl·liques es realitza a temperatura ambient (treball en fred), excepte quan el material és gruixut, fràgil o la deformació és significativa. Aquests són els casos usuals de treball en calent sota la temperatura de cristal·lització més que treball en calent per sobre d'aquesta temperatura.
+
+La majoria de les operacions amb làmines metàl·liques s'executen en màquines eina anomenades premses. S'usa el terme premsa d'estampat per a distingir aquestes premses de les premses de forjat i extrusió. Les eines que s'usen per a fer el treball en làmines es diuen punxó i encuny; també s'usa el terme encuny estampat. Els productes fets de làmina es diuen encunyacions o estampats.
+
+### Operacions de tall
+
+El tall de làmina es realitza per una acció de cisalla entre dues vores esmolades de tall.
+
+<figure markdown="span">
+    ![](./img/tall.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+La vora superior de tall (el punxó) es mou cap avall sobrepassant la vora estacionària inferior de tall (l'encuny). Quan el punxó comença a empènyer el treball, ocorre una deformació plàstica en les superfícies de la làmina; conforme aquest es mou cap avall, ocorre la penetració, en la qual comprimeix la làmina i tala el metall. Aquesta zona de penetració és generalment una tercera part del gruix  de la làmina. A mesura que el punxó continua el seu viatge dins del treball, s'inicia la fractura en aquest entre les dues vores de tall. Si l'espai entre el punxó i l'encuny és correcte, les dues línies de fractura es troben i el resultat és una separació neta de treball en dues peces.
+
+<figure markdown="span">
+    ![](./img/parts_del_tall.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Damunt de la superfície de tall hi ha una regió que es diu arrodonit. Aquest correspon a la depressió feta pel punxó en el treball abans de començar el tall. Aquí és on comença la deformació plàstica del treball: just a baix de l'arrodonit hi ha una regió relativament llisa anomenat brunyit. Aquesta resulta de la penetració del punxó en el material abans de començar la fractura. Sota el brunyit està la zona de fractura, una superfície relativament tosca de la vora de tall on el moviment continu del punxó cap avall causa la fractura del metall. Finalment, al fons de la vora està la rebava, un tall causat per l'elongació del metall durant la separació final de les dues peces.
+
+Hi ha tres operacions principals en el treball de premsa que tallen el metall pel mecanisme de cisalla.
+
+- El cisallat és l'operació de tall d'una làmina de metall al llarg d'una línia recta entre dues vores de tall. El cisallat s'usa típicament per a reduir grans làmines a seccions més petites per a operacions posteriors de premsatge.
+
+<figure markdown="span">
+    ![](./img/cisallat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+- El punxonament implica el tall d'una làmina de metall al llarg d'una línia tancada en un sol pas per a separar la peça del material circumdant. La peça que es talla és el producte desitjat en l'operació i es designa com la part o peça desitjada.
+
+- El perforat és molt similar al punxonament, excepte perquè la peça que es talla es rebutja i es diu trossaria. El material romanent és la peça desitjada.
+
+<figure markdown="span">
+    ![](./img/punxonament_vs_perforat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![](./img/defectes_punxonament.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Encunyat
 
@@ -411,17 +456,137 @@ L'encunyat és una aplicació especial del forjat sense rebava mitjançant el qu
     <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
 </figure>
 
-### Embotit
+A més del cisallat, punxonament i perforat, hi ha algunes altres operacions de tall en el premsatge.
 
+El ***tall en trossos*** és una operació de tall en el qual les peces se separen d'una tira de làmina metàl·lica tallant els encunys oposats de la peça en seqüència. Les característiques que distingeixen l'operació de tall en trossos del tall convencional són: 1) les vores de tall no són necessàriament rectes, i 2) les peces es poden empalmar en la tira de tal manera que s'evite el desaprofitament.
 
+La ***partició*** involucra el tall d'una tira de làmina de metall per un punxó amb dues vores de tall que coincideixen amb els costats oposats de la peça. Això pot requerir-se quan els contorns de la peça tenen forma irregular que impedeixen el seu entroncament perfecte en la tira.
+
+<figure markdown="span">
+    ![](./img/tall_trossos_particio.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+El terme ***ranurat*** s'usa algunes vegades per a l'operació de punxonament en la qual es talla un forat rectangular o allargat. El ***perforat múltiple*** involucra la perforació simultània de diversos forats en una làmina de metall.
+
+Per a obtindre el contorn desitjat d'una forma, es tallen sovint porcions de làmina per ***oscat*** o ***semioscat***. El oscat és el tall d'una porció de l'metall en un costat de la làmina o tira. El semioscat retalla una porció del metall de l'interior de la làmina. La diferència respecte al perforat o ranurat és que el metall remogut pel semioscat crea part del contorn de la peça, mentre que el perforat i el ranurat genera forats en la forma o peça.
+
+<figure markdown="span">
+    ![](./img/perforat_ranurat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+La retallada és una operació de tall que es realitza en una peça ja formada per a remoure l'excés de metall i fixar la seua grandària. El rasurat és una operació de tall realitzat amb un espai molt xicotet destinada a obtindre dimensions precises i vores llises i rectes. El punxonament fi és una operació de cisallat que s'usa per a tallar peces amb toleràncies molt estretes i obtindre vores rectes i llises en un sol pas.
+
+<figure markdown="span">
+    ![](./img/rasurat_punxonament_fi.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Doblat
 
+<figure markdown="span">
+    ![](./img/doblat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
+El doblegat es defineix com la deformació del metall al voltant d'un eix recte. Durant l'operació de doblegat, el metall dins del pla neutral es comprimeix, mentre que el metall per fora del pla neutral s'estira. El metall es deforma plàsticament, així que el plec pren una forma permanent en remoure els esforços que el van causar. El doblegat produeix poc o cap canvi en la grossària de la làmina metàl·lica.
+
+Els dos mètodes de doblegat més comuns i les seues eines associades són el doblegat en V, executat amb un encuny en V; i el doblegat de vores, executat amb un encuny lliscant.
+
+En el doblegat en V, la làmina de metall es doblega entre un punxó i un encuny en forma de V. Els angles inclosos, que fluctuen des dels molt obtusos fins als molt aguts, es poden fer amb encunys en forma de V. 
+
+El doblegat de vores involucra una càrrega voladissa sobre la làmina de metall. S'usa una placa de pressió que aplica una força de subjecció per a sostindre la base de la peça contra l'encuny, mentre el punxó força la peça volada per a doblegar-la sobre la vora d'un encuny.
+
+<figure markdown="span">
+    ![](./img/tipus_doblat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Es disposa d'altres operacions de doblegat addicional, a més de les de doblegat en V i doblegat de vores. Algunes d'aquestes involucren el doblegat sobre eixos corbs en lloc d'eixos rectes, o tenen altres característiques. El format de brides és una operació en la qual el tall de la làmina de metall es doblegue en un angle de 90° per a formar una vora. S'usa sovint per a reforçar o donar rigidesa a la peça de làmina metàl·lica.
+
+<figure markdown="span">
+    ![](./img/altres_tipus_de_doblat.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+El plec involucra el doblegat de la vora de la làmina sobre si mateixa en més d'un pas de doblegat. Això es fa sovint per a eliminar la vora aguda de la peça, a fi d'incrementar la rigidesa i millorar la seua aparença. L'engalzat o empat és una operació relacionada en la qual s'acoblen dues vores de làmines metàl·liques.
+
+En el revorejat, també anomenat format de motlures, les vores de la peça es produeixen en forma de rínxol o rotllo. Tant aquesta operació com el plec es fan amb finalitats de seguretat, resistència i estètica.
+
+<figure markdown="span">
+    ![](./img/tipus_plec.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+### Embotit
+
+L'embotit és una operació de format de làmines metàl·liques que s'usa per a fer peces de forma acopada, de caixa i altres formes buides més complexes. Es realitza col·locant una làmina de metall sobre la cavitat d'un encuny i espentant el metall cap a la cavitat d'aquest amb un punxó.
+
+<figure markdown="span">
+    ![](./img/embotit.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+El punxó aplica una força cap avall F per a realitzar la deformació del metall, i el
+sostenidor de peces o de formes aplica una força de subjecció cap avall. Quan el punxó comença a espentar el treball, subjecta al metall a una operació de doblegat. La làmina és doblegada simplement sobre la cantonada del punxó i la cantonada de l'encuny. A mesura que el punxó avança, ocorre una acció de redreçat del metall que va ser prèviament doblegat sobre el radi de l'encuny. En aquest punt es necessita més metall per a reemplaçar al que ara forma la paret del cilindre. Aquest nou metall ve de la vora exterior de la forma original. El metall en la porció exterior de la forma s'emboteix cap a l'obertura de l'encuny per a substituir al metall prèviament doblegat i redreçat que ara forma la paret del cilindre.
+
+ Durant aquesta etapa del procés, la fricció i la compressió juguen papers importants en la brida de la peça. Perquè el material de la brida es moga cap a l'obertura de l'encuny, ha de superar la fricció entre la làmina de metall i les superfícies del sostenidor i de l'encuny.
+
+<figure markdown="span">
+    ![](./img/etapes_embotit.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Generalment s'usen lubrificants o compostos per a reduir les forces de fricció durant l'embotit. A més de la fricció, ocorre també la compressió en les pestanyes exteriors de la forma. A mesura que el metall d'aquesta porció de la forma s'estira cap al centre, el perímetre exterior es fa menor. Pel fet que el volum del metall roman constant, el metall es comprimeix i es fa més gruixut en reduir-se el perímetre.
+
+La força de subjecció aplicada sobre la forma es veu ara com un factor crític en l'embotit profund. Si aquesta és molt xicoteta, ocorre l'arrugat; si és molt gran, evita que el metall fluïsca adequadament cap a la cavitat de l'encuny, ocasionant estirament i possible esquinçada de la làmina de metall.
+
+El moviment progressiu del punxó cap avall ocasiona la continuació del flux de metall, causat per l'estiratge i la compressió que s'han descrit prèviament. Ocorre a més cert aprimament de les parets del cilindre.
+
+Si el canvi de manera que requereix el disseny de la peça és massa sever (la relació d'embotit és massa alta), el format complet de la peça pot requerir més d'un pas d'embotit. Al segon pas d'embotit i a qualsevol altre posterior, si es necessita, se'n diu reembotit.
+
+<figure markdown="span">
+    ![](./img/reembotit.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Una operació relacionada és l'embotit invers, en el qual es col·loca una peça embotida cap avall en l'encuny i una segona operació d'embotit produeix una configuració com la següent. Encara que pot semblar que l'embotit invers podria produir una deformació més severa que el reembotit, en realitat és més fàcil en el metall. La raó és que en l'embotit invers la làmina de metall es doblega en la mateixa direcció a les cantonades exteriors i interiors de l'encuny, mentre que en el reembotit el metall es doblega en direccions oposades en les dues cantonades. A causa d'aquesta diferència, el metall experimenta menys enduriment per deformació.
+
+<figure markdown="span">
+    ![](./img/embotit_invers.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Una de les funcions principals del sostenidor consisteix a previndre l'arrugat de la brida mentre s'emboteix la peça. La tendència a l'arrugat es redueix en augmentar la relació entre la grossària i el diàmetre de la forma inicial. Si la relació t/Db és prou gran, es pot aconseguir l'embotit sense necessitat d'un sostenidor.
+
+<figure markdown="span">
+    ![](./img/embotit_sense_subjectador.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
+
+Entre els defectes de l'embotit es poden destacar els següents:
+
+a - Arrugat en la brida o pestanya. L'arrugat en una peça embotida consisteix en una sèrie de plecs que es formen radialment en la brida no embotida de la peça de treball, a causa del vinclament per compressió.
+
+b - Arrugat en la paret. Si la brida arrugada s'emboteix en el cilindre, aquests plecs apareixen en la paret vertical del cilindre.
+
+c - Esquinçada. Aquest defecte consisteix en una clivella que s'obri en la paret vertical, usualment prop de la base de la copa embotida, a causa d'alts esforços a la tensió que causen aprimament i trencament del metall en aquesta regió. Aquest tipus de falla pot també ocórrer quan el metall s'estira sobre una cantonada esmolada de l'encuny.
+
+d - Orejeado. Aquesta és la formació d'irregularitats (anomenades orelles) en la vora superior de la peça embotida, causada per anisotropia en la làmina de metall. Si el material és perfectament isotròpic no es formen les orelles.
+
+e - Ratllats superficials. Poden ocórrer ratllats en la superfície de la peça embotida si el punxó i l'encuny no són llisos o si la lubricació és insuficient.
+
+<figure markdown="span">
+    ![](./img/defectes_embotit.png){ width="600" }
+    <figcaption>Foto de Fundamentos de la manufactura moderna</figcaption>
+</figure>
 
 ### Repujat
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/JaDQATyt-b8?si=fQOrlaVib-2vcra4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Processos de conformació de materials polimèrics i compostos
 
