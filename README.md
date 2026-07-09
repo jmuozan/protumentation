@@ -1,7 +1,7 @@
 # Tècnic superior de laboratori en l'àrea enginyeria mecànica i materials
 
 ## Mòdul 1. Metrologia i normalització
-- [ ] 1. Fonaments de metrologia dimensional: unitats, patrons, precisió, traçabilitat i pla de calibratge.
+- [x] 1. Fonaments de metrologia dimensional: unitats, patrons, precisió, traçabilitat i pla de calibratge.
 - [ ] 2. Normalització: toleràncies, sistema ISO, ajustos, simbologia i calibres passa/no passa.
 - [ ] 3. Tècniques de mesurament I: instruments de mesura de longituds, micromètrics i nònius.
 - [ ] 4. Tècniques de mesurament II: mesura de rugositat superficial, MMC i toleràncies geomètriques.
@@ -17,7 +17,7 @@
 - [x] 10. Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació.
 - [x] 11. Processos de deformació volumètrica: laminatge, forjat, extrusió i trefilatge.
 - [x] 12. Conformació de xapa: processos amb separació de material i sense.
-- [ ] 13. Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils, prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
+- [x] 13. Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils, prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
 - [x] 14. Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
 
 ## Mòdul 4. Processos d'unió
