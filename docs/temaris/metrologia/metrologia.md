@@ -112,17 +112,20 @@ Com més grans siguen les peces, requereixen toleràncies més generoses.
 
 ### Patrons
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/0qCVTKDoOcc?si=WhOToUhTArsRgaz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ### Precisió
 
 Les variacions en la manufactura es divideixen en dos tipus: aleatòries i assignables. Les variacions aleatòries són causades per molts factors: la variabilitat humana amb cada cicle d'operacions, les variacions en les matèries primeres, la vibració de les màquines, etc. En forma individual, aquests factors tal vegada no representen molt, però col·lectivament els errors poden acumular-se en forma significativa per a provocar problemes, tret que estiguen dins de les toleràncies de la peça.
 
 
-
 ### Traçabilitat i pla de calibratge
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/EufnURd1U2s?si=pbTLgibIkxQGKg2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Normalització
 
@@ -135,15 +138,17 @@ Les variacions en la manufactura es divideixen en dos tipus: aleatòries i assig
 
 Les toleràncies de disseny han de ser compatibles amb la capacitat del procés. No hi ha raó per a especificar una tolerància de 0.025 mm en una dimensió si la capacitat del procés és significativament més àmplia que 0.025 mm. Ha d'ampliar-se la tolerància (si la funcionalitat del disseny ho permet) o s'ha de seleccionar una operació de manufactura distinta. L'ideal és que la tolerància especificada ha de ser més gran que la capacitat del procés. Si el funcionament i els processos disponibles ho impedeixen, ha d'incloure's la classificació en la seqüència de manufactura per a inspeccionar cada unitat i separar les que compleixen especificacions de les quals no ho fan.
 
-
-
 ### Ajustos
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/961O25IM1ZI?si=ndA6IhXwsbN8gOFp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ### Simbologia 
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
+    <iframe src="https://www.youtube.com/embed/Dn8jkF8m_6Y?si=rsreC83L4bUbU2Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ### Calibres passa/no passa
 
@@ -202,8 +207,6 @@ La majoria dels altres instruments de mesura de superfícies empren tècniques �
 </figure>
 
 Una màquina de mesurament de coordenades (CMM, per les seues sigles en anglés) consta d'una sonda de contacte (palpador) i un mecanisme per a posicionar la sonda en tres dimensions. En una CMM, la sonda se subjecta a una estructura que permet el seu moviment en relació amb la peça, la qual es fixa en una taula de treball connectada a l'estructura. L'estructura ha de ser rígida per a minimitzar les deflexions que contribueixen als errors de mesurament. S'usen característiques especials en les estructures de les CMM per a aconseguir una alta exactitud i precisió en la màquina de mesurament, incloent-hi l'ús de coixinets d'aire de baixa fricció i aïllament mecànic de la CMM per a reduir vibracions.
-
-
 
 ### Toleràncies geomètriques
 
