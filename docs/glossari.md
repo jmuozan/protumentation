@@ -10,4 +10,5 @@ embutido = embotit
 repujar = repujar
 chaflán = xamfrà
 lúpia = ???
-muesca = osca
+osca = muesca
+escatar = lijar
