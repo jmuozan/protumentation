@@ -1,0 +1,1 @@
+Disseny actual a Europa. ParƟcularitats del disseny italià i escandinau. Repercussions.

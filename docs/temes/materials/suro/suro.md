@@ -1,0 +1,1 @@
+Suro. Naturalesa. Textures i gruixos. Comercialització.

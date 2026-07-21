@@ -1,0 +1,1 @@
+El disseny industrial a Espanya. Autors, sectors i tendències.

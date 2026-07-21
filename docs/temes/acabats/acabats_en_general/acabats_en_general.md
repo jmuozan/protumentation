@@ -1,0 +1,1 @@
+Acabats en general. Tipus de pintures. Laques. PàƟnes.

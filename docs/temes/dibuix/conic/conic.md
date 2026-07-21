@@ -1,0 +1,1 @@
+Sistema cònic. Projecció central. PerspecƟva cònica.

@@ -1,0 +1,1 @@
+Paper cartolina i cartó. Formats. Gramatge. SenƟt de les ﬁbres. Composició. Tipus.

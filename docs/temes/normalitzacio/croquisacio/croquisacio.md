@@ -1,0 +1,1 @@
+Croquisació: acotació i mesurament. Regles i passos a seguir.

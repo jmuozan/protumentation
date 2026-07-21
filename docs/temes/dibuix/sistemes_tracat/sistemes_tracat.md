@@ -1,0 +1,1 @@
+Sistemes de traçat. Desenvolupament dels poliedres regulars i semiregulars

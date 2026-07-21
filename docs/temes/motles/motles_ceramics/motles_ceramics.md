@@ -1,0 +1,1 @@
+Motles per a ceràmica. Buidatge pels procediments de barboƟna i estreta.

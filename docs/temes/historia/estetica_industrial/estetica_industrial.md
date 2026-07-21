@@ -1,0 +1,1 @@
+L'estèƟca industrial i el disseny industrial nord-americà
