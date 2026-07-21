@@ -7,3 +7,93 @@
 [data-md-color-scheme="slate"] .md-footer-meta {
   background-color: var(--md-primary-fg-color) !important;
 }
+
+/* Glossari */
+.glossari-cerca {
+  margin: 1.5em 0;
+}
+
+.glossari-input-wrapper {
+  position: relative;
+}
+
+#glossari-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.6em 1em;
+  font-size: 1em;
+  border: 2px solid var(--md-default-fg-color--lightest);
+  border-radius: 0;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  transition: border-color 0.15s;
+}
+
+#glossari-input:focus {
+  outline: none;
+  border-color: var(--md-primary-fg-color);
+}
+
+.glossari-comptador {
+  display: block;
+  margin-top: 0.4em;
+  font-size: 0.85em;
+  color: var(--md-default-fg-color--light);
+}
+
+.glossari-resultats {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.8em;
+  margin-top: 1em;
+}
+
+.glossari-item {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0;
+  padding: 0.8em 1em;
+  background-color: var(--md-default-bg-color);
+}
+
+.glossari-item-capcalera {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-bottom: 0.5em;
+}
+
+.glossari-terme {
+  font-weight: 700;
+  font-size: 1em;
+  padding: 0.1em 0.5em;
+  border-radius: 0;
+}
+
+.glossari-terme-ca {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.glossari-terme-es,
+.glossari-terme-en {
+  background-color: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color);
+  font-weight: 400;
+}
+
+.glossari-desc {
+  margin: 0.4em 0 0.6em;
+  font-size: 1em;
+  color: var(--md-default-fg-color--light);
+}
+
+.glossari-enllac {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.glossari-buit {
+  grid-column: 1 / -1;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
