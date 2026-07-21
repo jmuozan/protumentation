@@ -38,37 +38,91 @@ repo_name: jmuozan/protumentation
 repo_url: https://github.com/jmuozan/protumentation
 
 nav:
-  - Benvingut/da: index.md
-  # - Documentar: 
-    # - Documenting While Doing: documenting/intro/intro.md
-    # - Com faig el meu web?: documenting/web/web.md
-    # - Gestió de projectes: documenting/gestio/gestio.md
-    # - Control de versions: documenting/control/versioncontrol.md
-  - Temaris:
-    - Mòdul 1. Metrologia i normalització: temaris/metrologia/metrologia.md
-    - Mòdul 2. Processos d'emmotlament i fosa: temaris/motles/motlles.md
-    - Mòdul 3. Conformació de materials: temaris/conformat/conformat.md
-    - Mòdul 4. Processos d'unió: temaris/unio/unio.md
-    - Mòdul 5. Processos de mecanització i control numèric CNC: temaris/cnc/cnc.md
-    - Mòdul 6. Fabricació additiva: temaris/additiva/additiva.md
-    - Mòdul 7. Enginyeria inversa: temaris/enginversa/enginversa.md
-    - Mòdul 8. Informàtica aplicada CAD/CAM: temaris/cad/cad.md
-    - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
-    - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
-  # - Modelisme i maquetisme:
-    # - Mòdul 1. Història: temaris/modelisme_i_maquetisme/historia/historia.md
-    # - Mòdul 2. Maquetes i models: temaris/modelisme_i_maquetisme/maquetes/maquetes.md
-    # - Mòdul 3. Oficina tècnica: temaris/modelisme_i_maquetisme/ofitec/ofitec.md
-    # - Mòdul 4. Metalls i unions: temaris/modelisme_i_maquetisme/metalls/metalls.md
-    # - Mòdul 5. Fusta: temaris/modelisme_i_maquetisme/fusta/fusta.md
-    # - Mòdul 6. Motlles: temaris/motles/motlles.md
-    # - Mòdul 7. Estris i materials: temaris/modelisme_i_maquetisme/estris/estris.md
-    # - Mòdul 8. CNC: temaris/cnc/cnc.md
-    # - Mòdul 9. Gestió de taller: temaris/qualitat/qualitat.md
-  # - Estudiants: estudiants/estudiants.md
-  - Contribuir: contribucions/contribueix.md
-  - Glossari: glossari.md
-  - Bibliografia: bibliografia.md
+  - Glossari: index.md
+  - Historia:
+    - De l'artesania tradicional a l'art industrial: temes/historia/artesania_i_art_industrial/artesania_i_art_industrial.md
+    - Origen i evolució de les màquines: temes/historia/origen_i_evolucio_maquines/origen_i_evolucio_maquines.md
+    - Arts & Crafts: temes/historia/arts_and_crafts/arts_and_crafts.md
+    - Modernisme i art-déco a Europa: temes/historia/modernisme_i_art_deco/modernisme_i_art_deco.md
+    - El Deutscher Werkbund: temes/historia/deutscher_werkbund/deutscher_werkbund.md
+    - L'estètca industrial i el disseny industrial nord-americà: temes/historia/estetica_industrial/estetica_industrial.md
+    - Disseny actual a Europa: temes/historia/disseny_actual/disseny_actual.md
+    - El disseny industrial a Espanya: temes/historia/disseny_industrial_espanya/disseny_industrial_espanya.md
+    - Arquitectura del segle XX - XXI: temes/historia/arquitectura_xx_xxi/arquitectura_xx_xxi.md
+  - Maquetes: 
+    - Evolució històrica de la maqueta: temes/maquetes/maqueta_historia/maqueta_historia.md
+    - Funcions de la maqueta: temes/maquetes/funcions/funcions.md
+    - El model industrial: temes/maquetes/model_industrial/model_industrial.md
+    - El prototip: temes/maquetes/prototip/prototip.md
+    - Camps en què intervé la creació de maquetes: temes/maquetes/aplicacions/aplicacions.md
+    - Premaquetes: temes/maquetes/premaquetes/premaquetes.md
+    - Aspectes comunicatus de la maqueta: temes/maquetes/aspectes_comunicatius/aspectes_comunicatius.md
+    - Procés projectual: temes/maquetes/proces_projectual/proces_projectual.md
+  - Dibuix: 
+    - Geometria: temes/dibuix/geometria/geometria.md
+    - Sistema dièdric: temes/dibuix/diedric/diedric.md
+    - Sistema axonomètric: temes/dibuix/axonometric/axonometric.md
+    - Sistema cònic: temes/dibuix/conic/conic.md
+    - Sistemes de traçat: temes/dibuix/sistemes_tracat/sistemes_tracat.md
+    - Desenvolupament de línies paral·leles: temes/dibuix/linies_paral/linies_paral.md
+    - Desenvolupament de línies radials: temes/dibuix/linies_radials/linies_radials.md
+  - Mesura i metrologia:
+    - Instruments de mesura: temes/mesura_i_ergonomia/instruments/instruments_de_mesura.md
+    - Instruments de traçar: temes/mesura_i_ergonomia/tracat/tracat.md
+    - Mesura: temes/mesura_i_ergonomia/mesura/mesura.md
+  - Ergonomia: temes/ergonomia/ergonomia.md
+  - Normalització: 
+    - Croquisació: temes/normalitzacio/croquisacio/croquisacio.md
+    - Normalització: temes/normalitzacio/normalitzacio/normalitzacio.md
+    - Topografia: temes/normalitzacio/topografia/topografia.md
+  - Materials: 
+    - Resistència dels materials: temes/materials/resistencia_materials/resistencia_materials.md
+    - Metalls: temes/materials/metalls/metalls.md
+    - Fusta: temes/materials/fusta/fusta.md
+    - Taulers de fusta massissa: temes/materials/taulers_fusta_massissa/taulers_fusta_massissa.md
+    - El guix: temes/materials/guix/guix.md
+    - Els materials aïllants i adobadors: temes/materials/aillants_i_adobadors/aillants_i_adobadors.md
+    - Polímers: temes/materials/polimers/polimers.md
+    - Paper cartolina i cartó: temes/materials/paper_cartolina/paper_cartolina.md
+    - Suro: temes/materials/suro/suro.md
+  - Processos de mecanització:
+    - Tècniques bàsiques de metal·listeria: temes/processos/tec_bas_metall/tec_bas_metall.md
+    - Foradament, roscatge i mandrinatge: temes/processos/foradament_roscatge_mandrinatge/foradament_roscatge_mandrinatge.md
+    - Treball dels metalls en fred: temes/processos/treball_en_fred/treball_en_fred.md
+    - Eines manuals per a treballar la fusta: temes/processos/eines_manuals/eines_manuals.md
+    - Maquinària elèctrica manual per a la fusta: temes/processos/maquinaria_electrica_manual/maquinaria_electrica_manual.md
+    - Maquinària elèctrica de bancada per a elaborar la fusta: temes/processos/maquinaria_electrica_bancada/maquinaria_electrica_bancada.md
+    - Talla de fusta: temes/processos/talla/talla.md
+    - Tecnologies de control numèric per a l'elaboració de models i maquetes: temes/processos/cnc/cnc.md
+  - Emmotlament: 
+    - Sistemes de reproducció mitjançant motles: temes/motles/sistemes_reproduccio/sistemes_reproduccio.md
+    - Motles per a ceràmica: temes/motles/motles_ceramics/motles_ceramics.md
+    - Motles per a fosa a la cera perduda: temes/motles/cera_perduda/cera_perduda.md
+  - Processos d'unió:
+    - Soldadures: temes/unio/soldadura/soldadura.md
+    - Unions, acoblaments, encaixos, empalmaments: temes/unio/unions/unions.md
+    - Coles: temes/unio/coles/coles.md
+  - Acabats: 
+    - Acabats en general: temes/acabats/acabats_en_general/acabats_en_general.md
+    - Acabats de la fusta: temes/acabats/acabats_fusta/acabats_fusta.md
+    - Imitació d'elements i materials naturals i artﬁcials: temes/acabats/imitacio/imitacio.md
+  - Gestió del taller: 
+    - Organització, operacions i distribució del treball al taller de modelisme i maquetisme: temes/gestio/organitzacio/organitzacio.md
+    - Els riscos generals en la feina i la seua prevenció: temes/gestio/prl/prl.md
+    - Protecció mediambiental, tractament de residus: temes/gestio/proteccio_ambiental/proteccio_ambiental.md
+
+  # - Temaris:
+  #   - Mòdul 1. Metrologia i normalització: temaris/metrologia/metrologia.md
+  #   - Mòdul 2. Processos d'emmotlament i fosa: temaris/motles/motlles.md
+  #   - Mòdul 3. Conformació de materials: temaris/conformat/conformat.md
+  #   - Mòdul 4. Processos d'unió: temaris/unio/unio.md
+  #   - Mòdul 5. Processos de mecanització i control numèric CNC: temaris/cnc/cnc.md
+  #   - Mòdul 6. Fabricació additiva: temaris/additiva/additiva.md
+  #   - Mòdul 7. Enginyeria inversa: temaris/enginversa/enginversa.md
+  #   - Mòdul 8. Informàtica aplicada CAD/CAM: temaris/cad/cad.md
+  #   - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
+  #   - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
+  # - Bibliografia: bibliografia.md
 
 extra_css:
   - stylesheets/extra.css
