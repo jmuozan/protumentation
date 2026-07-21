@@ -1,2 +1,14 @@
-El guix. Varietats. L'escaiola. CaracterísƟques i propietats. Aplicació i usos en models,
-maquetes i protoƟps.
+# El guix 
+
+
+
+## Varietats 
+
+## L'escaiola 
+
+## Característiques i propietats 
+
+## Aplicació i usos en models, maquetes i prototips
+
+## Bibliografia
+

@@ -38,7 +38,8 @@ repo_name: jmuozan/protumentation
 repo_url: https://github.com/jmuozan/protumentation
 
 nav:
-  - Glossari: index.md
+  - Benvingut/a: 
+    - Glossari tècnic: index.md
   - Historia:
     - De l'artesania tradicional a l'art industrial: temes/historia/artesania_i_art_industrial/artesania_i_art_industrial.md
     - Origen i evolució de les màquines: temes/historia/origen_i_evolucio_maquines/origen_i_evolucio_maquines.md
@@ -126,6 +127,9 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/glossari.js
 
 plugins:
   - search:
