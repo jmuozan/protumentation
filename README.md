@@ -59,13 +59,15 @@
 
 # Mòduls proposats
 
+- [ ] Historia
 - [ ] Dibuix
 - [ ] Planimetria
-- [ ] Soldadura
+- [ ] Materials (Polimers, Metalls, Ceràmics, Fustes, Composites)
+- [ ] Maquetes
+- [ ] Fabricació Additiva
+- [ ] Processos d'unió (Soldadura, Unions físiques, adhesius)
 - [ ] Emmotlament
 - [ ] Conformat
 - [ ] Mecanitzat
 - [ ] Metrologia
-- [ ] Historia
-- [ ] Fabricació Additiva
-- [ ] Metrologia
+- [ ] Glossari

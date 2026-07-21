@@ -1,2 +1,17 @@
-# Principis i pràctiques
+# Glossari
+
+tremp = temple
+reveniment = revenido
+bufador = soplete
+escafandre = escafandra
+aliatge = aleación
+trefilatge = trefilado
+cementita = cementita
+troquelar = encunyar
+embutido = embotit
+repujar = repujar
+chaflán = xamfrà
+lúpia = ???
+osca = muesca
+escatar = lijar
 
