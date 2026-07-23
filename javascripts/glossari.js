@@ -3,6 +3,13 @@
 // a la pàgina del temari on es desenvolupa amb més detall.
 const GLOSSARI_TERMES = [
   {
+    ca: "Guix",
+    es: "Yeso",
+    en: "Plaster",
+    desc: " Sulfat de calci hidratat, mineral que cristal·litza en el sistema monoclínic.",
+    link: "temes/materials/guix/guix/",
+  },
+  {
     ca: "Cartró ploma",
     es: "Cartón pluma",
     en: "Foam board",
