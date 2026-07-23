@@ -4,15 +4,13 @@ Conjunt de bibliografia general, la qual considere interessant per endinsar-se m
 
 ---
 
-**Navarro Lizandra, Jose Luís.** *Maquetas, modelos y moldes: materiales para dar forma a las ideas.* Publicacions Universitat Jaume I, 2011.
+
 
 **Tedeschi, Arturo.** *AAD Algorithms-Aided Design: Parametric strategies using Grasshopper.* Le Penseur, 2014.
 
-**Garcia Cuevas, Diego; Pugliese, Gianluca.** *Advanced 3D Printing with Grasshopper®: Clay and FDM.* Independently published, 2020.
 
 **Conejero Rodilla, Andrés; Ayala López, Pedro; Martínez Torán, Manuel; Fernández Vicente, Miguel.** *Guía para diseñadores: prototipado industrial.* Parramón, 2019.
 
-**Kojima, T.** *Models & Prototypes.* Graphic-Sha Publishing, 2000.
 
 **Thompson, Rob.** *The Materials Sourcebook for Design Professionals.* Thames and Hudson, 2017.
 

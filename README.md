@@ -1,5 +1,88 @@
-# Tècnic superior de laboratori en l'àrea enginyeria mecànica i materials
+# Modelisme i maquetisme
 
+##  Historia
+- [ ] De l'artesania tradicional a l'art industrial
+- [ ] Origen i evolució de les màquines
+- [ ] Arts & Crafts
+- [ ] Modernisme i art-déco a Europa
+- [ ] El Deutscher Werkbund
+- [ ] L'estètca industrial i el disseny industrial nord-americà
+- [ ] Disseny actual a Europa
+- [ ] El disseny industrial a Espanya
+- [ ] Arquitectura del segle XX - XXI
+
+## Maquetes
+- [ ] Evolució històrica de la maqueta
+- [ ] Funcions de la maqueta
+- [ ] El model industrial
+- [ ] El prototip
+- [ ] Camps en què intervé la creació de maquetes
+- [ ] Premaquetes
+- [ ] Aspectes comunicatus de la maqueta
+- [ ] Procés projectual
+
+## Dibuix 
+- [ ] Geometria
+- [ ] Sistema dièdric
+- [ ] Sistema axonomètric
+- [ ] Sistema cònic
+- [ ] Sistemes de traçat
+- [ ] Desenvolupament de línies paral·leles
+- [ ] Desenvolupament de línies radials
+
+## Mesura i metrologia:
+- [ ] Instruments de mesura
+- [ ] Instruments de traçar
+- [ ] Mesura
+
+## Ergonomia
+- [ ] Ergonomia
+
+## Normalització: 
+- [ ] Croquisació
+- [ ] Normalització
+- [ ] Topografia
+
+## Materials
+- [ ] Resistència dels materials
+- [ ] Metalls
+- [ ] Fusta
+- [ ] Taulers de fusta massissa
+- [ ] Els materials aïllants i adobadors
+- [ ] Paper cartolina i cartó
+- [ ] Suro
+    
+## Processos de mecanització
+- [ ] Tècniques bàsiques de metal·listeria
+- [ ] Foradament, roscatge i mandrinatge
+- [ ] Treball dels metalls en fred
+- [ ] Eines manuals per a treballar la fusta
+- [ ] Maquinària elèctrica manual per a la fusta
+- [ ] Maquinària elèctrica de bancada per a elaborar la fusta
+- [ ] Talla de fusta
+- [ ] Tecnologies de control numèric per a l'elaboració de models i maquetes
+
+## Emmotlament
+- [ ] Sistemes de reproducció mitjançant motles
+- [ ] Motles per a ceràmica
+- [ ] Motles per a fosa a la cera perduda
+
+## Processos d'unió
+- [ ] Soldadures
+- [ ] Unions, acoblaments, encaixos, empalmaments
+- [ ] Coles
+
+## Acabats 
+- [ ] Acabats en general
+- [ ] Acabats de la fusta
+- [ ] Imitació d'elements i materials naturals i artﬁcials
+
+## Gestió del taller
+- [ ] Organització, operacions i distribució del treball al taller de modelisme i maquetisme
+- [ ] Els riscos generals en la feina i la seua prevenció
+- [ ] Protecció mediambiental, tractament de residus
+
+<!--
 ## Mòdul 1. Metrologia i normalització
 - [x] 1. Fonaments de metrologia dimensional: unitats, patrons, precisió, traçabilitat i pla de calibratge.
 - [ ] 2. Normalització: toleràncies, sistema ISO, ajustos, simbologia i calibres passa/no passa.
@@ -55,19 +138,4 @@
 - [x] 34. Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
 - [x] 35. Gestió del laboratori: inventari, manteniment i organització.
 - [x] 36. Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. Informació accessible en: [http://www.upv.es/medioambiente.](https://www.upv.es/entidades/amapuoc/va/inici-ca/)
-
-
-# Mòduls proposats
-
-- [ ] Historia
-- [ ] Dibuix
-- [ ] Planimetria
-- [ ] Materials (Polimers, Metalls, Ceràmics, Fustes, Composites)
-- [ ] Maquetes
-- [ ] Fabricació Additiva
-- [ ] Processos d'unió (Soldadura, Unions físiques, adhesius)
-- [ ] Emmotlament
-- [ ] Conformat
-- [ ] Mecanitzat
-- [ ] Metrologia
-- [ ] Glossari
+-->
