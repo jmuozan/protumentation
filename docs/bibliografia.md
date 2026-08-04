@@ -39,3 +39,6 @@ Conjunt de bibliografia general, la qual considere interessant per endinsar-se m
 3d printing handbook
 
 Low tech magazine
+
+
+pandeo = vinclament
