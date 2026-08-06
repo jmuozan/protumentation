@@ -130,6 +130,8 @@ extra_css:
 
 extra_javascript:
   - javascripts/glossari.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
   - search:
@@ -145,6 +147,8 @@ markdown_extensions:
               format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
   - attr_list
   - md_in_html
   - toc:

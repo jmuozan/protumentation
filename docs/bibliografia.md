@@ -2,9 +2,6 @@
 
 Conjunt de bibliografia general, la qual considere interessant per endinsar-se més als coneixements.
 
----
-
-
 
 **Tedeschi, Arturo.** *AAD Algorithms-Aided Design: Parametric strategies using Grasshopper.* Le Penseur, 2014.
 
@@ -39,6 +36,3 @@ Conjunt de bibliografia general, la qual considere interessant per endinsar-se m
 3d printing handbook
 
 Low tech magazine
-
-
-pandeo = vinclament

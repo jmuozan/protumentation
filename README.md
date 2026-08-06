@@ -44,7 +44,7 @@
 - [ ] Topografia
 
 ## Materials
-- [ ] Resistència dels materials
+- [x] Resistència dels materials
 - [ ] Metalls
 - [ ] Fusta
 - [ ] Taulers de fusta massissa
