@@ -44,7 +44,8 @@
 - [ ] Topografia
 
 ## Materials
-- [x] Resistència dels materials
+- [x] Resistència dels materials. Consideracions generals d'esforç i resistència. Tracció,
+compressió i cisallament. Torsió. Flexió. Vinclament.
 - [ ] Metalls
 - [ ] Fusta
 - [ ] Taulers de fusta massissa
@@ -65,7 +66,7 @@
 ## Emmotlament
 - [ ] Sistemes de reproducció mitjançant motles
 - [ ] Motles per a ceràmica
-- [ ] Motles per a fosa a la cera perduda
+- [x] Motles per a fosa a la cera perduda. Motles per a fosa a l’arena
 
 ## Processos d'unió
 - [ ] Soldadures
@@ -101,8 +102,4 @@ tempre, reveniment, recuita, nitruració, anodització, galvanització
 - [x] 19. Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
 - [x] 20. Programació i control numèric: automatització, programació CNC i robots industrials.
 - [x] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
-
-## Mòdul 7. Enginyeria inversa
-- [x] 25. Fonaments d'enginyeria inversa: definició, aplicacions i beneficis en la indústria.
-- [x] 26. Digitalització 3D i reconstrucció de models: escaneig 3D, tècniques de reconstrucció i programari.
 -->
