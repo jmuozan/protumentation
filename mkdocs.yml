@@ -98,7 +98,7 @@ nav:
   - Emmotlament: 
     - Sistemes de reproducció mitjançant motles: temes/motles/sistemes_reproduccio/sistemes_reproduccio.md
     - Motles per a ceràmica: temes/motles/motles_ceramics/motles_ceramics.md
-    - Motles per a fosa a la cera perduda: temes/motles/cera_perduda/cera_perduda.md
+    - Motles d'un sol ús: temes/motles/cera_perduda/cera_perduda.md
   - Processos d'unió:
     - Soldadures: temes/unio/soldadura/soldadura.md
     - Unions, acoblaments, encaixos, empalmaments: temes/unio/unions/unions.md
@@ -111,19 +111,6 @@ nav:
     - Organització, operacions i distribució del treball al taller de modelisme i maquetisme: temes/gestio/organitzacio/organitzacio.md
     - Els riscos generals en la feina i la seua prevenció: temes/gestio/prl/prl.md
     - Protecció mediambiental, tractament de residus: temes/gestio/proteccio_ambiental/proteccio_ambiental.md
-
-  # - Temaris:
-  #   - Mòdul 1. Metrologia i normalització: temaris/metrologia/metrologia.md
-  #   - Mòdul 2. Processos d'emmotlament i fosa: temaris/motles/motlles.md
-  #   - Mòdul 3. Conformació de materials: temaris/conformat/conformat.md
-  #   - Mòdul 4. Processos d'unió: temaris/unio/unio.md
-  #   - Mòdul 5. Processos de mecanització i control numèric CNC: temaris/cnc/cnc.md
-  #   - Mòdul 6. Fabricació additiva: temaris/additiva/additiva.md
-  #   - Mòdul 7. Enginyeria inversa: temaris/enginversa/enginversa.md
-  #   - Mòdul 8. Informàtica aplicada CAD/CAM: temaris/cad/cad.md
-  #   - Mòdul 9. Seguretat i salut: temaris/seguretat/seguretat.md
-  #   - Mòdul 10. Control de qualitat i gestió de laboratori: temaris/qualitat/qualitat.md
-  # - Bibliografia: bibliografia.md
 
 extra_css:
   - stylesheets/extra.css
