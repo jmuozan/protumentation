@@ -1,5 +1,10 @@
-El moviment Arts and Crafts. Ruskin i Morris. Indústria i artesania. Les arts decoratives i
-industrials.
+# El moviment Arts and Crafts
+
+## Ruskin i Morris
+
+## Indústria i artesania
+
+## Les arts decoratives i industrials
 
 
 ## Bibliografia
