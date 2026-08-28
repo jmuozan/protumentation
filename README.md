@@ -76,7 +76,7 @@ compressió i cisallament. Torsió. Flexió. Vinclament.
 - [ ] Coles. Tipus de coles. Coles més idònies per als diversos materials, fustes, plàstics, derivats del paper. Tipus de juntes.
 
 ## Acabats 
-- [x] Acabats en general. Tipus de pintures. Laques. Pàtines.
+- [ ] Acabats en general. Tipus de pintures. Laques. Pàtines.
 - [ ] Acabats de la fusta
 - [ ] Imitació d'elements i materials naturals i artificials. Materials base més idonis. Tractaments i acabats. Exemples.
 
