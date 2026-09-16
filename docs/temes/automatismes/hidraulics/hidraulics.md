@@ -10,7 +10,7 @@ En el següent tema es desenvoluparan els Fonaments físics de la hidràulica, l
 
 ## Contextualització a l'FP
 
-El següent tema forma part de l'atribució a l'especialitat docent d'Organització de Projectes de Fabricació Mecànica considerada a la Llei Orgànica 3/2022, la qual ordena els estudis de formació professional. La hidràulica s'inclou de manera transversal en mòduls d'automatització i processos de fabricació tant en graus mitjans (Caldereria, Soldadura i Mecanització) com superiors (Programació de la producció mecànica i Disseny per la fabricació mecànica)
+El següent tema forma part de l'atribució a l'especialitat docent d'Organització i Projectes de Fabricació Mecànica considerada a la Llei Orgànica 3/2022, la qual ordena els estudis de formació professional. La hidràulica s'inclou de manera transversal en mòduls d'automatització i processos de fabricació tant en graus mitjans (Caldereria, Soldadura i Mecanització) com superiors (Programació de la producció mecànica i Disseny per la fabricació mecànica)
 
 Els coneixements de l'automatització hidràulica atorguen a l'alumnat la capacitat d'anàlisi i interpretació de plànols normalitzats, com també el seu disseny; coneixement sobre els valors necessaris per a dimensionar un circuit i selecció de components i el desenvolupament i comprensió d'instal·lacions complexes mitjançant d'electrohidràulica i els desenrotllaments seqüencials. 
 
@@ -33,6 +33,39 @@ Els avantatges oferits per aquesta tecnologia d'automatització són: La capacit
 Tot i així, aquesta tecnologia presenta diversos desavantatges. Entre aquests es pot destacar la necessitat de molt manteniment; que el fluid estiga net, ja que incorporació de partícules, aire i altres pot danyar els components; possibilitat de fugues, les quals provoquen brutícia i pèrdues de pressió; sensibilitat a la temperatura que pot degradar el fluid i afectar a la seua viscositat; necessitat d'un grup de bombeig constant; i el cost de la instal·lació i components, el qual és més elevat.
 
 Davant la pneumàtica, permet forces i precisió molt superiors, però moviments menys ràpids i un cost d'instal·lació més elevat. Davant d'actuadors elèctrics, resulta més apropiada en ambients agressius on hi haja càrregues pesades, puix que aporta una major robustesa. A la fi, cada un d'aquests mètodes té avantatges respecte a la resta, per aquest motiu, les instal·lacions modernes disposen de sistemes mixtos que permeten extraure les millors característiques d'uns i altres.
+
+## Compressió de líquids
+
+Els fluids hidràulics són l'element principal del sistema, ja que són els encarregats de transportar l'energia, refrigeren el circuit i els protegeixen contra la corrosió, i evacuen les impureses. Per aquest motiu, seleccionar-lo adequadament és crucial per la instal·lació.
+
+Un bon fluid ha de presentar una viscositat adequada, estabilitat davant l'oxidació, bones propietats lubricants, resistència tèrmica, compatibilitat amb materiials del circuit i ausencia d'aire i partícules. Un equilinbri incorrecte pot provocar desgast.
+
+Hi ha quatre tipus principals de fluids utilitzats: 
+- Olis minerals: Utilitzats per la seua relació cost-rendiment
+- Fluids sintètics: Major estabilitat tèrmica i ressitència al foc
+- Fluids biodegradables: Utilitzats a la indústria agrícola, ja que no afecten el medi ambient en cas de fuga
+- Emulsions oli/aigua: Utilitzades a la indústria siderúrgica, ja que redueixen el risc d'incendi.
+
+La viscosittat n'és la característica més important d'un fluid. Un bon fluid ha de presentar una viscositat adequada, ja que una d'alta podria provocar pèrdues i danys per rosament mentre que una baixa afavoreix fugues internes. Es classifica mitjançant graus ISO VG. Així i tot, també en són relevants compatibilitat química amb altres elements del circuit, la capacitat de lubricació i la resistència a l'envelliment.
+
+La contaminació dels fluids és la causa més habitual de fallades als sistemes hidràulics. Pot consistir en l'entrada d'aire, partícules o vapor d'aigua que condense, que degrade el fluid o els components. Per fer-hi front s'utilitzen filtres, anàlisi periòdics, classificació de l'estat d'acord amb la norma ISO 4406 i canvis habituals del líquid per manteniment.
+
+## Components hidràulics
+
+Els components hidràulics són els encarregats de dirigir, controlar i determinar les funcions d'un circuit hidràulic. Una correcta selecció d'aquests serà essencial per dissenyar una instal·lació.
+
+Les bombes, són l'element encarregat de tranformar l'energia mecànica del motor primari en energia hidràulica. El seu caudal ho defineix Q=cilindrada x velocitat de gir. Poden ser d'engranatges, paletes (les més silencioces) o de pistons axials (alta pressió). La bomba però, no genera pressió per si mateixa, la pressió apareix quan el fluid troba resistència al circuit. 
+
+El diposit compleix la funció d'emmagatzemar el fluid, disipar la calor i decantar les partícules del líquid.
+
+Els elements de conducció són els encarregats de distribuir el fluid pel circuit mitjançant tuberies rígides i mangueres (resistens a les pressions i temperatures) i l'addició de ràcors permet montar modularment el sistema.
+
+Respecte a les vàlvules, són les encarregades de dirigir i controlar el caudal que entra als actuadors. Existeixen les vàlvules distribuidores, que regulen la direcció. Aquestes es defineixen pel tipus d'actuació i pel nombre de vies i posicions; vàlvules limitadores, que fixen la pressió màxima; lògiques, que fan servir els sistemes lògics per control del sistema; i d'estrangulament, per reduir el caudal. Aquestes darreres solen qacompanyar-se de no-retorn, per controlar en una direcció.
+
+Els actuadors són els encarregats de transformar l'energia en moviment. Existeixen els cilíndres que poden ser: d'efecte simple, quan només una de les cambre es activa i el retorn es realitza per forces externes o per un moll; de doble efecte, que permet activar dues càmeres per realitzar un retorn hidràulic; telescòpic, i d'impacte, per reblons. Per calcular la força exercida pels cilindres s'utilitza la fòrmula F=pxA, als de doble efecte, per calcular el retocés, caldra descomptar l'àrea del plançò. 
+
+Cal també mencionar els elements auxiliars, necessaris pel correcte funcionament. Entre aquests es poden destacar: Els filtres, encarregats de extraure les partícules als fluids; els intercanviadros de calor, que regulen la tempratura; els acumuladors, que emmagatzemen energia hidràulica; i els manómetres i presostats, que mesuren la pressió i msanen senyasl elèctrics.
+
 
 
 ## Bibliografia
