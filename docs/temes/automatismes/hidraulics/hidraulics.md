@@ -38,7 +38,7 @@ Davant la pneumàtica, permet forces i precisió molt superiors, però moviments
 
 Els fluids hidràulics són l'element principal del sistema, ja que són els encarregats de transportar l'energia, refrigeren el circuit i els protegeixen contra la corrosió, i evacuen les impureses. Per aquest motiu, seleccionar-lo adequadament és crucial per la instal·lació.
 
-Un bon fluid ha de presentar una viscositat adequada, estabilitat davant l'oxidació, bones propietats lubricants, resistència tèrmica, compatibilitat amb materiials del circuit i ausencia d'aire i partícules. Un equilinbri incorrecte pot provocar desgast.
+Un bon fluid ha de presentar una viscositat adequada, estabilitat davant l'oxidació, bones propietats lubricants, resistència tèrmica, compatibilitat amb materials del circuit i ausencia d'aire i partícules. Un equilinbri incorrecte pot provocar desgast.
 
 Hi ha quatre tipus principals de fluids utilitzats: 
 - Olis minerals: Utilitzats per la seua relació cost-rendiment
@@ -66,7 +66,54 @@ Els actuadors són els encarregats de transformar l'energia en moviment. Existei
 
 Cal també mencionar els elements auxiliars, necessaris pel correcte funcionament. Entre aquests es poden destacar: Els filtres, encarregats de extraure les partícules als fluids; els intercanviadros de calor, que regulen la tempratura; els acumuladors, que emmagatzemen energia hidràulica; i els manómetres i presostats, que mesuren la pressió i msanen senyasl elèctrics.
 
+## Valors característics en els circuits
 
+Tot i que es coneguen els diversos elements que componen un circuit i les seues funcions, es imperatiu coneixer els valors característics d'un automatisme hidràulic, això, permetrà poder dimensionar adequadament la instal·lació. Aquests són:
+
+- Caudal: Ho determina la velocitat Q=vxt, cal trobar-ne un equilibri adequat, puix que un de molt elevat podria provocar moviments no controlats i un de baix podria provocar moviments més erràtics.
+- Pressió: És la força exercida pel fluid, les aplicacions industrials treballen habitualment sota 100-350 bar.
+- Força: És la força exercida pels actuadors, F=pxA, resulta important diferenciar entre la idea l i la real, a la que caldra afegir el factor
+- Pèrdues: Pèrdues provocades per fugues o insercions d'altres elements, aquestes poden reduir la pressió que és possible exercir pel fluid.
+- Rendiment: Es distingeix el rendiment volumètric (afectat per fugues internes), del mecànic (Afectat per rosaments), i del global, el producte de ambdós. 
+- Temperatura: Si s'eleva massa, pot afectar la viscositat i degradar el fluid, habitualment es manté sota uns 50-60 graus.
+
+## Electrohidràulica: tècnica de comandament
+
+A fi de obtenir un millor control amb una elevada precissió, introduint-hi autòmates programables s'utilitza la electrohidràulica, aquesta combina la capacitat de control elèctrica, la qual és precisa i flexible amb la potència hidràulica, separant-ne els actuadors dels controladors.
+
+A fi de que es puguen generar senyals elèctrics escauen sensors al circuit, els quals transmetran posicions, trajectòries, temperatures, situacions ambientals, posicions, materials, pressions i activitat elèctrica a senyals interprestables per ordinador. Per això es fan servir: finals de carrera, sensors ambientals, fotoelèctrics, capacitius, presostats, termostats i LVDT entre altres.
+
+Una vegada s'ha generat la resposta, seràn les vàlvules les encarregades d'activar-se i regular el caudal i direcció. Per aquest motiu a l'electrohidràulica es fa ús d'electrovàlvues i servovàlvules, les primeres s'activen mitjançant una bobina que s'exita, mou la posició, pasant d'oberta a tancada o viceversa; per altra banda, la servo vàlvula otorga més control, ja que permet controlar l'entrada de líquid i regular-la en proporció al senyal elèctric.
+
+El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requeris de lògica programada. Si es b usca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seq¨ències complexes, enclavaments i condicins de seguretat. 
+
+L'electrohidràuloca, però, planteja una complicació afegida a l'hora de representar esquemes normalitzats, puix que, afegit a la norma ISO 1219 de representació hidràulica, s'ha d'afegir la norma IEC 60617 de representació d'esquemes elèctrics. D'aquesta manera, s'escau una doble representació amb referències entrecreuades.
+
+Mitjançant servovàlvules, sensors lineals i controladors digitals s'ajusten la posició i la velocitat amb enorme precisió, emprant un llaç tancat que compara contínuament la magnitud mesurada amb la consigna i corregeix l'error.
+
+## Desenrotllaments seqüencials
+
+La seqüenciació ordena els moviments de diveros actuuadors de manera que funcinen seguint un ordre. Mitjançant una notació abreviada el defineix amb signe + o - l'avançament o retrocés del cilindre i amb lletres (A, B, C...) els cilíndres, definint una seqüència completa.
+
+Aquestes seqüenciacions no han de implimentar la hidràulica necessàriament, poden fer-se implementant finals de carrera i actuadors purament hidràulics, tot i que dificulta la modificació, fa els sistemes més robustos per ambients més agressius.
+
+Les electrohidràuliques per altra banda són les més utilitzades implementant sensors amb actuadors hidràulics, són molt més flexiblesi fàcils de modificar.
+
+El disseny pas a pas és el ecarregat de fer front a les senyals solapades que poden ocorrer en sistemes purament hidràulics. En aquest potser que arriben dos senyals per costats diferents a una vàlvula distribuidora, la qual es bloqueja. Per fer-hi front, aquest sistema separa la seqüència en grups on els actuadors no es repeteixen i permeten fer un disseny en el qual s'activen els grups definits en un order determinat. 
+
+GRAFCET és el llenguatge tècnic normalitzat que descriu una seqüència mitjançant etapes, trancisions, repitivitats i accions associades a cada etapa. És de gran importància ja que, transmet un disseny conceptual en un cricuit cablejat o a la programació PLC, facilitat la implementació i servint com a documentació tècnica.
+
+Els desenrotllaments són implementats en sistemes d'elevació, frenada, maquinària de plegat, premses i embragaments. 
+
+Per causa de la potència d'aquesta tecnologia, exigeix mesures de seguretat molt definides com: vàlvules de caiguda, bloqueig, elements redundants, presostats de seguretat, control de fugues... tot definit per la norma ISO 13849
+
+## Conclusions
+
+Els automatismes hidràulics es constitueixen essencials per la automatització industrial per cuassa de la seua capacitat de generar forces molt elevades i la seua precissió. La seua densitat de potència la converteix en una tecnologia essencial per la indústria pesada. 
+
+El tècnic/a ha de comprendre els fonaments físics juntament amb els valors de dimensionament necessaris per poder dissenyar una instal·lació optima, per la qual caldrà seleccionar correctament tots els elements correctament d'acord amb la seua funció. Darrerament en cas de voler dissenyar un automatisme complexe, serà imperatiu conèixer els desenrotllaents seqüencials i l'implementació electehidràulica. 
+
+Des del punt de vista de la docència el coneicement de cadascun dels apartats d'aquest tema juntament amb la pneumàtica i la elèctrica otorga a l'alumnat una visió general de l'automatització industrial, així com unes capacitats de muntatge, manteniment, diagnòstic i disseny essencials per tècnics de disseny i programació de la producció.
 
 ## Bibliografia
 
