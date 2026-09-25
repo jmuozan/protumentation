@@ -97,7 +97,7 @@ La seqüenciació ordena els moviments de diveros actuuadors de manera que funci
 
 Aquestes seqüenciacions no han de implimentar la hidràulica necessàriament, poden fer-se implementant finals de carrera i actuadors purament hidràulics, tot i que dificulta la modificació, fa els sistemes més robustos per ambients més agressius.
 
-Les electrohidràuliques per altra banda són les més utilitzades implementant sensors amb actuadors hidràulics, són molt més flexiblesi fàcils de modificar.
+Les electrohidràuliques per altra banda són les més utilitzades implementant sensors amb actuadors hidràulics, són molt més flexibles i fàcils de modificar.
 
 El disseny pas a pas és el ecarregat de fer front a les senyals solapades que poden ocorrer en sistemes purament hidràulics. En aquest potser que arriben dos senyals per costats diferents a una vàlvula distribuidora, la qual es bloqueja. Per fer-hi front, aquest sistema separa la seqüència en grups on els actuadors no es repeteixen i permeten fer un disseny en el qual s'activen els grups definits en un order determinat. 
 
@@ -109,7 +109,7 @@ Per causa de la potència d'aquesta tecnologia, exigeix mesures de seguretat mol
 
 ## Conclusions
 
-Els automatismes hidràulics es constitueixen essencials per la automatització industrial per cuassa de la seua capacitat de generar forces molt elevades i la seua precissió. La seua densitat de potència la converteix en una tecnologia essencial per la indústria pesada. 
+Els automatismes hidràulics es constitueixen essencials per la automatització industrial per causa de la seua capacitat de generar forces molt elevades i la seua precissió. La seua densitat de potència la converteix en una tecnologia essencial per la indústria pesada. 
 
 El tècnic/a ha de comprendre els fonaments físics juntament amb els valors de dimensionament necessaris per poder dissenyar una instal·lació optima, per la qual caldrà seleccionar correctament tots els elements correctament d'acord amb la seua funció. Darrerament en cas de voler dissenyar un automatisme complexe, serà imperatiu conèixer els desenrotllaents seqüencials i l'implementació electehidràulica. 
 
