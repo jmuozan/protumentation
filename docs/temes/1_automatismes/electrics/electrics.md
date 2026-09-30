@@ -56,7 +56,6 @@ El control escau un sistema analògic-digital el qual permeta passar de senyal a
 
 El quadre elèctric de manec és on conviuen els elements, si està correctament dissenyat, incloura passatges per l'aire, separació de la potència i el control, indentifica correctament el cablejat i integra les proteccions adequades. 
 
-
 ## Elements de mesura
 
 El control i supervisió d'una instal·lació exigeix mesurar magnituds com la instemnsitat, tensió, potència, resistència, factor de potència i la distorsió harmònica. Aquestes determinen el rendiment, consum, i qualitat de l'energia. El seguiment d'aquestos valors ajudarà a determinar-ne el rendiment i fer-ne el diagnòstic.
@@ -75,9 +74,19 @@ Els relés tèrmics detecten sobrecàrregues prolongades dels motors per efecte 
 
 L'interruptor diferencial, protegeix a les persones i la instal·lació davant derivacions i fugues a terra, comparant el corrent d'entrada i eixida i disparant quan la diferència és elevada. 
 
-Per causa de la gran quantitat d'elements electrònics sensibles és important protegir contra sobretensions, mitjançant desparregadors de sobretensions SPD, així com para rajos exteriors.
+Per causa de la gran quantitat d'elements electrònics sensibles és important protegir contra sobretensions, mitjançant descarregadors de sobretensions SPD, així com para rajos exteriors.
 
 Explicats tots els mètodes de protecció, és important destacar la importàcia de la coordinació. Disparant únicament la protecció més propera al defecte. Minimitzant el nombre de parades, desconnexions de línies completes i millorant la continuitat del servei. 
 
 ## Sistemes de detecció i control
+
+Els sensors, són els encarregats de detectar presència, posició, velocitat, distància i nivell. Els inductius detecten peces metàl·liques en màquines eina; els capacitius, qualsevol material; els òptics o fotoelèctrics permeten el comptatge en línies d'envasament; els ultrasònics mesuren distàncies llargues; i els encoders proporcionen el posicionament precís en robots i eixos.
+
+Els transductors transformen una magnitud física en un senyal elèctric normalitzat. La cadena de mesura inclou convertidors analògic/digital i digital/analògic, condicionadors de senyal, amplificadors i filtres que adapten i netegen el senyal abans de lliurar-la al PLC
+
+Al costat del cablejat tradicional, les comunicacions industrials sense fils augmenten la seva presència en magatzems automàtics, equips mòbils i màquines modulars, permetent el monitoratge sense necessitat de cablejat fix.
+
+Els sensors alimenten d'informació al *PLC, que executa la lògica del procés en temps real. Els sistemes *SCADA, en el nivell de supervisió, proporcionen la visió global de la planta, el registre de dades històriques, la gestió d'alarmes i el control remot, integrant la informació de diversos *PLC i oferint-la a l'operador AS-i per a sensors simples, *Profibus i *Profinet per al control general, *EtherCAT per a la robòtica i el *CNC
+
+Exemples representatius són les cintes transportadores amb detectors inductius, els robots amb encoders i servomotors, les premses servo-hidràuliques amb llaços de realimentació, els sistemes de classificació per visió artificial i sensors òptics
 
