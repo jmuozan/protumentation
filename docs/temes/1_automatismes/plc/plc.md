@@ -8,7 +8,7 @@ En el següent tema es desenvoluparan els fonaments del plc, els elements que el
 
 ## Contextualització en FP
 
-Aquets temari forma part de la atribució docent de l'especialització Organització de projectes de fabricació mecànica amparat en la lleis 3/2022 d'ordenació dels estudis de formació professional. Juntament amb la tecnologia elèctrica, pneumàtica i hidràulica no només odna una visió general de l'automatització industrial, sinó que afavoreix el desenvolupament de les competències de disseny, diagnòstic i manteniment d'instal·lacions, necessàris per tècnics de programació de la producció. 
+Aquet temari forma part de la atribució docent de l'especialització Organització de projectes de fabricació mecànica amparat en la lleis 3/2022 d'ordenació dels estudis de formació professional. Juntament amb la tecnologia elèctrica, pneumàtica i hidràulica no només odna una visió general de l'automatització industrial, sinó que afavoreix el desenvolupament de les competències de disseny, diagnòstic i manteniment d'instal·lacions, necessàris per tècnics de programació de la producció. 
 
 ## Control de processos industrials per ordinador
 
@@ -77,3 +77,17 @@ Al control adaptatiu, el controlador ajusta automàticament els paràmetres en f
 El control predictiu basat en models (MCP), utilitza un model matemàtic del procés per predir els estats futurs i calcular l'actuació òptima. Permet anticipar-se al comportament del sistema. S'utilitza en processos compexes. 
 
 Darrerament, els sistemes SCADA, monitoritzen la instal·lació, registren les dades històriques, alarmes, i visualitzen el procés en temps real mitjançant interfícies gràfiques. Són essencials per la gestió global de la planta, ja que ofereixen una visió de tots el prrocessos en planta, i les ferramentes per diagnosticar, documentar. Aquestes màquines, també inclouen pnatalles, botons panels tàctils... (HMI) per facilitar l'ajustament i diagnòstic in situ.
+
+## Relació PLC - SCADA - Xarxes industrials
+
+El PLC actua a nivell de control executant la lògica del procés, l'SCADA, a un nivell superior, supervisant la informació de diveros PLCs i transmetemtla a sistemes superiors a la jerarquia
+
+La interconnexió dels equips es recolza en els busos de camp i les xarxes industrials: Profibus, Modbus, Profinet, EtherNet/IP, EtherCAT i CANopen. Per a la interoperabilitat segura entre el control i els sistemes de gestió s'empra l'estàndard OPC UA. La tendència actual són les xarxes deterministes sobre *Ethernet i la creixent importància de la ciberseguretat industrial.
+
+El sistema supervisor emmagatzema les tendències, els temps de cicle, els valors del procés i els esdeveniments crítics, la qual cosa habilita l'anàlisi del rendiment, la traçabilitat de la producció i el manteniment predictiu.
+
+El control industrial per ordinador és present en tots els sectors productius. En la indústria manufacturera governa robots, cèl·lules de soldadura, centres de mecanitzat i línies de muntatge; en els processos per lots i en la fabricació mecànica controla el dosatge, les mescles, el tractament tèrmic i les premses; i en els processos continus regeix les centrals elèctriques, les refineries, les depuradores i els circuits de refrigeració. En tots aquests casos, el PLC i el SCADA aporten la precisió, la  repetibilidad i la traçabilitat que la producció moderna exigeix.
+
+## Conclusions
+
+El control de processos per ordinador constitueix la base tècnica de la producció moderna, i el PLC és el seu element clau per la seva fiabilitat, la seva flexibilitat i la seva capacitat d'adaptació. La correcta programació, simulació, modificació i supervisió dels processos permet optimitzar els recursos, garantir la qualitat, reduir els temps de parada i augmentar la competitivitat de l'empresa. El tècnic de Fabricació Mecànica ha de dominar tant l'estructura i la programació del PLC com les estratègies de control digital i els sistemes supervisors que completen l'automatització d'una planta. Juntament amb el coneixement dels busos de camp i de la regulació PID, aquest domini constitueix la porta d'entrada a la mecatrònica, al *SCADA i a la Indústria 4.0, tecnologies que defineixen el present i el futur de la fabricació industrial.
