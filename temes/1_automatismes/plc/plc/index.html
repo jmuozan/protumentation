@@ -3076,6 +3076,28 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#relacio-plc-scada-xarxes-industrials" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Relació PLC - SCADA - Xarxes industrials
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conclusions
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3101,7 +3123,7 @@
 <p>Front a la lògica cablejada, la qual es robusta però poc flexible, el plc aporta flexibilitat mitjançant la capacitat d'adaptació mitjançant software, permetent la reconfiguració de màquines o sistemes de producció complets a noves tipologies de producte. </p>
 <p>En el següent tema es desenvoluparan els fonaments del plc, els elements que el componen, els llenguatges de programació i la manera de simular-los, així com sistemes avançats de control i supervisió.</p>
 <h2 id="contextualitzacio-en-fp">Contextualització en FP<a class="headerlink" href="#contextualitzacio-en-fp" title="Permanent link">&para;</a></h2>
-<p>Aquets temari forma part de la atribució docent de l'especialització Organització de projectes de fabricació mecànica amparat en la lleis 3/2022 d'ordenació dels estudis de formació professional. Juntament amb la tecnologia elèctrica, pneumàtica i hidràulica no només odna una visió general de l'automatització industrial, sinó que afavoreix el desenvolupament de les competències de disseny, diagnòstic i manteniment d'instal·lacions, necessàris per tècnics de programació de la producció. </p>
+<p>Aquet temari forma part de la atribució docent de l'especialització Organització de projectes de fabricació mecànica amparat en la lleis 3/2022 d'ordenació dels estudis de formació professional. Juntament amb la tecnologia elèctrica, pneumàtica i hidràulica no només odna una visió general de l'automatització industrial, sinó que afavoreix el desenvolupament de les competències de disseny, diagnòstic i manteniment d'instal·lacions, necessàris per tècnics de programació de la producció. </p>
 <h2 id="control-de-processos-industrials-per-ordinador">Control de processos industrials per ordinador<a class="headerlink" href="#control-de-processos-industrials-per-ordinador" title="Permanent link">&para;</a></h2>
 <p>El control per ordinador consisteix en el comandament, supervisió i regulació d'un sistema mitjançant un dispositiu electrònic programable. L'objectiu es que un procés es desenvolupe sota uns criteris, recorregint-se automàticament i prenent decisions d'acord amb el context. </p>
 <p>A diferència de la lògica cablejada, la qual es desenvolupava mitjançant conjunts de relés els quals s'anaven accionant entre ells, on els canvis implicaven recablejar tot el sistema, els plcs presenten una alternativa més ràpida, eficaç i adaptable. A més presenten compatibilitats i capacitat de conversió de senyals analògics i digitals.</p>
@@ -3136,6 +3158,13 @@
 <p>Al control adaptatiu, el controlador ajusta automàticament els paràmetres en funció del comportament del sistema, adaptantse als canvis. És molt utilitzat en processos no lineals i variables.</p>
 <p>El control predictiu basat en models (MCP), utilitza un model matemàtic del procés per predir els estats futurs i calcular l'actuació òptima. Permet anticipar-se al comportament del sistema. S'utilitza en processos compexes. </p>
 <p>Darrerament, els sistemes SCADA, monitoritzen la instal·lació, registren les dades històriques, alarmes, i visualitzen el procés en temps real mitjançant interfícies gràfiques. Són essencials per la gestió global de la planta, ja que ofereixen una visió de tots el prrocessos en planta, i les ferramentes per diagnosticar, documentar. Aquestes màquines, també inclouen pnatalles, botons panels tàctils... (HMI) per facilitar l'ajustament i diagnòstic in situ.</p>
+<h2 id="relacio-plc-scada-xarxes-industrials">Relació PLC - SCADA - Xarxes industrials<a class="headerlink" href="#relacio-plc-scada-xarxes-industrials" title="Permanent link">&para;</a></h2>
+<p>El PLC actua a nivell de control executant la lògica del procés, l'SCADA, a un nivell superior, supervisant la informació de diveros PLCs i transmetemtla a sistemes superiors a la jerarquia</p>
+<p>La interconnexió dels equips es recolza en els busos de camp i les xarxes industrials: Profibus, Modbus, Profinet, EtherNet/IP, EtherCAT i CANopen. Per a la interoperabilitat segura entre el control i els sistemes de gestió s'empra l'estàndard OPC UA. La tendència actual són les xarxes deterministes sobre *Ethernet i la creixent importància de la ciberseguretat industrial.</p>
+<p>El sistema supervisor emmagatzema les tendències, els temps de cicle, els valors del procés i els esdeveniments crítics, la qual cosa habilita l'anàlisi del rendiment, la traçabilitat de la producció i el manteniment predictiu.</p>
+<p>El control industrial per ordinador és present en tots els sectors productius. En la indústria manufacturera governa robots, cèl·lules de soldadura, centres de mecanitzat i línies de muntatge; en els processos per lots i en la fabricació mecànica controla el dosatge, les mescles, el tractament tèrmic i les premses; i en els processos continus regeix les centrals elèctriques, les refineries, les depuradores i els circuits de refrigeració. En tots aquests casos, el PLC i el SCADA aporten la precisió, la  repetibilidad i la traçabilitat que la producció moderna exigeix.</p>
+<h2 id="conclusions">Conclusions<a class="headerlink" href="#conclusions" title="Permanent link">&para;</a></h2>
+<p>El control de processos per ordinador constitueix la base tècnica de la producció moderna, i el PLC és el seu element clau per la seva fiabilitat, la seva flexibilitat i la seva capacitat d'adaptació. La correcta programació, simulació, modificació i supervisió dels processos permet optimitzar els recursos, garantir la qualitat, reduir els temps de parada i augmentar la competitivitat de l'empresa. El tècnic de Fabricació Mecànica ha de dominar tant l'estructura i la programació del PLC com les estratègies de control digital i els sistemes supervisors que completen l'automatització d'una planta. Juntament amb el coneixement dels busos de camp i de la regulació PID, aquest domini constitueix la porta d'entrada a la mecatrònica, al *SCADA i a la Indústria 4.0, tecnologies que defineixen el present i el futur de la fabricació industrial.</p>
 
 
 
