@@ -1,2 +1,51 @@
-Modernisme i art-déco a Europa. El Modernisme. La importància de l'ornamentació en el
-disseny, la producció industrial i l'arquitectura. Les arts aplicades.
+# Modernisme i art-déco a Europa. El Modernisme. La importància de l'ornamentació en el disseny, la producció industrial i l'arquitectura. Les arts aplicades.
+
+## El naixement d'una estètica industrial a Alemanya
+
+El país germànic realitzà una curiosa síntesi dels ideals socialistes anglesos i dels interessos capitalistes de la seva puixant indústria, perquè aspirava a una total reconciliació de l'artesania artística amb la producció massiva. Porcellana, rajoles, paper pintat, catifes, llums i mobles no eren concebuts com a peces úniques; els artistes estaven convençuts que, per mitjà de la seva reproducció, s'aconseguiria l'educació del gust de les masses i una certa democratització del consum, cosa que en darrer terme redundava en unes extraordinàries perspectives d'ampliació de mercats. Així, doncs, el desig de fer arribar l'art a totes les capes de la població s'unia als interessos de l'economia del país, la qual, per aquesta orientació culturitzada de la indústria, obtenia substanciosos beneficis.
+
+A partir del 1870 la innovació i l'avenç tecnològic s'anaren desplaçant de Gran Bretanya a Alemanya, i es pot dir que amb el canvi de segle començaria a incubar-s'hi la teoria i la pràctica del disseny industrial d'una manera sistemàtica. La presa de consciència per part de la indústria, dels estaments oficials i dels artistes, dels beneficis econòmics i socials de la fusió entre l'art i la indústria fou certament precoç en relació amb altres països. En traspassar el segle, els països germànics van ostentar la màxima avantguarda en el terreny de la definició i l'aplicació de la nova ideologia projectual.
+
+## L'Art Nouveau
+
+El fenomen de l'Art Nouveau s'ha d'entendre dins del marc d'una revolució estètica i refinada, encara que mancada del compromís social que posseïren els seus inspiradors. I, malgrat que no qüestionà les relacions de producció existents, despertà en l'artista la necessitat de cercar noves respostes formals per als nous temps.
+
+L'Art Nouveau retornà la dignitat a l'objecte i col·locà molts artistes quasi en el llindar del disseny industrial, però és evident que l'estètica que destil·lava no estava concebuda per a la producció en sèrie. Les "formes lliures" eren difícilment reproduïbles per procediments mecànics. De totes maneres, foren els alemanys, i sobretot Henry van de Velde, els primers artistes que afirmaren rotundament que el fet de confiar la producció industrial als artistes no constituïa una decadència ni un rebaixament.
+
+## De l'estilització escocesa a la simplicitat austríaca
+
+A pesar de ser el bressol de l'Art Nouveau, Anglaterra mai no s'abandonaria del tot al naturalisme exacerbat dels modernistes continentals. El mateix Mackmurdo aviat abandonaria les corbes del seu propi estil. La poca difusió de l'estil modernista en l'arquitectura i el mobiliari anglesos es deu al conservadurisme i el pragmatisme de la burgesia victoriana.
+
+A Escòcia hi hagué, concretament a Glasgow, una petita comunitat d'artistes que, treballant conjuntament amb l'arquitecte Charles Rennie Mackintosh (1868-1928), seguí en tota la seva obra l'esperit de l'Art Nouveau, però al mateix temps elaborant una línia molt més depurada. Mackintosh i els seus col·laboradors arribaren a produir un estil personalíssim que reduïa la decoració a l'indispensable. Al voltant del 1900, i amb només trenta anys, l'obra de Mackintosh oferia ja unes insòlites abundor, claredat i versatilitat.
+
+El florejat estil Art Nouveau dels països del sud d'Europa aviat fou considerat a Alemanya i a Àustria com un estil mancat de fonament. En arribar el final de segle es produí allà una espècie de Jugendstil exquisit i moderat que, malgrat participar en general del mateix esperit de renovació formal del moviment modernista, aviat rebutjaria la inspiració naturalista. Viena seria la primera ciutat que tornaria al quadrat i a la línia recta, sense abandonar, però, l'elegància i el preciosisme en el tractament dels materials propis de l'Art Nouveau.
+
+## Viena a la fi de segle
+
+La situació política, econòmica i social en què es trobava la capital austríaca entorn del 1896 constituïa un terreny adobat per a una revolució artística i cultural. Viena era, d'una banda, la seu d'una cort imperial ostentosa i decadent; d'altra banda, tampoc no havia pogut escapar de les contrarietats inherents a la Revolució Industrial, i es trobava envoltada de suburbis on la classe obrera vivia en unes lamentables condicions de salubritat i habitatge. Entre tots dos extrems de l'espectre social es trobava una acabalada classe mitjana que canalitzà els seus diners i la seva energia vers el terreny de l'art.
+
+Els edificis públics del Ringstrasse havien servit tot el repertori formal de la història d'Occident: el neogòtic de l'ajuntament, el neoclàssic del parlament, el neorenaixement del teatre de l'òpera. La il·lustrada burgesia vienesa es trobava, a més, fascinada per tot allò que provenia d'Anglaterra i, molt especialment, pel moviment renovador de l'Arts and Crafts, de manera que no és estrany que l'arquitecte Mackintosh fos rebut allà amb els braços oberts. De tota manera, el reconeixement de l'obra dels escocesos fou més social que no pas artístic, perquè pocs dissenyadors austríacs es van adscriure a la seva pesada poesia d'estilitzades roses i donzelles.
+
+L'activisme renovador dels vienesos s'inicià l'any 1897, quan un grup d'artistes d'avantguarda, capitanejats pel pintor Gustav Klimt, decidí separar-se de la Casa dels Artistes amb el propòsit de trobar un ambient més propici on exposar la seva obra i la d'altres contemporanis europeus. L'estil Secessió es convertí en una particular, rigorosa i destil·lada versió de l'Art Nouveau, que tindria el seu màxim exponent no únicament en les arts visuals, sinó també en l'artesania artística i en el disseny de l'objecte decoratiu.
+
+## Els Wiener Werkstaette
+
+Les atrevides i interessants improvisacions gràfiques de "Ver Sacrum" serien dutes més enllà en la producció dels Wiener Werkstaette (Tallers de Viena), fundats el 1903 sota el patrocini de l'acabalat Fritz Waerndorfer. Els Wiener Werkstaette intentaren reproduir a Àustria l'experiència anglesa de l'Arts and Crafts: es tractava, en definitiva, d'una cooperativa d'artistes i artesans reconeguts que intentaren elevar, per mitjà d'una producció d'una altíssima qualitat, el treball de l'artesania a la categoria de les Belles Arts.
+
+## Thonet i Kohn: el mobiliari de fusta corbada
+
+De tota manera, la primacia absoluta de la casa Thonet començaria a declinar pels volts del 1900, quan el seu competidor més directe, l'empresa de Jacob i Josef Kohn, no tan sols accelerà dràsticament el procés productiu gràcies a la introducció del vapor a pressió —que permetia multiplicar per vint la velocitat de fabricació—, sinó que a més en poc temps abandonà la imitació dels models del seu competidor per crear els seus propis models gràcies a la contractació dels serveis dels dissenyadors dels Wiener Werkstaette. La indústria del mobiliari austríac i de la firma Kohn creà una inconfusible tipologia de mobles que encara avui gaudeixen d'acceptació en el continent europeu per la seva fortalesa, la seva durabilitat i el seu refinament estètic.
+
+## Otto Wagner i Adolf Loos: el debat sobre l'ornament
+
+Però l'aportació vienesa al disseny modern no fou exclusivament formal, sinó que també tingué vessants teòrics extraordinàriament lúcids i controvertits. El debat sobre l'ornament polaritzaria una de les polèmiques més grans sobre el present i el futur d'aquell estil que volia identificar-se amb la seva pròpia època. Els arquitectes Otto Wagner (1841-1918) i Adolph Loos (1870-1933) serien els principals protagonistes de la discussió, encara que, sens dubte, fou Loos qui acabaria convertint-se amb el temps en un dels crítics més lúcids i irascibles d'aquell moment històric, perquè no cessà en tota la seva vida de mostrar la seva disconformitat amb els estaments implicats en l'oferta i la demanda d'arquitectura i disseny que eren directament culpables de la decadència formal en què havia caigut la fi de segle.
+
+Amb el canvi de segle la crítica de Loos es dedicà a atacar el preciosisme car i exclusivista que destil·lava tota la producció artística de la Secessió, considerant aquella preocupació per l'estilització total de l'entorn com un crim contra el poble, perquè requeria, en definitiva, una enorme inversió de treball manual i temps en favor d'uns pocs. El 1908 publicà el seu cèlebre article *L'ornament i el delicte*, on traçà el nexe d'unió entre l'evolució cultural i l'eliminació de l'ornament en els articles d'ús quotidià; atacà la intrínseca obsolescència de l'ornament dels dissenyadors del modernisme floral i acabà per proclamar que l'absència d'ornament era signe de fortalesa espiritual.
+
+Hereu de les idees de Semper, Adolph Loos contemplà l'artista-dissenyador com una figura superflua, que no podia superar la inevitable correcció de les formes simples que creava l'artesania vernacla.
+
+## La fi de la primavera vienesa
+
+Amb la Primera Guerra Mundial i la caiguda de l'Imperi Austro-hongarès el 1918, la primavera cultural de la moderna Viena fou interrompuda bruscament. L'escissió de l'Imperi en quatre Estats privà la capital vienesa d'aquell creuament de llengües i cultures que havia constituït la seva riquesa més gran. La mort en el front d'alguns dels seus millors artistes i la progressiva minva de la comunitat jueva significaren la fi del mecenatge sota el qual havien nascut i crescut genis i talents.
+
+La història donaria la raó als artistes austríacs i alemanys. El futur pertanyia als abstractes i no als naturalistes i, encara que no d'una forma immediata, l'estilització acabaria essent substituïda per l'abstracció. El florejat Modernisme es quedà en un carreró sense sortida; el *fin de siècle* havia creat un estil de vida artificiós, decadent i hereu del segle XIX, que, passats els primers moments d'entusiasme, despertaria virulents corrents contraris, ja que fou, en realitat, un estil de transició sobre el qual els crítics no acaben de posar-se d'acord en l'aspecte de si fou l'últim estil històric o si fou el primer moviment modern.
