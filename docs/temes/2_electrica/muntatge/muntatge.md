@@ -3,7 +3,7 @@
 El muntatge d'equips electromecànics i instal·lacions és la fase que connecta el projecte amb l'explotació real d'una cosa o sistema productiu. La seua responsabilitat tècnica és elevada però, no consisteix únicament a fer un ensamblatge, s'escau, interpretar la documentació, les toleràncies geomètriques, assegurar la compatibilitat elèctrica i de control, ajustar paràmetres, realitzar proves segures i finalitzar amb uns posada en marxa segura. 
 Un muntatge deficient no es detecta a l'instant, es veu en les temperatures que assoleix, vibracions, pèrdues de precissió, desgast dels rodaments i, en el pitjor dels casos, accidents. Aquesta activitat, pel seu caràcter escau coneixements de mecànica, automatització, electricitat, metrologia, fluids i prevenció. 
 
-El següent tema desenvoluparà, en primer lloc, el marc normatiu aplicable, després la planificació del muntatge i documentcaió, en tercer lloc, tècniques de muntatge i ensamblatge, i nivellació, subjecció i aliniació. Després d'això, el muntatge elèctric, ajustament de paràmetres, proves i posada en marxa. Per últim, els útils, ferramentes i equips utilitzats.
+El següent tema desenvoluparà, en primer lloc, el marc normatiu aplicable, després la planificació del muntatge i documentació, en tercer lloc, tècniques de muntatge i ensamblatge, nivellació, subjecció i aliniació. Després d'això, el muntatge elèctric, ajustament de paràmetres, proves i posada en marxa. Per últim, els útils, ferramentes i equips utilitzats.
 
 ## Normativa
 
@@ -14,13 +14,17 @@ En materia preventiva, la llei 31/1995 es la corona, acompanyada de l'rd 1627/19
 ## Planificació i documentació
 
 La documentació imprescindible compren: Els planols mecànics de conjunt i especejament, amb les seues toleràncies ajustaments i referències; els esquemes elèctrics de potència i manec amb la llista de senyals i numeració de conductors; els esquemes pneumàtics i hidràulics; manuals d'instal·lació i manteniment, que determinen la lubricació, l'estreny i valors admisibles; llista d'útils i ferramentes especials; i el pla de proves amb els criteris d'acceptació.
+
 L'estudi d'implantació verifica els requisits prèvis com la cimentació, planitud, anclatges previstos; aire comprimit i tractament; la hidràulica; refrigeració; espai i accessibilitat; espais de manteniment; vies d'evaquació; distància de seguretat; i logistica, amb les rutes d'entrada,  mitjans d'elevació i punts d'emmagatzematge temporal. 
+
 La seqüència típica de muntatge, compren la recepció de l'equip, verificació, posicionament, nivelació inicial, muntage dels sistemes de fluid i lubricació, muntatge elèctric, ajustaments i calibracions, proves amb càrrega i de seguretat, posada en marxa i documentació final. Aquesta seqüència ha de programarse amb tems i recursos i coordinarse amb la parada de la producció quan es realitza en una planta en funcionament. 
 
 ## Tècniques d'instal·lació i ensamblatge
 
-La recepció escomença amb la revisió i inspecció de l'embalatge, comprovant els colps corrosió. i humitat d'una banda i l'albarà i la llista d'altra, sense oblidar-se de verificar dimensionalment els elements crítics, documentant qualsevol incidència abans d'acceptar el subministrament. Per manipular els elements cal conèixer el pes, centre de gravetat i fer ús dels punts d'elevament indicats, mai els elements fràgils o els eixos, seleccionar eslinguesa amb el coeficient de seguretat adequat i considerar el seu àngle.
+La recepció escomença amb la revisió i inspecció de l'embalatge, comprovant els colps corrosió. i humitat d'una banda i l'albarà i la llista d'altra, sense oblidar-se de verificar dimensionalment els elements crítics, documentant qualsevol incidència abans d'acceptar el subministrament. Per manipular els elements cal conèixer el pes, centre de gravetat i fer ús dels punts d'elevament indicats, mai els elements fràgils o els eixos, seleccionar eslingues amb el coeficient de seguretat adequat i considerar el seu àngle.
+
 Respecte a l'ensamblatge mecànic, aquest ha de tindre en compte les tècniques d'unió de cada peça. En primer lloc les roscades, en aquestes s'escau la neteja de les rosques i les cares d'unió, l'element de bloqueig previst i l'apretament al par escífic. Aquest darrer, aplicat en la seqüència correcta i en diverses pasades, puix que el par determina la precarga del caragol. 
+
 Els ajustos amb apretament es realitzen mitjançant premsa o dilatació tèrmica, calfant l'element exterior en un forn o refredant l'element interior, tenint en compte les limitacions que els rodaments imposen. El muntatge de rodaments és molt delicat, l'esforç cal realitzar-ho sempre sobre l'ar que s'ajusta, i no sobre els elements rodants, respectant les precàrreges, el joc i la lubricació, que es la principal causa dels problemes dels rodaments. 
 
 ## Alineació, anivellament i fixació
@@ -39,3 +43,28 @@ La instal·lació comprén les canalitzacions, fixació dels cables, connexió d
 La posada a terra, és un element de seguretat essencial, ha de garantitzar la continuitat de totes les masses mitjançant conductors de protecció de secció adequada. Cal verificar-ho mitjançant la mesura de la resistència de terra i la continuitat. 
 
 Les comprovacions prèvies cal realitzar-les visualment, erificant la continuitat de conductors de protecció, mesurant la resistencia de aillament, i comprovant el sentit de gir dels motors, un d'incorrecte podria fer-los malbé
+
+L'ajustament de paràmetres comprén tots els valors que defineixen el comportament de l'equip: Variadors de freqüència, limitacions de corrent i par, mode de control, autoconfiguració i l'ajustament del llaç de control del par, la velocitat i la posició. Un incorrecte ajust pot provocar oscilacions.
+
+En les màquines de control numèric, els paràmetres de les màquines, compensacions de folgança i el pas del fusell
+
+Respecte als automats, la configuració del hardware, direccions, tems de cicle i paràmetres reguladors. 
+Als elements mecànics i de fluids, les pressions de tarat, caudals, finals de carrera, detectors i distàncies, tensions de corretges, i pars de limitadors. Tots estos paràmetres cal registrar-los a la documentació final, i fer-ne una còpia de seguretat, ja que la seua pèrdua, invalida l'equipament tot i que el hardware estiga intacte.
+
+## Proves i posada en marxa
+
+La posada en marxa es realitza per etapes, fent comprovacions abans de passar a la següent. Les comprovacions prèvies comprenen la revisió d'anclatges, presència i nivell de lubricants, neteja, retirada de ferramentes, embalatges i elements de transport, a més de la verificació de les proteccions.
+
+A continuació, es realitzen les proves elèctriques, sense tensió i després la posada en tensió fent les seues comprovacions. Les proves funcionals en buit, verifiquen el funcionament de cada element per separat i de les seqüències, verificant el sentit del gir, recorreguts, finals de carrera, detectors, vibracions, sorolls...
+
+Les proves de seguretat comproven el funcionament de les parades d'emergència, enclavaments, barreres, temps de paradsa i distàncies de seguretat. Aquests valors cal documentar-los correctament. 
+
+Les proves amb càrrega, verifiquen el funcionament en condicions reals, i les proves de producció o de acceptació, verifiquen que les peces obtingudes compleixen les especificacions, mitjançant la realització d'una sèrie xicoteta. En les màquines ferramenta, s'acompanya de la verificació d'acord amb la UNE-EN ISO 230. La recepció es formalitza amb el protocol signat, la entrega de la documentació final, els plànols, la llistra de recanvis, certificats, declaració de conformitat, formació del personal de operació i manteniment i la garantia. 
+
+és important establir el pla de manteniment des d'aquell punt.
+
+## Útils, ferramentes i equipaments
+
+Els mitjans utilitzats comprenen les ferramentes manuals de muntatge, claus fixes, tornavissos, alicats; martells de nylon, que eviten danyar les superfícies; multiplicadors de par, que controles l'apretament; ferramentes d'extacció; calfadors de rodaments; premses i gats hidràulics; equips d'elevació i manipulació, com carretilles, patins eslingues, ponts grua...; equips de mesura i verificació (regles i esquadres patró, comparadors, micròmetres, peus de rei, galges, alineadors làser...); equips elèctrics (multímetre, pinça amperimètrica, telurómetre, osciloscòpi...)
+
+Els mitjans auxiliars inclouen els equips d'aire comprimit; grups hidràulics, elements de neteja, materials per setgellar i elements de senyalització. A banda, per la protecció del treballador, resulta essencial utilitzar els EPIs 
