@@ -37,8 +37,7 @@ La alineació, n'és la part més crítica del muntatge, un motor i una bomba un
 
 ## Muntatge elèctric i ajustament de paràmetres
 
-Aquest comprén la construcció i instal·lació de quadres elèctrics, el cablejat, la posada a terra, d'acord amb 60204. El quadre, exigeix la disposició ordenada dels aparells tenint en compte la disipació tèrmica, accesibilitat, el cablejat, els colors normalitzats, separació entre circuits de potència i manec, etiqutat de conductors i bornes, connexió de pantalles i correcta protecció davant l'ambient. 
-La instal·lació comprén les canalitzacions, fixació dels cables, connexió de la màquina a la xarxa amb proteccions.
+Aquest comprén la construcció i instal·lació de quadres elèctrics, el cablejat, la posada a terra, d'acord amb 60204. El quadre, exigeix la disposició ordenada dels aparells tenint en compte la disipació tèrmica, accesibilitat, el cablejat, els colors normalitzats, separació entre circuits de potència i manec, etiqutat de conductors i bornes, connexió de pantalles i correcta protecció davant l'ambient. La instal·lació comprén les canalitzacions, fixació dels cables, connexió de la màquina a la xarxa amb proteccions.
 
 La posada a terra, és un element de seguretat essencial, ha de garantitzar la continuitat de totes les masses mitjançant conductors de protecció de secció adequada. Cal verificar-ho mitjançant la mesura de la resistència de terra i la continuitat. 
 
@@ -59,9 +58,7 @@ A continuació, es realitzen les proves elèctriques, sense tensió i després l
 
 Les proves de seguretat comproven el funcionament de les parades d'emergència, enclavaments, barreres, temps de paradsa i distàncies de seguretat. Aquests valors cal documentar-los correctament. 
 
-Les proves amb càrrega, verifiquen el funcionament en condicions reals, i les proves de producció o de acceptació, verifiquen que les peces obtingudes compleixen les especificacions, mitjançant la realització d'una sèrie xicoteta. En les màquines ferramenta, s'acompanya de la verificació d'acord amb la UNE-EN ISO 230. La recepció es formalitza amb el protocol signat, la entrega de la documentació final, els plànols, la llistra de recanvis, certificats, declaració de conformitat, formació del personal de operació i manteniment i la garantia. 
-
-és important establir el pla de manteniment des d'aquell punt.
+Les proves amb càrrega, verifiquen el funcionament en condicions reals, i les proves de producció o de acceptació, verifiquen que les peces obtingudes compleixen les especificacions, mitjançant la realització d'una sèrie xicoteta. En les màquines ferramenta, s'acompanya de la verificació d'acord amb la UNE-EN ISO 230. La recepció es formalitza amb el protocol signat, la entrega de la documentació final, els plànols, la llistra de recanvis, certificats, declaració de conformitat, formació del personal de operació i manteniment i la garantia. És important establir el pla de manteniment des d'aquell punt.
 
 ## Útils, ferramentes i equipaments
 

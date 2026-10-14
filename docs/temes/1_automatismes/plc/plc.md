@@ -34,7 +34,7 @@ Es distingeixen els *PLC compactes, que integren la CPU i un nombre fix d'entrad
 
 ## Programació d'un PLC
 
-La programació d'un plc implica el disseny i traducció de la lògica que governarà un plc de manera cíclica en un programa d'ordinador. Per suposar un bon hardware sense uuna bona lògica no es pot concebre, per aquest motiu és imperatiu crear un bon programa.
+La programació d'un plc implica el disseny i traducció de la lògica que governarà un plc de manera cíclica en un programa d'ordinador. Per suposar un bon hardware sense una bona lògica no es pot concebre, per aquest motiu és imperatiu crear un bon programa.
 
 Els plcs es fonamenten en un funcionament cíclic on; es llegeixen les entrades mitjançant sensors; s'envien els valors rebuts a la cpu, la qual filtra i neteja els senyals captats; s'actualitzen les eixides, manant ordres als actuadors; i, per últim, es realitzen tasques de comunicació i diagnòstic. Tot aquest cicle es realitza en qëstió de milisegons.
 
