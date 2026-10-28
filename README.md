@@ -85,16 +85,89 @@ compressió i cisallament. Torsió. Flexió. Vinclament.
 - [ ] Els riscos generals en la feina i la seua prevenció. Els factors de risc i les condicions de treball. Els principis de l'acció prevenƟva. L'organització de la prevenció. Mètodes de protecció i prevenció. Estris personals de protecció i disposiƟus de seguretat en la maquinària.
 - [ ] Protecció mediambiental, tractament de residus. Aproﬁtament i eliminació de residus.
 
-<!--
-## Mòdul 3. Conformació de materials
-- [x] 10. Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació.
-- [x] 12. Conformació de xapa: processos amb separació de material i sense.
-tempre, reveniment, recuita, nitruració, anodització, galvanització
-- [x] 13. Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils, prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
 
-## Mòdul 5. Processos de mecanització i control numèric
-- [x] 18. Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
-- [x] 19. Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
-- [x] 20. Programació i control numèric: automatització, programació CNC i robots industrials.
-- [x] 21. Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
--->
+
+
+
+# Mòdul 1. Metrologia i normalització
+- Fonaments de metrologia dimensional: unitats, patrons, precisió, traçabilitat i pla de calibratge.
+- Normalització: toleràncies, sistema ISO, ajustos, simbologia i calibres passa/no passa.
+- Tècniques de mesurament I: instruments de mesura de longituds, micromètrics i nònius.
+- Tècniques de mesurament II: mesura de rugositat superficial, MMC i toleràncies geomètriques.
+- Calibratge i verificació d'instruments de mesura: mètodes, equips i certificació del calibratge.
+
+# Mòdul 2. Processos d'emmotlament i fosa
+- Fonaments de la conformació per emmotlament: característiques, materials i disseny de sistemes.
+- Conformació per emmotlament en arena: tipus d'arena, control i preparació.
+- Tècniques de fosa especials: fosa a pressió, en conquilla i centrífuga.
+- Qualitat en peces foses: classificació de defectes i regles de disseny.
+
+# Mòdul 3. Conformació de materials
+- Fonaments de la conformació per deformació plàstica: fonaments i anàlisis de tensió i deformació.
+- Processos de deformació volumètrica: laminatge, forjat, extrusió i trefilatge.
+- Conformació de xapa: processos amb separació de material i sense.
+- Processos de conformació de materials polimèrics i compostos: injecció, extrusió, termoconformació, bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmotlament centrífug, bobinatge de fils,
+prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
+- Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
+
+# Mòdul 4. Processos d'unió
+- Fonaments de la soldadura: processos d'unió, soldabilitat i simbologia.
+- Tècniques de soldadura elèctrica: SMAW, TIG, MIG/MAG, soldadura per plasma, soldadura per resistència i soldadura làser.
+- Altres processos d'unió: soldadura oxiacetilènica i adhesius.
+
+# Mòdul 5. Processos de mecanització i control numèric
+- Generalitats de la conformació per arrancada de material: conceptes bàsics i eines de tall
+- Màquines eina: planejadora, llimadora, mortasadora, brotxadora, torn, fresadora, perforadora i rectificadora.
+- Programació i control numèric: automatització, programació CNC i robots industrials.
+- Mecanització d'alta precisió: electroerosió, rectificació, tornejament i fresatge de precisió.
+
+# Mòdul 6. Fabricació additiva
+- Introducció a la fabricació additiva: tecnologies i aplicacions.
+- Tecnologies d'impressió 3D: FDM, SLA, SLS i materials usats.
+- Processament i postprocessament de peces additives: paràmetres, optimització i validació de peces.
+
+# Mòdul 7. Enginyeria inversa
+- Fonaments d'enginyeria inversa: definició, aplicacions i beneficis en la indústria.
+- Digitalització 3D i reconstrucció de models: escaneig 3D, tècniques de reconstrucció i programari.
+
+# Mòdul 8: Ofimàtica i informàtica aplicada
+- Coneixements bàsics d'ofimàtica: Windows, Word, Excel, PowerPoint.
+- Coneixements complementaris d'informàtica: Autocad, Mastercam, programari de disseny i simulació.
+
+# Mòdul 9. Seguretat i salut
+- Protecció en laboratoris i tallers: riscos mecànics, elèctrics i químics.
+ Ergonomia del lloc de treball i pantalles de visualització: riscos posturals i visuals.
+- Planificació de l'activitat preventiva de riscos: implementació i control.
+- Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. Informació accessible en: http://www.sprl.upv.es/guiapracalummecan.htm
+- Els equips de treball. Informació accessible en: http://www.sprl.upv.es/d7_9_b.htm
+
+# Mòdul 10. Control de qualitat i gestió de laboratori
+- Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
+- Gestió del laboratori: inventari, manteniment i organització.
+- Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. Informació accessible en: http://www.upv.es/medioambiente.
+
+
+
+
+
+
+
+---
+
+- Conocimientos de prevención y riesgos laborales en los laboratorios de Escultura.
+- Madera: tipos de madera, mecanizado y corte, encolados y tratamientos de superficie. Tipos de ensambles y
+empalmes para la construcción de estructuras y formas con madera: encofrados y encolados para talla escultórica. Tipos de
+herramientas: afilado y puesta a punto de la maquinaria para madera.
+- Metales: tipologías y características, sus ensamblajes y soldaduras. Corte y soldadura en hierro, herramienta y
+equipos necesarios. Puesta a punto de la maquinaria.
+- Fundición: Fundamentos del proceso de fundición de una escultura, técnica a la cascarilla cerámica. Herramienta y accesorios necesarios para el proceso de fundición. Descripción del proceso de fundición a la cera perdida. Procesos de microfusión. Herramientas y accesorios necesarios.
+- Talla: procesos y materiales. Maquinaria, equipos y herramientas.
+- Procesos cerámicos. Funcionamiento, mantenimiento y gestión de los hornos cerámicos.
+- Modelado y técnicas de construcción de estructuras.
+- Moldes y vaciados. Técnicas y materiales. Positivados. Materiales y técnicas.
+- Imagen digital: Hardware y software de retoque de imagen Digital. Cámaras digitales fotográfica. Requerimientos de PC y Mac.
+- Vídeo digital: Hardware y software de edición de vídeo digital. Cámaras de video digitales. Comprensión, formatos y resoluciones. Requerimientos de PC y Mac.
+- Audio analógico y digital: Audio analógico: Fundamentos del sonido acústico y electrónico. Equipos analógicos de sonido. Grabación y postproducción/ Audio Digital: Hardware y software de edición. Fundamentos de edición y postproducción. Requerimientos de PC y Mac.
+- Informática: Funcionamiento, instalación de software, mantenimiento y actualización de hardware de PC y Mac. Configuración de entornos de Sistemas Operativos (DOS, WINDOWS e IOS). Configuración y gestión de entornos de red local.
+- Scaneado y Modelado digital 3D. Funcionamiento fundamentales software y hardware. Instalación, calibrado y funcionalidades básicas. Conocimientos fundamentales de modelado paramétrico y poligonal.
+- Impresión 3D y Corte Laser. Funcionamiento, calibrado, mantenimiento de impresoras, máquinas corte laser y materiales

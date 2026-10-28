@@ -6,7 +6,7 @@ El tema desenvolupa, en primer lloc, la classificació dels motors i els seus pr
 
 ## Classificació i principis
 
-Els de corrent altern trifàsics asincrons o de inducció són els més utilitzats a la industria. L'estator, alimentat amb un sistema trifàsic, crea un camp magnètic giratori, aquest camp indueix corrents al rotor, el qual gira a una velocitat inferior, puix que sense diferència, no hi hauria inducció. El rotor pot ser de gabia d'esquirol, amb barres d'alumini o cobre curtcircuitades, robust, econòmic i sense manteniment elèctric, o bobinat amb anells lliscants, que permet intercalar resitències en el rotor per millorar l'arrancada i millorar la velocitat, hui en dia està en desús gràcies als variadors. 
+Els de corrent altern trifàsics asincrons o de inducció són els més utilitzats a la industria. L'estator, alimentat amb un sistema trifàsic, crea un camp magnètic giratori, aquest camp indueix corrents al rotor, el qual gira a una velocitat inferior, puix que sense diferència, no hi hauria inducció. El rotor pot ser de gabia d'esquirol, amb barres d'alumini o cobre curtcircuitades, robust, econòmic i sense manteniment elèctric, o bobinat amb anells lliscants, que permet intercalar resistències en el rotor per millorar l'arrancada i millorar la velocitat, hui en dia està en desús gràcies als variadors. 
 
 Els motors síncrons giren exactament a la velocitat del sincronisme i els d'imants permanents són la base dels servomotors; els monofàsics, es limiten a potències baixes.
 
@@ -15,7 +15,6 @@ Els de corrent continua, formats per un inductor i un induït, ofereixen una reg
 ## Placa de característiques
 
 UNE-EN 60034 es un document d'identitat del motor i la primera referència per la seua instal·lació i manteniment. Conté el fabricant, tipus i número de sèrie; potència nominal (mecànica útil); tensions nominals i la connexió corresponent; la freqüència; velocitat nominal a plena càrrega; rendiment, juntament amb la classe de eficiència; servei o règim de funcionament; classe tèrmica de l'aillament; grau de protecció IP; factor de servei; dades dels rodaments i lubricació. Una correcta interpretació d'aquestes dades permet dimensionar la línia i les proteccions.
-
 
 ## Connexió de la placa de bornas
 
@@ -29,13 +28,11 @@ Els motors de corrent continu, disposen de bornes per l'induït, per l'exitació
 
 Els motors s'han de protegir davant les sobrecàrregues, curtcircuits, falta de fase, sobretensions, subtensions, calfament excessiu, y defectes d'aillament. A banda, ha de protegir les persones d'avant contactes directes i indirectes. La protecció davant curcircuits es realitza mitjançant fusibles o a interruptors automàtics magnètics; Davant les sobrecàrregues al relé tèrmic, que simula el calfament del motor.
 
-La falta de fase, que fa funcionar al motor en monofàsic amb sobreintensitat, es detecxta gràcies al diferencial de fases dels relés tèrmics, o amb relés de vigilància de xarxa; la protecció tèrmica directa es fa amb sondes PTC, les quals mesuren la temperatura real i protegeixen davant de causes que no alteren el corrent com la obstrucció del ventilador o les temperatures ambient elevades. La protecció de les persones es garantitza itjançant la posada a terra de la carcasa i dels diferencials. Els relés electrònics de protecció integren totes estes funcions i a banda, afegeixen la protecció contra el bloqueig del rotor, les arrancades excesives i comuniquen amb el sistema de control. 
+La falta de fase, que fa funcionar al motor en monofàsic amb sobreintensitat, es detecta gràcies al diferencial de fases dels relés tèrmics, o amb relés de vigilància de xarxa; la protecció tèrmica directa es fa amb sondes PTC, les quals mesuren la temperatura real i protegeixen davant de causes que no alteren el corrent com la obstrucció del ventilador o les temperatures ambient elevades. La protecció de les persones es garantitza mitjançant la posada a terra de la carcasa i dels diferencials. Els relés electrònics de protecció integren totes estes funcions i a banda, afegeixen la protecció contra el bloqueig del rotor, les arrancades excesives i comuniquen amb el sistema de control. 
 
 ## Refrigeració, acoblaments i subjecció
 
-Les pèrdues del motor en el cobre i el ferro es transformen en calor que ha d'evacuar-se per no superar la temperadura admisible del aillament. El mètode de refrigeració es designa amb el codi IC. Existeixen amb ventilador propi montat sobre l'eix, natural sense ventilador, amb conductes de refrigeració per aigua.
-
-El grau de protecció es designa amb IP la primera xifra és la protecció davant els sòlids, mentre que la segona davant l'aigua. La instal·lació ha de garantitzar la lliure circulació de l'aire de refrigeració, respectar la distancia lliure darrere del ventilador, i mantindre netes les aletes. 
+Les pèrdues del motor en el cobre i el ferro es transformen en calor que ha d'evacuar-se per no superar la temperadura admisible del aillament. El mètode de refrigeració es designa amb el codi IC. Existeixen amb ventilador propi montat sobre l'eix, natural sense ventilador, amb conductes de refrigeració per aigua.El grau de protecció es designa amb IP la primera xifra és la protecció davant els sòlids, mentre que la segona davant l'aigua. La instal·lació ha de garantitzar la lliure circulació de l'aire de refrigeració, respectar la distancia lliure darrere del ventilador, i mantindre netes les aletes. 
 
 La transmissió del par del motor a la màquina pot ser directa, mitjançant acoblament quan les velocitats coincideixen o mitjançant transmissió intermitja de corretges, engranatges, cadenes o reductors quan és necessari adaptar velocitat i par. Els acoblamernts poden ser rígids, que exigeixen alineació perfecta (màquina i motor formen conjunt indeformable) o elàstics i flexibles. L'alineament, però, és crític, els acoblaments flexibles ho toleren però no l'eliminen i pot provocar esforços, vibraments i rotures. 
 
@@ -48,7 +45,7 @@ L'alimentació ha de proporcionar la tensió i la freqüència nominals amb vari
 El motor asincron absorbeix en l'arrancada directa un corrent de 5 a 8 vegades la nominal, que produeix caigudes de tensió en la xarxa i esforços mecànics en la transmissió. Per aquest motiu, s'utilitzen sistemes d'arrancada que redueixen aquesta punta. El reglament limita per motors connectats a les xarxes públiques la relació entre el corrent d'arrancada i el nominal. 
 
 L'arrancada directa amb contactor i guardamotor és la més senzilla i la que proporciona el par més elevat.
-L'arrancada estrella triàngle, connecta inicialment connecta inicialment el motor en estrella amb el que cada fase rep: la tensió reduïda en arrel de 3 i la corrent i el par d'arrancada es redueixen un terç. La tensió nominal del motor ha de coincidir amb la xarxa, i. és unicament adequat per màquines que arrenquen amb poca càrrega, com ventiladors o bombes. 
+L'arrancada estrella triàngle, connecta inicialment connecta inicialment el motor en estrella amb el que cada fase rep: la tensió reduïda en arrel de 3 i la corrent i el par d'arrancada es redueixen un terç. La tensió nominal del motor ha de coincidir amb la xarxa, i és unicament adequat per màquines que arrenquen amb poca càrrega, com ventiladors o bombes. 
 L'arrancada suau o progressiva, utilitza tiristors per elevar gradualment la tensió eliminant els colps mecànics, i limitant el corrent, permet també una parada suau.
 
 El variador de freqüència arranca el motor augmentant simultàniament la freqüència i la tensió, cosa que provoca que el motor augmente el seu par nominal des de velocitat nula, amb un corrent pròxim al nominal, aquest mètodo permet regular la velocitat.

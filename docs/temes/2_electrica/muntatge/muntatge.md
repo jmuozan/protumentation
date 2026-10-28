@@ -41,7 +41,7 @@ Aquest comprén la construcció i instal·lació de quadres elèctrics, el cable
 
 La posada a terra, és un element de seguretat essencial, ha de garantitzar la continuitat de totes les masses mitjançant conductors de protecció de secció adequada. Cal verificar-ho mitjançant la mesura de la resistència de terra i la continuitat. 
 
-Les comprovacions prèvies cal realitzar-les visualment, erificant la continuitat de conductors de protecció, mesurant la resistencia de aillament, i comprovant el sentit de gir dels motors, un d'incorrecte podria fer-los malbé
+Les comprovacions prèvies cal realitzar-les visualment, verificant la continuitat de conductors de protecció, mesurant la resistencia de aillament, i comprovant el sentit de gir dels motors, un d'incorrecte podria fer-los malbé
 
 L'ajustament de paràmetres comprén tots els valors que defineixen el comportament de l'equip: Variadors de freqüència, limitacions de corrent i par, mode de control, autoconfiguració i l'ajustament del llaç de control del par, la velocitat i la posició. Un incorrecte ajust pot provocar oscilacions.
 
