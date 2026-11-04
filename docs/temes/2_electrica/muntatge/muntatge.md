@@ -1,6 +1,7 @@
 # Muntatge d'equips electromecànics i instal·lacions. Normativa. Tècniques d'instal·lació i acoblament de màquines i/o equips. Alineació, anivellament i fixació de les màquines. Muntatge i construcció d'equips i instal·lacions elèctriques. Ajust dels paràmetres. Proves i posada en marxa de les instal·lacions. Útils, ferramentes i equips emprats.
 
 El muntatge d'equips electromecànics i instal·lacions és la fase que connecta el projecte amb l'explotació real d'una cosa o sistema productiu. La seua responsabilitat tècnica és elevada però, no consisteix únicament a fer un ensamblatge, s'escau, interpretar la documentació, les toleràncies geomètriques, assegurar la compatibilitat elèctrica i de control, ajustar paràmetres, realitzar proves segures i finalitzar amb uns posada en marxa segura. 
+
 Un muntatge deficient no es detecta a l'instant, es veu en les temperatures que assoleix, vibracions, pèrdues de precissió, desgast dels rodaments i, en el pitjor dels casos, accidents. Aquesta activitat, pel seu caràcter escau coneixements de mecànica, automatització, electricitat, metrologia, fluids i prevenció. 
 
 El següent tema desenvoluparà, en primer lloc, el marc normatiu aplicable, després la planificació del muntatge i documentació, en tercer lloc, tècniques de muntatge i ensamblatge, nivellació, subjecció i aliniació. Després d'això, el muntatge elèctric, ajustament de paràmetres, proves i posada en marxa. Per últim, els útils, ferramentes i equips utilitzats.
