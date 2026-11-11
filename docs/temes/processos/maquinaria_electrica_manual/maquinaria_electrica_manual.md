@@ -1,1 +1,0 @@
-Maquinària elèctrica manual per a la fusta. CaracterísƟques, usos i normes de seguretat.Maquinària elèctrica manual per a la fusta. CaracterísƟques, usos i normes de seguretat.

@@ -1,1 +1,0 @@
-Talla de fusta. Tipus de talla. Eines.
