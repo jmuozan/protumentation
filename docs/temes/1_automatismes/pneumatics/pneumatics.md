@@ -24,7 +24,7 @@ La producció de treball mecànic útil mitjançant la compressió es fonamenta 
 - Llei de Gay-Lussac: La qual represerntsa olum constant P/T = constant
 - Llei de Charles: La qual representa la pressió constant V/T = constant
 
-Aquestes llei representen clarament com l'augment de temperatura augmenta la pressió i per aquesta raó, perquè cal referirse a condicions normals 1013mBar/ 0graus
+Aquestes lleis representen clarament com l'augment de temperatura augmenta la pressió i per aquesta raó, perquè cal referirse a condicions normals 1013mBar/ 0graus
 
 La pneumàtica, presenta grans avantatges, com la disponibilitat practicament ilimitada del fluid, la seguretat davant explosions o incendis, el baix cost dels components i la capacitat de treballar en ambients humids i bruts.
 

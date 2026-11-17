@@ -30,7 +30,7 @@ Els ajustos amb apretament es realitzen mitjançant premsa o dilatació tèrmica
 
 ## Alineació, anivellament i fixació
 
-L'anivellament situa a una màquina en una posició geométrica correcta respecte a l'horitzontal, eliminant les deformacions que un suport irregular introdueix sobre l'estructura. Pot provocar-se certa torsió que afecte les vies i per tant la peça final produïda. Aquesta alineació es realitza utilitzant nivells de bombolla de sensibilitat de dos centèsimes de milímetre per metre, o bé amb nivells electrònics o làser, recolzats sobre les superfícies de referència que indicaq el fabricant. Les comprovacions són iteratives, puix que cada correcció afecta a la resta, a banda, cal repetirla una vegada els anclatges s'han apretat. 
+L'anivellament situa a una màquina en una posició geométrica correcta respecte a l'horitzontal, eliminant les deformacions que un suport irregular introdueix sobre l'estructura. Pot provocar-se certa torsió que afecte les vies i per tant la peça final produïda. Aquesta alineació es realitza utilitzant nivells de bombolla de sensibilitat de dos centèsimes de milímetre per metre, o bé amb nivells electrònics o làser, recolzats sobre les superfícies de referència que indica el fabricant. Les comprovacions són iteratives, puix que cada correcció afecta a la resta, a banda, cal repetirla una vegada els anclatges s'han apretat. 
 
 La fixació es l'encarregada de transmetre al terra els esforços i manté la posició. Es realitza mitjançant perns d'ancoratge, ancoratges químics o mecànics d'expansió, ancorats progresivament i en seqüència. 
 

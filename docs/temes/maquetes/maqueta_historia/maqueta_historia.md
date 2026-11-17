@@ -1,1 +1,0 @@
-La maqueta. Evolució històrica. Exemples més signiﬁcaƟus.

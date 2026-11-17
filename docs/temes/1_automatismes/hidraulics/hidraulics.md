@@ -64,7 +64,7 @@ Respecte a les vàlvules, són les encarregades de dirigir i controlar el caudal
 
 Els actuadors són els encarregats de transformar l'energia en moviment. Existeixen els cilíndres que poden ser: d'efecte simple, quan només una de les cambre es activa i el retorn es realitza per forces externes o per un moll; de doble efecte, que permet activar dues càmeres per realitzar un retorn hidràulic; telescòpic, i d'impacte, per reblons. Per calcular la força exercida pels cilindres s'utilitza la fòrmula F=pxA, als de doble efecte, per calcular el retocés, caldra descomptar l'àrea del plançò. 
 
-Cal també mencionar els elements auxiliars, necessaris pel correcte funcionament. Entre aquests es poden destacar: Els filtres, encarregats de extraure les partícules als fluids; els intercanviadros de calor, que regulen la tempratura; els acumuladors, que emmagatzemen energia hidràulica; i els manómetres i presostats, que mesuren la pressió i msanen senyasl elèctrics.
+Cal també mencionar els elements auxiliars, necessaris pel correcte funcionament. Entre aquests es poden destacar: Els filtres, encarregats de extraure les partícules als fluids; els intercanviadros de calor, que regulen la tempratura; els acumuladors, que emmagatzemen energia hidràulica; i els manómetres i presostats, que mesuren la pressió i msanen senyals elèctrics.
 
 ## Valors característics en els circuits
 
@@ -85,7 +85,7 @@ A fi de que es puguen generar senyals elèctrics escauen sensors al circuit, els
 
 Una vegada s'ha generat la resposta, seràn les vàlvules les encarregades d'activar-se i regular el caudal i direcció. Per aquest motiu a l'electrohidràulica es fa ús d'electrovàlvues i servovàlvules, les primeres s'activen mitjançant una bobina que s'exita, mou la posició, pasant d'oberta a tancada o viceversa; per altra banda, la servo vàlvula otorga més control, ja que permet controlar l'entrada de líquid i regular-la en proporció al senyal elèctric.
 
-El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requeris de lògica programada. Si es b usca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seq¨ències complexes, enclavaments i condicins de seguretat. 
+El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requeris de lògica programada. Si es busca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seq¨ències complexes, enclavaments i condicins de seguretat. 
 
 L'electrohidràuloca, però, planteja una complicació afegida a l'hora de representar esquemes normalitzats, puix que, afegit a la norma ISO 1219 de representació hidràulica, s'ha d'afegir la norma IEC 60617 de representació d'esquemes elèctrics. D'aquesta manera, s'escau una doble representació amb referències entrecreuades.
 

@@ -28,15 +28,15 @@ El PLC rep informació captada pels sensors, la transforma i procesa d'acord amb
 
 Respecte a la seua estructura, aquest consta de una cpu, que es el cervell de l'element, mòduls d'entrada, eixida i mòduls de comunicació i expansió, que ho connecten amb altres equips.
 
-El plc consta d'entrades i eixides digitals (si/no 1/0) i analògiques (temperatura, pressió...), les quals es passen a formats normalitzats, les eixides digitals accionen, relés, contactors, electrobvàlvules... mentre que les analògiques govewrnen reguladors de velocitat, o vàlvules proporcionals. Això permet al plc controlar tant la lògica com la regulació d'un procés. 
+El plc consta d'entrades i eixides digitals (si/no 1/0) i analògiques (temperatura, pressió...), les quals es passen a formats normalitzats, les eixides digitals accionen, relés, contactors, electrobvàlvules... mentre que les analògiques governen reguladors de velocitat, o vàlvules proporcionals. Això permet al plc controlar tant la lògica com la regulació d'un procés. 
 
-Es distingeixen els *PLC compactes, que integren la CPU i un nombre fix d'entrades i sortides en un sol bloc, adequats per a màquines petites; els modulars, ampliables mitjançant bastidors i targetes, per a instal·lacions grans i complexes; els distribuïts, formats per petits *PLC comunicats en xarxa; i els *PLC de seguretat, dissenyats per a executar funcions crítiques certificades pel seu nivell d'integritat *SIL
+Es distingeixen els PLC compactes, que integren la CPU i un nombre fix d'entrades i sortides en un sol bloc, adequats per a màquines petites; els modulars, ampliables mitjançant bastidors i targetes, per a instal·lacions grans i complexes; els distribuïts, formats per petits *PLC comunicats en xarxa; i els PLC de seguretat, dissenyats per a executar funcions crítiques certificades pel seu nivell d'integritat SIL
 
 ## Programació d'un PLC
 
 La programació d'un plc implica el disseny i traducció de la lògica que governarà un plc de manera cíclica en un programa d'ordinador. Per suposar un bon hardware sense una bona lògica no es pot concebre, per aquest motiu és imperatiu crear un bon programa.
 
-Els plcs es fonamenten en un funcionament cíclic on; es llegeixen les entrades mitjançant sensors; s'envien els valors rebuts a la cpu, la qual filtra i neteja els senyals captats; s'actualitzen les eixides, manant ordres als actuadors; i, per últim, es realitzen tasques de comunicació i diagnòstic. Tot aquest cicle es realitza en qëstió de milisegons.
+Els plcs es fonamenten en un funcionament cíclic on; es llegeixen les entrades mitjançant sensors; s'envien els valors rebuts a la cpu, la qual filtra i neteja els senyals captats; s'actualitzen les eixides, manant ordres als actuadors; i, per últim, es realitzen tasques de comunicació i diagnòstic. Tot aquest cicle es realitza en qüestió de milisegons.
 
 Respecte dels llenguatges necessàris per la programació d'un plc, aquests estan regulats per una norma iec la qual determina 5 llenguatges estàndard: Information list, Structured list (molt utilitzat per càlculs), Ladder (molt simple / utilitzat per tècnics), per blocs d'informació i grafcet per seqüències.
 
