@@ -21,7 +21,7 @@
       
       
       <link rel="icon" href="../../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.1">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.2">
     
     
       
@@ -346,7 +346,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../../normalitzacio/croquisacio/croquisacio/" class="md-tabs__link">
+        <a href="../../../normalitzacio/croquisacio/croquisacio.md" class="md-tabs__link">
           
   
   
@@ -1700,7 +1700,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../normalitzacio/croquisacio/croquisacio/" class="md-nav__link">
+      <a href="../../../normalitzacio/croquisacio/croquisacio.md" class="md-nav__link">
         
   
   
@@ -1728,7 +1728,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../normalitzacio/normalitzacio/normalitzacio/" class="md-nav__link">
+      <a href="../../../normalitzacio/normalitzacio/normalitzacio.md" class="md-nav__link">
         
   
   
@@ -1756,7 +1756,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../normalitzacio/topografia/topografia/" class="md-nav__link">
+      <a href="../../../normalitzacio/topografia/topografia.md" class="md-nav__link">
         
   
   
@@ -2354,7 +2354,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../processos/cnc/cnc/" class="md-nav__link">
+      <a href="../../../processos/cnc/cnc.md" class="md-nav__link">
         
   
   
@@ -3158,7 +3158,7 @@
 <ul>
 <li>Caudal: Ho determina la velocitat Q=vxt, cal trobar-ne un equilibri adequat, puix que un de molt elevat podria provocar moviments no controlats i un de baix podria provocar moviments més erràtics.</li>
 <li>Pressió: És la força exercida pel fluid, les aplicacions industrials treballen habitualment sota 100-350 bar.</li>
-<li>Força: És la força exercida pels actuadors, F=pxA, resulta important diferenciar entre la idea l i la real, a la que caldra afegir el factor</li>
+<li>Força: És la força exercida pels actuadors, F=pxA, resulta important diferenciar entre la ideal i la real, a la que caldra afegir el factor</li>
 <li>Pèrdues: Pèrdues provocades per fugues o insercions d'altres elements, aquestes poden reduir la pressió que és possible exercir pel fluid.</li>
 <li>Rendiment: Es distingeix el rendiment volumètric (afectat per fugues internes), del mecànic (Afectat per rosaments), i del global, el producte de ambdós. </li>
 <li>Temperatura: Si s'eleva massa, pot afectar la viscositat i degradar el fluid, habitualment es manté sota uns 50-60 graus.</li>
@@ -3167,8 +3167,8 @@
 <p>A fi de obtenir un millor control amb una elevada precissió, introduint-hi autòmates programables s'utilitza la electrohidràulica, aquesta combina la capacitat de control elèctrica, la qual és precisa i flexible amb la potència hidràulica, separant-ne els actuadors dels controladors.</p>
 <p>A fi de que es puguen generar senyals elèctrics escauen sensors al circuit, els quals transmetran posicions, trajectòries, temperatures, situacions ambientals, posicions, materials, pressions i activitat elèctrica a senyals interprestables per ordinador. Per això es fan servir: finals de carrera, sensors ambientals, fotoelèctrics, capacitius, presostats, termostats i LVDT entre altres.</p>
 <p>Una vegada s'ha generat la resposta, seràn les vàlvules les encarregades d'activar-se i regular el caudal i direcció. Per aquest motiu a l'electrohidràulica es fa ús d'electrovàlvues i servovàlvules, les primeres s'activen mitjançant una bobina que s'exita, mou la posició, pasant d'oberta a tancada o viceversa; per altra banda, la servo vàlvula otorga més control, ja que permet controlar l'entrada de líquid i regular-la en proporció al senyal elèctric.</p>
-<p>El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requeris de lògica programada. Si es busca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seq¨ències complexes, enclavaments i condicins de seguretat. </p>
-<p>L'electrohidràuloca, però, planteja una complicació afegida a l'hora de representar esquemes normalitzats, puix que, afegit a la norma ISO 1219 de representació hidràulica, s'ha d'afegir la norma IEC 60617 de representació d'esquemes elèctrics. D'aquesta manera, s'escau una doble representació amb referències entrecreuades.</p>
+<p>El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requereix de lògica programada. Si es busca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seqüències complexes, enclavaments i condicions de seguretat. </p>
+<p>L'electrohidràulica, però, planteja una complicació afegida a l'hora de representar esquemes normalitzats, puix que, afegit a la norma ISO 1219 de representació hidràulica, s'ha d'afegir la norma IEC 60617 de representació d'esquemes elèctrics. D'aquesta manera, s'escau una doble representació amb referències entrecreuades.</p>
 <p>Mitjançant servovàlvules, sensors lineals i controladors digitals s'ajusten la posició i la velocitat amb enorme precisió, emprant un llaç tancat que compara contínuament la magnitud mesurada amb la consigna i corregeix l'error.</p>
 <h2 id="desenrotllaments-sequencials">Desenrotllaments seqüencials<a class="headerlink" href="#desenrotllaments-sequencials" title="Permanent link">&para;</a></h2>
 <p>La seqüenciació ordena els moviments de diveros actuuadors de manera que funcinen seguint un ordre. Mitjançant una notació abreviada el defineix amb signe + o - l'avançament o retrocés del cilindre i amb lletres (A, B, C...) els cilíndres, definint una seqüència completa.</p>
@@ -3181,7 +3181,7 @@
 <h2 id="conclusions">Conclusions<a class="headerlink" href="#conclusions" title="Permanent link">&para;</a></h2>
 <p>Els automatismes hidràulics es constitueixen essencials per la automatització industrial per causa de la seua capacitat de generar forces molt elevades i la seua precissió. La seua densitat de potència la converteix en una tecnologia essencial per la indústria pesada. </p>
 <p>El tècnic/a ha de comprendre els fonaments físics juntament amb els valors de dimensionament necessaris per poder dissenyar una instal·lació optima, per la qual caldrà seleccionar correctament tots els elements correctament d'acord amb la seua funció. Darrerament en cas de voler dissenyar un automatisme complexe, serà imperatiu conèixer els desenrotllaents seqüencials i l'implementació electehidràulica. </p>
-<p>Des del punt de vista de la docència el coneicement de cadascun dels apartats d'aquest tema juntament amb la pneumàtica i la elèctrica otorga a l'alumnat una visió general de l'automatització industrial, així com unes capacitats de muntatge, manteniment, diagnòstic i disseny essencials per tècnics de disseny i programació de la producció.</p>
+<p>Des del punt de vista de la docència el coneixement de cadascun dels apartats d'aquest tema juntament amb la pneumàtica i la elèctrica atorga a l'alumnat una visió general de l'automatització industrial, així com unes capacitats de muntatge, manteniment, diagnòstic i disseny essencials per tècnics de disseny i programació de la producció.</p>
 <h2 id="bibliografia">Bibliografia<a class="headerlink" href="#bibliografia" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Esposito, A. Fluid Power with Applications. Pearson Education.</li>
