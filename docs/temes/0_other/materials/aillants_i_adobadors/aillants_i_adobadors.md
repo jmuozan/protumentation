@@ -1,0 +1,1 @@
+Els materials aïllants i adobadors. Greixos. Desblocadors.

@@ -72,7 +72,7 @@ Tot i que es coneguen els diversos elements que componen un circuit i les seues 
 
 - Caudal: Ho determina la velocitat Q=vxt, cal trobar-ne un equilibri adequat, puix que un de molt elevat podria provocar moviments no controlats i un de baix podria provocar moviments més erràtics.
 - Pressió: És la força exercida pel fluid, les aplicacions industrials treballen habitualment sota 100-350 bar.
-- Força: És la força exercida pels actuadors, F=pxA, resulta important diferenciar entre la idea l i la real, a la que caldra afegir el factor
+- Força: És la força exercida pels actuadors, F=pxA, resulta important diferenciar entre la ideal i la real, a la que caldra afegir el factor
 - Pèrdues: Pèrdues provocades per fugues o insercions d'altres elements, aquestes poden reduir la pressió que és possible exercir pel fluid.
 - Rendiment: Es distingeix el rendiment volumètric (afectat per fugues internes), del mecànic (Afectat per rosaments), i del global, el producte de ambdós. 
 - Temperatura: Si s'eleva massa, pot afectar la viscositat i degradar el fluid, habitualment es manté sota uns 50-60 graus.
@@ -85,9 +85,9 @@ A fi de que es puguen generar senyals elèctrics escauen sensors al circuit, els
 
 Una vegada s'ha generat la resposta, seràn les vàlvules les encarregades d'activar-se i regular el caudal i direcció. Per aquest motiu a l'electrohidràulica es fa ús d'electrovàlvues i servovàlvules, les primeres s'activen mitjançant una bobina que s'exita, mou la posició, pasant d'oberta a tancada o viceversa; per altra banda, la servo vàlvula otorga més control, ja que permet controlar l'entrada de líquid i regular-la en proporció al senyal elèctric.
 
-El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requeris de lògica programada. Si es busca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seq¨ències complexes, enclavaments i condicins de seguretat. 
+El comandament elèctric es construeix mitjançant reles, temporitzadors i contactors quan es requereix de lògica programada. Si es busca flexibilitat s'implementen autòmats programables PLCs, els quals gestionaran seqüències complexes, enclavaments i condicions de seguretat. 
 
-L'electrohidràuloca, però, planteja una complicació afegida a l'hora de representar esquemes normalitzats, puix que, afegit a la norma ISO 1219 de representació hidràulica, s'ha d'afegir la norma IEC 60617 de representació d'esquemes elèctrics. D'aquesta manera, s'escau una doble representació amb referències entrecreuades.
+L'electrohidràulica, però, planteja una complicació afegida a l'hora de representar esquemes normalitzats, puix que, afegit a la norma ISO 1219 de representació hidràulica, s'ha d'afegir la norma IEC 60617 de representació d'esquemes elèctrics. D'aquesta manera, s'escau una doble representació amb referències entrecreuades.
 
 Mitjançant servovàlvules, sensors lineals i controladors digitals s'ajusten la posició i la velocitat amb enorme precisió, emprant un llaç tancat que compara contínuament la magnitud mesurada amb la consigna i corregeix l'error.
 
@@ -113,7 +113,7 @@ Els automatismes hidràulics es constitueixen essencials per la automatització 
 
 El tècnic/a ha de comprendre els fonaments físics juntament amb els valors de dimensionament necessaris per poder dissenyar una instal·lació optima, per la qual caldrà seleccionar correctament tots els elements correctament d'acord amb la seua funció. Darrerament en cas de voler dissenyar un automatisme complexe, serà imperatiu conèixer els desenrotllaents seqüencials i l'implementació electehidràulica. 
 
-Des del punt de vista de la docència el coneicement de cadascun dels apartats d'aquest tema juntament amb la pneumàtica i la elèctrica otorga a l'alumnat una visió general de l'automatització industrial, així com unes capacitats de muntatge, manteniment, diagnòstic i disseny essencials per tècnics de disseny i programació de la producció.
+Des del punt de vista de la docència el coneixement de cadascun dels apartats d'aquest tema juntament amb la pneumàtica i la elèctrica atorga a l'alumnat una visió general de l'automatització industrial, així com unes capacitats de muntatge, manteniment, diagnòstic i disseny essencials per tècnics de disseny i programació de la producció.
 
 ## Bibliografia
 

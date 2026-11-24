@@ -36,9 +36,9 @@ L'aire comprimit escau un procés a fi que els automatismes funcionen correctame
 
 L'aire està compost per nitrògen en un 78%, oxigen en un 20% i un 1% d'altres gassos com l'argó. A més, conté vapor d'aigua, partícules en suspensió, olis... Tot això són components que cal filtrar previament a l'ús de l'aire, puix que poden fer malbé als components del circuit. 
 
-La humitat és un dels grans problemes. Una vegada s'ha comprimit l'aire, s'abaixa la temperatura, això, però provoca que es genere aigua per condensació, la qual pot provocar corrossió. El punt. apartir del qual un gas condensa s'anomena Punt de Rosada (A més baixet, més sec). Per solventar aquest problema, entre les sol·lucions es destaquen la secada frigorífica per una banda que enfreden l'aire per precipitar aigua i secants d'adsorció, els quals retenen l'aigua en un material i que posteriorment cal filtrar i purgar.
+La humitat és un dels grans problemes. Una vegada s'ha comprimit l'aire, s'abaixa la temperatura, això, però provoca que es genere aigua per condensació, la qual pot provocar corrossió. El punt a partir del qual un gas condensa s'anomena Punt de Rosada (A més baixet, més sec). Per solventar aquest problema, entre les sol·lucions es destaquen la secada frigorífica per una banda que enfreden l'aire per precipitar aigua i secants d'adsorció, els quals retenen l'aigua en un material i que posteriorment cal filtrar i purgar.
 
-Quan l'aire es comprimeix, mitjançant un procés adiabàtic, experiment uns canvis de temperatura bruscos, i posteriorment, una vegada emmagatzemat, se enfreda novament, sent possible la generació d'aigua novament. Per aquest motiu, psoterior a la compressió, habitualment l'aire s'enfreda una segona vegada (aftercooler).
+Quan l'aire es comprimeix, mitjançant un procés adiabàtic, experimenta uns canvis de temperatura bruscos, i posteriorment, una vegada emmagatzemat, s'enfreda novament, sent possible la generació d'aigua novament. Per aquest motiu, psoterior a la compressió, habitualment l'aire s'enfreda una segona vegada (aftercooler).
 
 Els canvis de temperatura, que augmenten o disminueixen la densitat provoquen un estirament o contracció del gas. Aquests canvis són la raó de la pitjor precissió de la pneumàtica respecte d'altres mètodes d'automatització. L'expansió/compressió provoca retards, rebots i canvis de velocitat dels actuadors.
 
